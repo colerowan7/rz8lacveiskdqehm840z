@@ -1,0 +1,59 @@
+name: Run AI judgment layer
+
+# Manual only — never scheduled. This makes real, billed Anthropic API
+# calls (typically a few cents per run), so it only fires when you
+# explicitly click "Run workflow" (from github.com or the GitHub
+# mobile app), not automatically. Re-runs the full free pipeline first
+# so the AI review is grounded on fresh data, then layers judgment on
+# top and publishes both.
+
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  ai-insights:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Pull league data
+        env:
+          LEAGUE_ID: ${{ secrets.LEAGUE_ID }}
+          YEAR: ${{ secrets.YEAR }}
+          ESPN_S2: ${{ secrets.ESPN_S2 }}
+          SWID: ${{ secrets.SWID }}
+          MY_TEAM_INDEX: ${{ secrets.MY_TEAM_INDEX }}
+        run: python scripts/pull_league_data.py
+
+      - name: Fetch Sleeper data
+        run: python scripts/fetch_sleeper.py
+
+      - name: Fetch nflverse data
+        env:
+          YEAR: ${{ secrets.YEAR }}
+        run: python scripts/fetch_nflverse.py
+
+      - name: Run analysis
+        run: python scripts/analyze.py
+
+      - name: Run AI judgment layer
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/ai_insights.py
+
+      - name: Commit and push updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/latest.json data/report_latest.json
+          git diff --staged --quiet && echo "No changes." || (git commit -m "Update dashboard data with AI judgment [automated]" && git push)

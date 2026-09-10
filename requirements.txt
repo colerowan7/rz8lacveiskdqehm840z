@@ -1,0 +1,4 @@
+espn-api
+python-dotenv
+requests
+anthropic

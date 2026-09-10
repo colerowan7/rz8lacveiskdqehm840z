@@ -1,0 +1,56 @@
+name: Update dashboard data
+
+# Runs the free part of the pipeline (ESPN + Sleeper + nflverse + the
+# pure-arithmetic analysis) on a schedule and publishes the result via
+# GitHub Pages. Deliberately does NOT run ai_insights.py here — that
+# makes real, billed Anthropic API calls, so it's a separate,
+# manually-triggered workflow (see ai-insights.yml) instead of
+# something that fires automatically every few hours.
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" # every 6 hours
+  workflow_dispatch: {} # manual "Run workflow" button (works from the GitHub mobile app/site too)
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Pull league data
+        env:
+          LEAGUE_ID: ${{ secrets.LEAGUE_ID }}
+          YEAR: ${{ secrets.YEAR }}
+          ESPN_S2: ${{ secrets.ESPN_S2 }}
+          SWID: ${{ secrets.SWID }}
+          MY_TEAM_INDEX: ${{ secrets.MY_TEAM_INDEX }}
+        run: python scripts/pull_league_data.py
+
+      - name: Fetch Sleeper data
+        run: python scripts/fetch_sleeper.py
+
+      - name: Fetch nflverse data
+        env:
+          YEAR: ${{ secrets.YEAR }}
+        run: python scripts/fetch_nflverse.py
+
+      - name: Run analysis
+        run: python scripts/analyze.py
+
+      - name: Commit and push updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/latest.json data/report_latest.json
+          git diff --staged --quiet && echo "No changes." || (git commit -m "Update dashboard data [automated]" && git push)

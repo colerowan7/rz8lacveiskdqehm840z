@@ -1,0 +1,14 @@
+# Secrets — never commit these
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Large intermediate data files, regenerated fresh on every pipeline run.
+# Only the two files the dashboard actually reads (latest.json,
+# report_latest.json) are committed/published.
+data/sleeper_data.json
+data/nflverse_trends.json
+data/league_data_week*.json
+data/report_week*.json
