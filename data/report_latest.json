@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T00:05:23.019804+00:00",
+  "generated_at": "2026-09-10T02:02:42.119158+00:00",
   "week": 1,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "Junkyard Dawgs (JK)",
@@ -36,13 +36,7 @@
       "impact": 2.6,
       "headline": "Add Jaguars D/ST (D/ST) - would start immediately",
       "detail": "Projected for 20.2 pts this week - +2.6 more than your weakest rostered D/ST, Eagles D/ST (17.6 proj). You have 1 open bench spot(s), so you wouldn't need to drop anyone. This would actually start over your starting D/ST Eagles D/ST (17.6 proj) - real points, not just bench depth.",
-      "ref_id": "waiver_D/ST_0",
-      "ai_verdict": {
-        "agree_with_default": true,
-        "confidence": "medium",
-        "verdict": "Agree \u2014 add Jacksonville and start it over the Eagles",
-        "reasoning": "Cleveland's offense is one of the league's worst at protecting the quarterback and holding onto the ball, which is exactly what produces sacks and turnovers for a fantasy defense. With a free bench spot you give up nothing to grab the better matchup, and 2.6 points is a real gap for a defense."
-      }
+      "ref_id": "waiver_D/ST_0"
     },
     {
       "category": "waiver",
@@ -50,20 +44,14 @@
       "impact": 0.8,
       "headline": "Add Chris Boswell (K) - would start immediately",
       "detail": "Projected for 15.8 pts this week - +0.8 more than your weakest rostered K, Harrison Butker (14.9 proj). You have 1 open bench spot(s), so you wouldn't need to drop anyone. This would actually start over your starting K Harrison Butker (14.9 proj) - real points, not just bench depth.",
-      "ref_id": "waiver_K_0",
-      "ai_verdict": {
-        "agree_with_default": false,
-        "confidence": "low",
-        "verdict": "Pass \u2014 keep Butker, but Boswell is the one I'd revisit",
-        "reasoning": "Boswell is genuinely one of the most accurate long-range kickers and Pittsburgh's offense stalls in field-goal range often, but 0.8 points is not enough to justify burning your only bench spot on a second kicker. Honestly, I have no real edge over the projections here."
-      }
+      "ref_id": "waiver_K_0"
     },
     {
       "category": "trending",
       "urgent": false,
       "impact": 0.5,
       "headline": "Darren Waller (TE) is trending on Sleeper",
-      "detail": "171,981 adds in the last 24h - possibly worth a speculative add.",
+      "detail": "182,115 adds in the last 24h - possibly worth a speculative add.",
       "ref_id": null
     }
   ],
@@ -75,7 +63,7 @@
         "name": "Chris Brooks",
         "pro_team": "GB",
         "projected_points": 8.44,
-        "percent_owned": 9.62,
+        "percent_owned": 9.81,
         "beats_your_weakest_by": 1.4,
         "weakest_player": "Keaton Mitchell",
         "would_start_this_week": false,
@@ -89,7 +77,7 @@
         "name": "Justice Hill",
         "pro_team": "BAL",
         "projected_points": 7.87,
-        "percent_owned": 19.14,
+        "percent_owned": 19.03,
         "beats_your_weakest_by": 0.9,
         "weakest_player": "Keaton Mitchell",
         "would_start_this_week": false,
@@ -103,7 +91,7 @@
         "name": "George Holani",
         "pro_team": "SEA",
         "projected_points": 7.25,
-        "percent_owned": 4.35,
+        "percent_owned": 4.39,
         "beats_your_weakest_by": 0.3,
         "weakest_player": "Keaton Mitchell",
         "would_start_this_week": false,
@@ -119,7 +107,7 @@
         "name": "Tre Tucker",
         "pro_team": "LV",
         "projected_points": 11.52,
-        "percent_owned": 28.63,
+        "percent_owned": 28.87,
         "beats_your_weakest_by": 5.3,
         "weakest_player": "Travis Hunter",
         "would_start_this_week": true,
@@ -133,7 +121,7 @@
         "name": "Jalen Nailor",
         "pro_team": "LV",
         "projected_points": 10.59,
-        "percent_owned": 13.29,
+        "percent_owned": 13.25,
         "beats_your_weakest_by": 4.4,
         "weakest_player": "Travis Hunter",
         "would_start_this_week": false,
@@ -147,7 +135,7 @@
         "name": "Devaughn Vele",
         "pro_team": "NO",
         "projected_points": 10.41,
-        "percent_owned": 12.25,
+        "percent_owned": 12.22,
         "beats_your_weakest_by": 4.2,
         "weakest_player": "Travis Hunter",
         "would_start_this_week": false,
@@ -163,7 +151,7 @@
         "name": "Michael Mayer",
         "pro_team": "LV",
         "projected_points": 10.48,
-        "percent_owned": 9.01,
+        "percent_owned": 13.0,
         "beats_your_weakest_by": 1.1,
         "weakest_player": "George Kittle",
         "would_start_this_week": false,
@@ -177,7 +165,7 @@
         "name": "Pat Freiermuth",
         "pro_team": "PIT",
         "projected_points": 9.5,
-        "percent_owned": 14.75,
+        "percent_owned": 14.74,
         "beats_your_weakest_by": 0.1,
         "weakest_player": "George Kittle",
         "would_start_this_week": false,
@@ -191,7 +179,7 @@
         "name": "Dalton Schultz",
         "pro_team": "HOU",
         "projected_points": 9.41,
-        "percent_owned": 19.54,
+        "percent_owned": 19.61,
         "beats_your_weakest_by": 0.0,
         "weakest_player": "George Kittle",
         "would_start_this_week": false,
@@ -207,52 +195,34 @@
         "name": "Jaguars D/ST",
         "pro_team": "JAX",
         "projected_points": 20.24,
-        "percent_owned": 62.68,
+        "percent_owned": 63.23,
         "beats_your_weakest_by": 2.6,
         "weakest_player": "Eagles D/ST",
         "would_start_this_week": true,
         "reason": "Projected for 20.2 pts this week - +2.6 more than your weakest rostered D/ST, Eagles D/ST (17.6 proj). You have 1 open bench spot(s), so you wouldn't need to drop anyone. This would actually start over your starting D/ST Eagles D/ST (17.6 proj) - real points, not just bench depth.",
-        "recent_form": null,
-        "ai_verdict": {
-          "agree_with_default": true,
-          "confidence": "medium",
-          "verdict": "Agree \u2014 add Jacksonville and start it over the Eagles",
-          "reasoning": "Cleveland's offense is one of the league's worst at protecting the quarterback and holding onto the ball, which is exactly what produces sacks and turnovers for a fantasy defense. With a free bench spot you give up nothing to grab the better matchup, and 2.6 points is a real gap for a defense."
-        }
+        "recent_form": null
       },
       {
         "name": "Chargers D/ST",
         "pro_team": "LAC",
         "projected_points": 19.33,
-        "percent_owned": 58.92,
+        "percent_owned": 59.16,
         "beats_your_weakest_by": 1.7,
         "weakest_player": "Eagles D/ST",
         "would_start_this_week": true,
         "reason": "Projected for 19.3 pts this week - +1.7 more than your weakest rostered D/ST, Eagles D/ST (17.6 proj). You have 1 open bench spot(s), so you wouldn't need to drop anyone. This would actually start over your starting D/ST Eagles D/ST (17.6 proj) - real points, not just bench depth.",
-        "recent_form": null,
-        "ai_verdict": {
-          "agree_with_default": false,
-          "confidence": "medium",
-          "verdict": "Pass \u2014 Jacksonville is the better version of this same move",
-          "reasoning": "You only start one defense, so it makes no sense to spend a claim and your last bench spot on the second-best streamer; Arizona is a more competent offense than Cleveland and the edge is just 1.7 points. If you miss on the Jaguars, then Chargers becomes a fine fallback."
-        }
+        "recent_form": null
       },
       {
         "name": "Jets D/ST",
         "pro_team": "NYJ",
         "projected_points": 17.98,
-        "percent_owned": 4.75,
+        "percent_owned": 4.84,
         "beats_your_weakest_by": 0.4,
         "weakest_player": "Eagles D/ST",
         "would_start_this_week": true,
         "reason": "Projected for 18.0 pts this week - +0.4 more than your weakest rostered D/ST, Eagles D/ST (17.6 proj). You have 1 open bench spot(s), so you wouldn't need to drop anyone. This would actually start over your starting D/ST Eagles D/ST (17.6 proj) - real points, not just bench depth.",
-        "recent_form": null,
-        "ai_verdict": {
-          "agree_with_default": false,
-          "confidence": "high",
-          "verdict": "Pass \u2014 0.4 points is statistical noise",
-          "reasoning": "A 0.4-point projected edge is well inside the margin of error for defenses, where one fumble recovery swings five or more points, so this isn't an upgrade you can trust. Save the bench spot for a skill player with real upside."
-        }
+        "recent_form": null
       }
     ],
     "K": [
@@ -260,18 +230,12 @@
         "name": "Chris Boswell",
         "pro_team": "PIT",
         "projected_points": 15.76,
-        "percent_owned": 38.84,
+        "percent_owned": 38.79,
         "beats_your_weakest_by": 0.8,
         "weakest_player": "Harrison Butker",
         "would_start_this_week": true,
         "reason": "Projected for 15.8 pts this week - +0.8 more than your weakest rostered K, Harrison Butker (14.9 proj). You have 1 open bench spot(s), so you wouldn't need to drop anyone. This would actually start over your starting K Harrison Butker (14.9 proj) - real points, not just bench depth.",
-        "recent_form": null,
-        "ai_verdict": {
-          "agree_with_default": false,
-          "confidence": "low",
-          "verdict": "Pass \u2014 keep Butker, but Boswell is the one I'd revisit",
-          "reasoning": "Boswell is genuinely one of the most accurate long-range kickers and Pittsburgh's offense stalls in field-goal range often, but 0.8 points is not enough to justify burning your only bench spot on a second kicker. Honestly, I have no real edge over the projections here."
-        }
+        "recent_form": null
       },
       {
         "name": "Jake Elliott",
@@ -282,13 +246,7 @@
         "weakest_player": "Harrison Butker",
         "would_start_this_week": true,
         "reason": "Projected for 15.4 pts this week - +0.5 more than your weakest rostered K, Harrison Butker (14.9 proj). You have 1 open bench spot(s), so you wouldn't need to drop anyone. This would actually start over your starting K Harrison Butker (14.9 proj) - real points, not just bench depth.",
-        "recent_form": null,
-        "ai_verdict": {
-          "agree_with_default": false,
-          "confidence": "medium",
-          "verdict": "Pass \u2014 keep Butker",
-          "reasoning": "A 0.5-point projected difference between kickers is essentially a coin flip, and Butker sits in a high-scoring Kansas City offense that keeps producing scoring chances. Not worth a waiver claim or your last roster spot."
-        }
+        "recent_form": null
       }
     ]
   },
@@ -298,22 +256,21 @@
       "position": "TE",
       "pro_team": "CAR",
       "projected_points": 8.34,
-      "sleeper_adds_24h": 171981
+      "sleeper_adds_24h": 182115
     },
     {
       "name": "Matt Gay",
       "position": "K",
       "pro_team": "LV",
       "projected_points": 14.44,
-      "sleeper_adds_24h": 118680
+      "sleeper_adds_24h": 119390
     },
     {
       "name": "Justice Hill",
       "position": "RB",
       "pro_team": "BAL",
       "projected_points": 7.87,
-      "sleeper_adds_24h": 57186
+      "sleeper_adds_24h": 56817
     }
-  ],
-  "ai_reviewed_count": 5
+  ]
 }
