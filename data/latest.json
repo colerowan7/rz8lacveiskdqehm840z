@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-09-10T00:04:44.328782+00:00",
+  "pulled_at": "2026-09-10T02:02:39.948267+00:00",
   "league_id": 1934807293,
   "year": 2026,
   "current_week": 1,
@@ -29,7 +29,7 @@
         "pro_opponent": "WSH",
         "pro_pos_rank": 0,
         "on_bye_week": false,
-        "game_date": "2026-09-13 15:25:00",
+        "game_date": "2026-09-13 20:25:00",
         "lineup_slot": "RB"
       },
       {
@@ -45,7 +45,7 @@
         "pro_opponent": "IND",
         "pro_pos_rank": 0,
         "on_bye_week": false,
-        "game_date": "2026-09-13 12:00:00",
+        "game_date": "2026-09-13 17:00:00",
         "lineup_slot": "BE"
       },
       {
@@ -61,7 +61,7 @@
         "pro_opponent": "NYG",
         "pro_pos_rank": 0,
         "on_bye_week": false,
-        "game_date": "2026-09-13 19:20:00",
+        "game_date": "2026-09-14 00:20:00",
         "lineup_slot": "WR"
       },
       {
@@ -77,7 +77,7 @@
         "pro_opponent": "TB",
         "pro_pos_rank": 0,
         "on_bye_week": false,
-        "game_date": "2026-09-13 12:00:00",
+        "game_date": "2026-09-13 17:00:00",
         "lineup_slot": "QB"
       },
       {
@@ -93,7 +93,7 @@
         "pro_opponent": "LAR",
         "pro_pos_rank": 0,
         "on_bye_week": false,
-        "game_date": "2026-09-10 19:35:00",
+        "game_date": "2026-09-11 00:35:00",
         "lineup_slot": "BE"
       },
       {
@@ -109,7 +109,7 @@
         "pro_opponent": "PIT",
         "pro_pos_rank": 0,
         "on_bye_week": false,
-        "game_date": "2026-09-13 12:00:00",
+        "game_date": "2026-09-13 17:00:00",
         "lineup_slot": "TE"
       },
       {
@@ -121,11 +121,11 @@
         "percent_owned": -1,
         "percent_started": -1,
         "projected_points": 15.98,
-        "points": 0,
+        "points": 3.9,
         "pro_opponent": "SEA",
         "pro_pos_rank": 0,
         "on_bye_week": false,
-        "game_date": "2026-09-09 19:20:00",
+        "game_date": "2026-09-10 00:20:00",
         "lineup_slot": "RB"
       },
       {
@@ -141,7 +141,7 @@
         "pro_opponent": "CLE",
         "pro_pos_rank": 0,
         "on_bye_week": false,
-        "game_date": "2026-09-13 12:00:00",
+        "game_date": "2026-09-13 17:00:00",
         "lineup_slot": "BE"
       },
       {
@@ -157,7 +157,7 @@
         "pro_opponent": "DEN",
         "pro_pos_rank": 0,
         "on_bye_week": false,
-        "game_date": "2026-09-14 19:15:00",
+        "game_date": "2026-09-15 00:15:00",
         "lineup_slot": "K"
       },
       {
@@ -173,7 +173,7 @@
         "pro_opponent": "DEN",
         "pro_pos_rank": 0,
         "on_bye_week": false,
-        "game_date": "2026-09-14 19:15:00",
+        "game_date": "2026-09-15 00:15:00",
         "lineup_slot": "RB/WR/TE"
       },
       {
@@ -189,7 +189,7 @@
         "pro_opponent": "DEN",
         "pro_pos_rank": 0,
         "on_bye_week": false,
-        "game_date": "2026-09-14 19:15:00",
+        "game_date": "2026-09-15 00:15:00",
         "lineup_slot": "WR"
       },
       {
@@ -205,7 +205,7 @@
         "pro_opponent": "WSH",
         "pro_pos_rank": 0,
         "on_bye_week": false,
-        "game_date": "2026-09-13 15:25:00",
+        "game_date": "2026-09-13 20:25:00",
         "lineup_slot": "D/ST"
       },
       {
@@ -217,11 +217,11 @@
         "percent_owned": -1,
         "percent_started": -1,
         "projected_points": 7.0,
-        "points": 0,
+        "points": 0.0,
         "pro_opponent": "NE",
         "pro_pos_rank": 0,
         "on_bye_week": false,
-        "game_date": "2026-09-09 19:20:00",
+        "game_date": "2026-09-10 00:20:00",
         "lineup_slot": "BE"
       },
       {
@@ -237,7 +237,7 @@
         "pro_opponent": "PHI",
         "pro_pos_rank": 0,
         "on_bye_week": false,
-        "game_date": "2026-09-13 15:25:00",
+        "game_date": "2026-09-13 20:25:00",
         "lineup_slot": "BE"
       },
       {
@@ -253,7 +253,7 @@
         "pro_opponent": "NO",
         "pro_pos_rank": 0,
         "on_bye_week": false,
-        "game_date": "2026-09-13 12:00:00",
+        "game_date": "2026-09-13 17:00:00",
         "lineup_slot": "IR"
       },
       {
@@ -269,7 +269,7 @@
         "pro_opponent": "ARI",
         "pro_pos_rank": 0,
         "on_bye_week": false,
-        "game_date": "2026-09-13 15:25:00",
+        "game_date": "2026-09-13 20:25:00",
         "lineup_slot": "BE"
       }
     ]
@@ -296,7 +296,7 @@
         "pro_opponent": "HOU",
         "pro_pos_rank": 0,
         "on_bye_week": false,
-        "game_date": "2026-09-13 12:00:00",
+        "game_date": "2026-09-13 17:00:00",
         "lineup_slot": "RB"
       },
       {
@@ -312,7 +312,7 @@
         "pro_opponent": "MIA",
         "pro_pos_rank": 0,
         "on_bye_week": false,
-        "game_date": "2026-09-13 15:25:00",
+        "game_date": "2026-09-13 20:25:00",
         "lineup_slot": "TE"
       },
       {
@@ -328,7 +328,7 @@
         "pro_opponent": "DEN",
         "pro_pos_rank": 0,
         "on_bye_week": false,
-        "game_date": "2026-09-14 19:15:00",
+        "game_date": "2026-09-15 00:15:00",
         "lineup_slot": "RB"
       },
       {
@@ -344,7 +344,7 @@
         "pro_opponent": "DET",
         "pro_pos_rank": 0,
         "on_bye_week": false,
-        "game_date": "2026-09-13 12:00:00",
+        "game_date": "2026-09-13 17:00:00",
         "lineup_slot": "WR"
       },
       {
@@ -360,7 +360,7 @@
         "pro_opponent": "DAL",
         "pro_pos_rank": 0,
         "on_bye_week": false,
-        "game_date": "2026-09-13 19:20:00",
+        "game_date": "2026-09-14 00:20:00",
         "lineup_slot": "WR"
       },
       {
@@ -376,7 +376,7 @@
         "pro_opponent": "ATL",
         "pro_pos_rank": 0,
         "on_bye_week": false,
-        "game_date": "2026-09-13 12:00:00",
+        "game_date": "2026-09-13 17:00:00",
         "lineup_slot": "RB/WR/TE"
       },
       {
@@ -392,7 +392,7 @@
         "pro_opponent": "CLE",
         "pro_pos_rank": 0,
         "on_bye_week": false,
-        "game_date": "2026-09-13 12:00:00",
+        "game_date": "2026-09-13 17:00:00",
         "lineup_slot": "BE"
       },
       {
@@ -408,7 +408,7 @@
         "pro_opponent": "NO",
         "pro_pos_rank": 0,
         "on_bye_week": false,
-        "game_date": "2026-09-13 12:00:00",
+        "game_date": "2026-09-13 17:00:00",
         "lineup_slot": "QB"
       },
       {
@@ -424,7 +424,7 @@
         "pro_opponent": "CIN",
         "pro_pos_rank": 0,
         "on_bye_week": false,
-        "game_date": "2026-09-13 12:00:00",
+        "game_date": "2026-09-13 17:00:00",
         "lineup_slot": "BE"
       },
       {
@@ -436,11 +436,11 @@
         "percent_owned": -1,
         "percent_started": -1,
         "projected_points": 0.0,
-        "points": 0,
+        "points": 0.0,
         "pro_opponent": "NE",
         "pro_pos_rank": 0,
         "on_bye_week": false,
-        "game_date": "2026-09-09 19:20:00",
+        "game_date": "2026-09-10 00:20:00",
         "lineup_slot": "IR"
       },
       {
@@ -456,7 +456,7 @@
         "pro_opponent": "NYJ",
         "pro_pos_rank": 0,
         "on_bye_week": false,
-        "game_date": "2026-09-13 12:00:00",
+        "game_date": "2026-09-13 17:00:00",
         "lineup_slot": "BE"
       },
       {
@@ -472,7 +472,7 @@
         "pro_opponent": "IND",
         "pro_pos_rank": 0,
         "on_bye_week": false,
-        "game_date": "2026-09-13 12:00:00",
+        "game_date": "2026-09-13 17:00:00",
         "lineup_slot": "K"
       },
       {
@@ -488,7 +488,7 @@
         "pro_opponent": "CIN",
         "pro_pos_rank": 0,
         "on_bye_week": false,
-        "game_date": "2026-09-13 12:00:00",
+        "game_date": "2026-09-13 17:00:00",
         "lineup_slot": "D/ST"
       },
       {
@@ -504,7 +504,7 @@
         "pro_opponent": "JAX",
         "pro_pos_rank": 0,
         "on_bye_week": false,
-        "game_date": "2026-09-13 12:00:00",
+        "game_date": "2026-09-13 17:00:00",
         "lineup_slot": "BE"
       },
       {
@@ -520,7 +520,7 @@
         "pro_opponent": "JAX",
         "pro_pos_rank": 0,
         "on_bye_week": false,
-        "game_date": "2026-09-13 12:00:00",
+        "game_date": "2026-09-13 17:00:00",
         "lineup_slot": "BE"
       },
       {
@@ -536,7 +536,7 @@
         "pro_opponent": "TEN",
         "pro_pos_rank": 0,
         "on_bye_week": false,
-        "game_date": "2026-09-13 12:00:00",
+        "game_date": "2026-09-13 17:00:00",
         "lineup_slot": "BE"
       }
     ]
@@ -634,14 +634,14 @@
       "position": "QB",
       "pro_team": "MIA",
       "injury_status": "ACTIVE",
-      "percent_owned": 21.89,
-      "percent_started": 2.2,
+      "percent_owned": 21.74,
+      "percent_started": 2.21,
       "projected_points": 28.45,
       "points": 0,
       "pro_opponent": "LV",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 15:25:00",
+      "game_date": "2026-09-13 20:25:00",
       "lineup_slot": "FA"
     },
     {
@@ -650,14 +650,14 @@
       "position": "QB",
       "pro_team": "CAR",
       "injury_status": "ACTIVE",
-      "percent_owned": 11.08,
-      "percent_started": 1.2,
+      "percent_owned": 11.06,
+      "percent_started": 1.22,
       "projected_points": 30.41,
       "points": 0,
       "pro_opponent": "CHI",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 12:00:00",
+      "game_date": "2026-09-13 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -666,14 +666,14 @@
       "position": "QB",
       "pro_team": "TEN",
       "injury_status": "ACTIVE",
-      "percent_owned": 9.4,
+      "percent_owned": 9.34,
       "percent_started": 0.69,
       "projected_points": 27.73,
       "points": 0,
       "pro_opponent": "NYJ",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 12:00:00",
+      "game_date": "2026-09-13 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -682,14 +682,14 @@
       "position": "QB",
       "pro_team": "LV",
       "injury_status": "ACTIVE",
-      "percent_owned": 8.48,
-      "percent_started": 0.2,
+      "percent_owned": 8.37,
+      "percent_started": 0.18,
       "projected_points": 1.21,
       "points": 0,
       "pro_opponent": "MIA",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 15:25:00",
+      "game_date": "2026-09-13 20:25:00",
       "lineup_slot": "FA"
     },
     {
@@ -699,13 +699,13 @@
       "pro_team": "PIT",
       "injury_status": "ACTIVE",
       "percent_owned": 7.44,
-      "percent_started": 0.87,
+      "percent_started": 0.88,
       "projected_points": 29.98,
       "points": 0,
       "pro_opponent": "ATL",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 12:00:00",
+      "game_date": "2026-09-13 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -714,14 +714,14 @@
       "position": "QB",
       "pro_team": "ARI",
       "injury_status": "ACTIVE",
-      "percent_owned": 5.32,
+      "percent_owned": 5.3,
       "percent_started": 0.38,
       "projected_points": 27.77,
       "points": 0,
       "pro_opponent": "LAC",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 15:25:00",
+      "game_date": "2026-09-13 20:25:00",
       "lineup_slot": "FA"
     },
     {
@@ -730,14 +730,14 @@
       "position": "QB",
       "pro_team": "NYJ",
       "injury_status": "ACTIVE",
-      "percent_owned": 4.07,
+      "percent_owned": 4.05,
       "percent_started": 0.35,
       "projected_points": 28.29,
       "points": 0,
       "pro_opponent": "TEN",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 12:00:00",
+      "game_date": "2026-09-13 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -746,14 +746,14 @@
       "position": "QB",
       "pro_team": "LV",
       "injury_status": "ACTIVE",
-      "percent_owned": 3.08,
-      "percent_started": 0.52,
+      "percent_owned": 3.09,
+      "percent_started": 0.53,
       "projected_points": 30.16,
       "points": 0,
       "pro_opponent": "MIA",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 15:25:00",
+      "game_date": "2026-09-13 20:25:00",
       "lineup_slot": "FA"
     },
     {
@@ -762,14 +762,14 @@
       "position": "QB",
       "pro_team": "CLE",
       "injury_status": "ACTIVE",
-      "percent_owned": 2.28,
+      "percent_owned": 2.26,
       "percent_started": 0.06,
       "projected_points": 1.16,
       "points": 0,
       "pro_opponent": "JAX",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 12:00:00",
+      "game_date": "2026-09-13 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -785,7 +785,7 @@
       "pro_opponent": "JAX",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 12:00:00",
+      "game_date": "2026-09-13 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -801,7 +801,7 @@
       "pro_opponent": "PIT",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 12:00:00",
+      "game_date": "2026-09-13 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -810,14 +810,14 @@
       "position": "QB",
       "pro_team": "ATL",
       "injury_status": "OUT",
-      "percent_owned": 1.0,
+      "percent_owned": 0.99,
       "percent_started": 0.03,
       "projected_points": 0.0,
       "points": 0,
       "pro_opponent": "PIT",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 12:00:00",
+      "game_date": "2026-09-13 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -826,14 +826,14 @@
       "position": "QB",
       "pro_team": "ARI",
       "injury_status": "ACTIVE",
-      "percent_owned": 0.76,
+      "percent_owned": 0.75,
       "percent_started": 0.02,
       "projected_points": 0.0,
       "points": 0,
       "pro_opponent": "LAC",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 15:25:00",
+      "game_date": "2026-09-13 20:25:00",
       "lineup_slot": "FA"
     },
     {
@@ -849,7 +849,7 @@
       "pro_opponent": "GB",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 15:25:00",
+      "game_date": "2026-09-13 20:25:00",
       "lineup_slot": "FA"
     },
     {
@@ -865,7 +865,7 @@
       "pro_opponent": "DEN",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-14 19:15:00",
+      "game_date": "2026-09-15 00:15:00",
       "lineup_slot": "FA"
     },
     {
@@ -874,14 +874,14 @@
       "position": "RB",
       "pro_team": "PHI",
       "injury_status": "ACTIVE",
-      "percent_owned": 19.98,
+      "percent_owned": 19.82,
       "percent_started": 0.48,
       "projected_points": 4.9,
       "points": 0,
       "pro_opponent": "WSH",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 15:25:00",
+      "game_date": "2026-09-13 20:25:00",
       "lineup_slot": "FA"
     },
     {
@@ -890,14 +890,14 @@
       "position": "RB",
       "pro_team": "BAL",
       "injury_status": "ACTIVE",
-      "percent_owned": 19.14,
-      "percent_started": 0.8,
+      "percent_owned": 19.03,
+      "percent_started": 0.82,
       "projected_points": 7.87,
       "points": 0,
       "pro_opponent": "IND",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 12:00:00",
+      "game_date": "2026-09-13 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -906,14 +906,14 @@
       "position": "RB",
       "pro_team": "SF",
       "injury_status": "ACTIVE",
-      "percent_owned": 15.83,
-      "percent_started": 0.2,
+      "percent_owned": 15.75,
+      "percent_started": 0.21,
       "projected_points": 3.49,
       "points": 0,
       "pro_opponent": "LAR",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-10 19:35:00",
+      "game_date": "2026-09-11 00:35:00",
       "lineup_slot": "FA"
     },
     {
@@ -922,14 +922,14 @@
       "position": "RB",
       "pro_team": "NYJ",
       "injury_status": "ACTIVE",
-      "percent_owned": 13.45,
+      "percent_owned": 13.32,
       "percent_started": 0.26,
       "projected_points": 5.19,
       "points": 0,
       "pro_opponent": "TEN",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 12:00:00",
+      "game_date": "2026-09-13 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -938,14 +938,14 @@
       "position": "RB",
       "pro_team": "NYG",
       "injury_status": "ACTIVE",
-      "percent_owned": 12.75,
+      "percent_owned": 12.67,
       "percent_started": 0.51,
       "projected_points": 5.24,
       "points": 0,
       "pro_opponent": "DAL",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 19:20:00",
+      "game_date": "2026-09-14 00:20:00",
       "lineup_slot": "FA"
     },
     {
@@ -954,14 +954,14 @@
       "position": "RB",
       "pro_team": "BUF",
       "injury_status": "ACTIVE",
-      "percent_owned": 10.08,
-      "percent_started": 0.36,
+      "percent_owned": 10.02,
+      "percent_started": 0.4,
       "projected_points": 5.8,
       "points": 0,
       "pro_opponent": "HOU",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 12:00:00",
+      "game_date": "2026-09-13 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -970,14 +970,14 @@
       "position": "RB",
       "pro_team": "GB",
       "injury_status": "ACTIVE",
-      "percent_owned": 9.62,
-      "percent_started": 1.08,
+      "percent_owned": 9.81,
+      "percent_started": 1.16,
       "projected_points": 8.44,
       "points": 0,
       "pro_opponent": "MIN",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 15:25:00",
+      "game_date": "2026-09-13 20:25:00",
       "lineup_slot": "FA"
     },
     {
@@ -986,14 +986,14 @@
       "position": "RB",
       "pro_team": "GB",
       "injury_status": "ACTIVE",
-      "percent_owned": 7.04,
-      "percent_started": 0.12,
+      "percent_owned": 6.88,
+      "percent_started": 0.11,
       "projected_points": 1.4,
       "points": 0,
       "pro_opponent": "MIN",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 15:25:00",
+      "game_date": "2026-09-13 20:25:00",
       "lineup_slot": "FA"
     },
     {
@@ -1002,14 +1002,14 @@
       "position": "RB",
       "pro_team": "KC",
       "injury_status": "ACTIVE",
-      "percent_owned": 6.93,
+      "percent_owned": 6.87,
       "percent_started": 0.17,
       "projected_points": 3.22,
       "points": 0,
       "pro_opponent": "DEN",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-14 19:15:00",
+      "game_date": "2026-09-15 00:15:00",
       "lineup_slot": "FA"
     },
     {
@@ -1018,14 +1018,14 @@
       "position": "RB",
       "pro_team": "NYG",
       "injury_status": "ACTIVE",
-      "percent_owned": 6.25,
+      "percent_owned": 6.16,
       "percent_started": 0.16,
       "projected_points": 2.67,
       "points": 0,
       "pro_opponent": "DAL",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 19:20:00",
+      "game_date": "2026-09-14 00:20:00",
       "lineup_slot": "FA"
     },
     {
@@ -1034,14 +1034,14 @@
       "position": "RB",
       "pro_team": "SEA",
       "injury_status": "ACTIVE",
-      "percent_owned": 4.35,
-      "percent_started": 0.43,
+      "percent_owned": 4.39,
+      "percent_started": 0.47,
       "projected_points": 7.25,
-      "points": 0,
+      "points": 2.3,
       "pro_opponent": "NE",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-09 19:20:00",
+      "game_date": "2026-09-10 00:20:00",
       "lineup_slot": "FA"
     },
     {
@@ -1050,14 +1050,14 @@
       "position": "RB",
       "pro_team": "DAL",
       "injury_status": "ACTIVE",
-      "percent_owned": 3.36,
-      "percent_started": 0.16,
+      "percent_owned": 3.34,
+      "percent_started": 0.17,
       "projected_points": 3.78,
       "points": 0,
       "pro_opponent": "NYG",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 19:20:00",
+      "game_date": "2026-09-14 00:20:00",
       "lineup_slot": "FA"
     },
     {
@@ -1066,14 +1066,14 @@
       "position": "RB",
       "pro_team": "LAC",
       "injury_status": "ACTIVE",
-      "percent_owned": 3.33,
+      "percent_owned": 3.29,
       "percent_started": 0.07,
       "projected_points": 2.72,
       "points": 0,
       "pro_opponent": "ARI",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 15:25:00",
+      "game_date": "2026-09-13 20:25:00",
       "lineup_slot": "FA"
     },
     {
@@ -1082,14 +1082,14 @@
       "position": "RB",
       "pro_team": "MIA",
       "injury_status": "ACTIVE",
-      "percent_owned": 2.82,
+      "percent_owned": 2.8,
       "percent_started": 0.11,
       "projected_points": 3.21,
       "points": 0,
       "pro_opponent": "LV",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 15:25:00",
+      "game_date": "2026-09-13 20:25:00",
       "lineup_slot": "FA"
     },
     {
@@ -1098,14 +1098,14 @@
       "position": "RB",
       "pro_team": "DET",
       "injury_status": "ACTIVE",
-      "percent_owned": 2.73,
+      "percent_owned": 2.72,
       "percent_started": 0.22,
       "projected_points": 5.6,
       "points": 0,
       "pro_opponent": "NO",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 12:00:00",
+      "game_date": "2026-09-13 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1114,14 +1114,14 @@
       "position": "WR",
       "pro_team": "LV",
       "injury_status": "ACTIVE",
-      "percent_owned": 28.63,
-      "percent_started": 1.58,
+      "percent_owned": 28.87,
+      "percent_started": 1.78,
       "projected_points": 11.52,
       "points": 0,
       "pro_opponent": "MIA",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 15:25:00",
+      "game_date": "2026-09-13 20:25:00",
       "lineup_slot": "FA"
     },
     {
@@ -1130,14 +1130,14 @@
       "position": "WR",
       "pro_team": "BAL",
       "injury_status": "ACTIVE",
-      "percent_owned": 18.11,
-      "percent_started": 0.47,
+      "percent_owned": 17.99,
+      "percent_started": 0.46,
       "projected_points": 7.57,
       "points": 0,
       "pro_opponent": "IND",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 12:00:00",
+      "game_date": "2026-09-13 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1146,14 +1146,14 @@
       "position": "WR",
       "pro_team": "LV",
       "injury_status": "ACTIVE",
-      "percent_owned": 13.29,
-      "percent_started": 0.37,
+      "percent_owned": 13.25,
+      "percent_started": 0.4,
       "projected_points": 10.59,
       "points": 0,
       "pro_opponent": "MIA",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 15:25:00",
+      "game_date": "2026-09-13 20:25:00",
       "lineup_slot": "FA"
     },
     {
@@ -1162,14 +1162,14 @@
       "position": "WR",
       "pro_team": "NO",
       "injury_status": "ACTIVE",
-      "percent_owned": 12.25,
-      "percent_started": 0.66,
+      "percent_owned": 12.22,
+      "percent_started": 0.67,
       "projected_points": 10.41,
       "points": 0,
       "pro_opponent": "DET",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 12:00:00",
+      "game_date": "2026-09-13 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1178,14 +1178,14 @@
       "position": "WR",
       "pro_team": "PHI",
       "injury_status": "ACTIVE",
-      "percent_owned": 10.58,
+      "percent_owned": 10.5,
       "percent_started": 0.28,
       "projected_points": 8.38,
       "points": 0,
       "pro_opponent": "WSH",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 15:25:00",
+      "game_date": "2026-09-13 20:25:00",
       "lineup_slot": "FA"
     },
     {
@@ -1194,46 +1194,14 @@
       "position": "WR",
       "pro_team": "MIN",
       "injury_status": "ACTIVE",
-      "percent_owned": 8.43,
+      "percent_owned": 8.36,
       "percent_started": 0.2,
       "projected_points": 7.55,
       "points": 0,
       "pro_opponent": "GB",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 15:25:00",
-      "lineup_slot": "FA"
-    },
-    {
-      "name": "Malik Washington",
-      "espn_player_id": 4569603,
-      "position": "WR",
-      "pro_team": "MIA",
-      "injury_status": "ACTIVE",
-      "percent_owned": 8.4,
-      "percent_started": 0.94,
-      "projected_points": 6.39,
-      "points": 0,
-      "pro_opponent": "LV",
-      "pro_pos_rank": 0,
-      "on_bye_week": false,
-      "game_date": "2026-09-13 15:25:00",
-      "lineup_slot": "FA"
-    },
-    {
-      "name": "Jaylin Noel",
-      "espn_player_id": 4586312,
-      "position": "WR",
-      "pro_team": "HOU",
-      "injury_status": "ACTIVE",
-      "percent_owned": 8.3,
-      "percent_started": 0.28,
-      "projected_points": 9.51,
-      "points": 0,
-      "pro_opponent": "BUF",
-      "pro_pos_rank": 0,
-      "on_bye_week": false,
-      "game_date": "2026-09-13 12:00:00",
+      "game_date": "2026-09-13 20:25:00",
       "lineup_slot": "FA"
     },
     {
@@ -1242,14 +1210,46 @@
       "position": "WR",
       "pro_team": "NYG",
       "injury_status": "ACTIVE",
-      "percent_owned": 8.26,
-      "percent_started": 0.2,
+      "percent_owned": 8.31,
+      "percent_started": 0.21,
       "projected_points": 7.75,
       "points": 0,
       "pro_opponent": "DAL",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 19:20:00",
+      "game_date": "2026-09-14 00:20:00",
+      "lineup_slot": "FA"
+    },
+    {
+      "name": "Malik Washington",
+      "espn_player_id": 4569603,
+      "position": "WR",
+      "pro_team": "MIA",
+      "injury_status": "ACTIVE",
+      "percent_owned": 8.31,
+      "percent_started": 0.92,
+      "projected_points": 6.39,
+      "points": 0,
+      "pro_opponent": "LV",
+      "pro_pos_rank": 0,
+      "on_bye_week": false,
+      "game_date": "2026-09-13 20:25:00",
+      "lineup_slot": "FA"
+    },
+    {
+      "name": "Jaylin Noel",
+      "espn_player_id": 4586312,
+      "position": "WR",
+      "pro_team": "HOU",
+      "injury_status": "ACTIVE",
+      "percent_owned": 8.24,
+      "percent_started": 0.29,
+      "projected_points": 9.51,
+      "points": 0,
+      "pro_opponent": "BUF",
+      "pro_pos_rank": 0,
+      "on_bye_week": false,
+      "game_date": "2026-09-13 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1258,14 +1258,14 @@
       "position": "WR",
       "pro_team": "PIT",
       "injury_status": "ACTIVE",
-      "percent_owned": 5.96,
+      "percent_owned": 5.92,
       "percent_started": 0.15,
       "projected_points": 7.82,
       "points": 0,
       "pro_opponent": "ATL",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 12:00:00",
+      "game_date": "2026-09-13 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1274,14 +1274,14 @@
       "position": "WR",
       "pro_team": "NYJ",
       "injury_status": "ACTIVE",
-      "percent_owned": 5.31,
+      "percent_owned": 5.26,
       "percent_started": 0.11,
       "projected_points": 6.4,
       "points": 0,
       "pro_opponent": "TEN",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 12:00:00",
+      "game_date": "2026-09-13 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1290,14 +1290,14 @@
       "position": "WR",
       "pro_team": "ATL",
       "injury_status": "QUESTIONABLE",
-      "percent_owned": 4.62,
-      "percent_started": 0.13,
+      "percent_owned": 4.56,
+      "percent_started": 0.12,
       "projected_points": 5.12,
       "points": 0,
       "pro_opponent": "PIT",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 12:00:00",
+      "game_date": "2026-09-13 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1306,14 +1306,14 @@
       "position": "WR",
       "pro_team": "MIA",
       "injury_status": "ACTIVE",
-      "percent_owned": 4.43,
-      "percent_started": 0.07,
+      "percent_owned": 4.49,
+      "percent_started": 0.08,
       "projected_points": 8.09,
       "points": 0,
       "pro_opponent": "LV",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 15:25:00",
+      "game_date": "2026-09-13 20:25:00",
       "lineup_slot": "FA"
     },
     {
@@ -1322,14 +1322,14 @@
       "position": "WR",
       "pro_team": "KC",
       "injury_status": "ACTIVE",
-      "percent_owned": 4.22,
+      "percent_owned": 4.16,
       "percent_started": 0.05,
       "projected_points": 3.28,
       "points": 0,
       "pro_opponent": "DEN",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-14 19:15:00",
+      "game_date": "2026-09-15 00:15:00",
       "lineup_slot": "FA"
     },
     {
@@ -1338,14 +1338,14 @@
       "position": "WR",
       "pro_team": "LAC",
       "injury_status": "ACTIVE",
-      "percent_owned": 4.16,
+      "percent_owned": 4.14,
       "percent_started": 0.07,
       "projected_points": 6.51,
       "points": 0,
       "pro_opponent": "ARI",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 15:25:00",
+      "game_date": "2026-09-13 20:25:00",
       "lineup_slot": "FA"
     },
     {
@@ -1354,14 +1354,14 @@
       "position": "TE",
       "pro_team": "JAX",
       "injury_status": "ACTIVE",
-      "percent_owned": 23.75,
-      "percent_started": 3.5,
+      "percent_owned": 23.61,
+      "percent_started": 3.75,
       "projected_points": 9.24,
       "points": 0,
       "pro_opponent": "CLE",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 12:00:00",
+      "game_date": "2026-09-13 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1370,14 +1370,14 @@
       "position": "TE",
       "pro_team": "HOU",
       "injury_status": "ACTIVE",
-      "percent_owned": 19.54,
-      "percent_started": 3.43,
+      "percent_owned": 19.61,
+      "percent_started": 3.76,
       "projected_points": 9.41,
       "points": 0,
       "pro_opponent": "BUF",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 12:00:00",
+      "game_date": "2026-09-13 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1386,14 +1386,14 @@
       "position": "TE",
       "pro_team": "PIT",
       "injury_status": "ACTIVE",
-      "percent_owned": 14.75,
-      "percent_started": 2.44,
+      "percent_owned": 14.74,
+      "percent_started": 2.66,
       "projected_points": 9.5,
       "points": 0,
       "pro_opponent": "ATL",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 12:00:00",
+      "game_date": "2026-09-13 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1402,14 +1402,14 @@
       "position": "TE",
       "pro_team": "LV",
       "injury_status": "ACTIVE",
-      "percent_owned": 9.01,
-      "percent_started": 5.12,
+      "percent_owned": 13.0,
+      "percent_started": 8.25,
       "projected_points": 10.48,
       "points": 0,
       "pro_opponent": "MIA",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 15:25:00",
+      "game_date": "2026-09-13 20:25:00",
       "lineup_slot": "FA"
     },
     {
@@ -1418,14 +1418,14 @@
       "position": "TE",
       "pro_team": "WSH",
       "injury_status": "ACTIVE",
-      "percent_owned": 8.55,
-      "percent_started": 1.17,
+      "percent_owned": 8.49,
+      "percent_started": 1.23,
       "projected_points": 7.33,
       "points": 0,
       "pro_opponent": "PHI",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 15:25:00",
+      "game_date": "2026-09-13 20:25:00",
       "lineup_slot": "FA"
     },
     {
@@ -1434,14 +1434,14 @@
       "position": "TE",
       "pro_team": "SEA",
       "injury_status": "ACTIVE",
-      "percent_owned": 7.17,
-      "percent_started": 1.26,
+      "percent_owned": 7.19,
+      "percent_started": 1.36,
       "projected_points": 7.6,
-      "points": 0,
+      "points": 1.4,
       "pro_opponent": "NE",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-09 19:20:00",
+      "game_date": "2026-09-10 00:20:00",
       "lineup_slot": "FA"
     },
     {
@@ -1450,14 +1450,14 @@
       "position": "TE",
       "pro_team": "TEN",
       "injury_status": "ACTIVE",
-      "percent_owned": 5.81,
-      "percent_started": 0.65,
+      "percent_owned": 5.77,
+      "percent_started": 0.69,
       "projected_points": 8.48,
       "points": 0,
       "pro_opponent": "NYJ",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 12:00:00",
+      "game_date": "2026-09-13 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1466,14 +1466,14 @@
       "position": "TE",
       "pro_team": "LAC",
       "injury_status": "ACTIVE",
-      "percent_owned": 4.95,
-      "percent_started": 0.63,
+      "percent_owned": 4.92,
+      "percent_started": 0.66,
       "projected_points": 7.68,
       "points": 0,
       "pro_opponent": "ARI",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 15:25:00",
+      "game_date": "2026-09-13 20:25:00",
       "lineup_slot": "FA"
     },
     {
@@ -1482,14 +1482,14 @@
       "position": "TE",
       "pro_team": "CAR",
       "injury_status": "ACTIVE",
-      "percent_owned": 3.66,
-      "percent_started": 0.43,
+      "percent_owned": 3.67,
+      "percent_started": 0.46,
       "projected_points": 8.34,
       "points": 0,
       "pro_opponent": "CHI",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 12:00:00",
+      "game_date": "2026-09-13 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1498,14 +1498,14 @@
       "position": "TE",
       "pro_team": "MIA",
       "injury_status": "ACTIVE",
-      "percent_owned": 3.44,
-      "percent_started": 0.52,
+      "percent_owned": 3.43,
+      "percent_started": 0.54,
       "projected_points": 7.71,
       "points": 0,
       "pro_opponent": "LV",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 15:25:00",
+      "game_date": "2026-09-13 20:25:00",
       "lineup_slot": "FA"
     },
     {
@@ -1514,14 +1514,14 @@
       "position": "TE",
       "pro_team": "DEN",
       "injury_status": "ACTIVE",
-      "percent_owned": 2.95,
-      "percent_started": 0.41,
+      "percent_owned": 2.94,
+      "percent_started": 0.43,
       "projected_points": 6.63,
       "points": 0,
       "pro_opponent": "KC",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-14 19:15:00",
+      "game_date": "2026-09-15 00:15:00",
       "lineup_slot": "FA"
     },
     {
@@ -1530,14 +1530,14 @@
       "position": "TE",
       "pro_team": "LAC",
       "injury_status": "ACTIVE",
-      "percent_owned": 2.69,
+      "percent_owned": 2.66,
       "percent_started": 0.26,
       "projected_points": 5.58,
       "points": 0,
       "pro_opponent": "ARI",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 15:25:00",
+      "game_date": "2026-09-13 20:25:00",
       "lineup_slot": "FA"
     },
     {
@@ -1547,13 +1547,13 @@
       "pro_team": "TB",
       "injury_status": "ACTIVE",
       "percent_owned": 2.6,
-      "percent_started": 0.36,
+      "percent_started": 0.39,
       "projected_points": 6.95,
       "points": 0,
       "pro_opponent": "CIN",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 12:00:00",
+      "game_date": "2026-09-13 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1569,7 +1569,7 @@
       "pro_opponent": "TB",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 12:00:00",
+      "game_date": "2026-09-13 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1585,7 +1585,7 @@
       "pro_opponent": "ATL",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 12:00:00",
+      "game_date": "2026-09-13 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1594,14 +1594,14 @@
       "position": "D/ST",
       "pro_team": "JAX",
       "injury_status": [],
-      "percent_owned": 62.68,
-      "percent_started": 59.03,
+      "percent_owned": 63.23,
+      "percent_started": 59.78,
       "projected_points": 20.24,
       "points": 0,
       "pro_opponent": "CLE",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 12:00:00",
+      "game_date": "2026-09-13 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1610,14 +1610,14 @@
       "position": "D/ST",
       "pro_team": "LAC",
       "injury_status": [],
-      "percent_owned": 58.92,
-      "percent_started": 53.48,
+      "percent_owned": 59.16,
+      "percent_started": 53.87,
       "projected_points": 19.33,
       "points": 0,
       "pro_opponent": "ARI",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 15:25:00",
+      "game_date": "2026-09-13 20:25:00",
       "lineup_slot": "FA"
     },
     {
@@ -1626,14 +1626,14 @@
       "position": "D/ST",
       "pro_team": "GB",
       "injury_status": [],
-      "percent_owned": 16.9,
-      "percent_started": 11.8,
+      "percent_owned": 16.82,
+      "percent_started": 11.75,
       "projected_points": 15.93,
       "points": 0,
       "pro_opponent": "MIN",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 15:25:00",
+      "game_date": "2026-09-13 20:25:00",
       "lineup_slot": "FA"
     },
     {
@@ -1642,14 +1642,14 @@
       "position": "D/ST",
       "pro_team": "MIN",
       "injury_status": [],
-      "percent_owned": 13.52,
-      "percent_started": 9.96,
+      "percent_owned": 13.45,
+      "percent_started": 9.89,
       "projected_points": 14.2,
       "points": 0,
       "pro_opponent": "GB",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 15:25:00",
+      "game_date": "2026-09-13 20:25:00",
       "lineup_slot": "FA"
     },
     {
@@ -1658,30 +1658,14 @@
       "position": "D/ST",
       "pro_team": "DAL",
       "injury_status": [],
-      "percent_owned": 12.21,
-      "percent_started": 7.89,
+      "percent_owned": 12.2,
+      "percent_started": 7.9,
       "projected_points": 14.88,
       "points": 0,
       "pro_opponent": "NYG",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 19:20:00",
-      "lineup_slot": "FA"
-    },
-    {
-      "name": "Bears D/ST",
-      "espn_player_id": -16003,
-      "position": "D/ST",
-      "pro_team": "CHI",
-      "injury_status": [],
-      "percent_owned": 9.22,
-      "percent_started": 6.86,
-      "projected_points": 15.91,
-      "points": 0,
-      "pro_opponent": "CAR",
-      "pro_pos_rank": 0,
-      "on_bye_week": false,
-      "game_date": "2026-09-13 12:00:00",
+      "game_date": "2026-09-14 00:20:00",
       "lineup_slot": "FA"
     },
     {
@@ -1690,14 +1674,30 @@
       "position": "D/ST",
       "pro_team": "TEN",
       "injury_status": [],
-      "percent_owned": 8.96,
-      "percent_started": 8.14,
+      "percent_owned": 9.43,
+      "percent_started": 8.6,
       "projected_points": 17.67,
       "points": 0,
       "pro_opponent": "NYJ",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 12:00:00",
+      "game_date": "2026-09-13 17:00:00",
+      "lineup_slot": "FA"
+    },
+    {
+      "name": "Bears D/ST",
+      "espn_player_id": -16003,
+      "position": "D/ST",
+      "pro_team": "CHI",
+      "injury_status": [],
+      "percent_owned": 9.28,
+      "percent_started": 6.93,
+      "projected_points": 15.91,
+      "points": 0,
+      "pro_opponent": "CAR",
+      "pro_pos_rank": 0,
+      "on_bye_week": false,
+      "game_date": "2026-09-13 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1706,14 +1706,14 @@
       "position": "D/ST",
       "pro_team": "SF",
       "injury_status": [],
-      "percent_owned": 7.29,
-      "percent_started": 3.5,
+      "percent_owned": 7.23,
+      "percent_started": 3.44,
       "projected_points": 10.47,
       "points": 0,
       "pro_opponent": "LAR",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-10 19:35:00",
+      "game_date": "2026-09-11 00:35:00",
       "lineup_slot": "FA"
     },
     {
@@ -1729,7 +1729,7 @@
       "pro_opponent": "HOU",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 12:00:00",
+      "game_date": "2026-09-13 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1738,14 +1738,14 @@
       "position": "D/ST",
       "pro_team": "NYJ",
       "injury_status": [],
-      "percent_owned": 4.75,
-      "percent_started": 3.81,
+      "percent_owned": 4.84,
+      "percent_started": 3.91,
       "projected_points": 17.98,
       "points": 0,
       "pro_opponent": "TEN",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 12:00:00",
+      "game_date": "2026-09-13 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1754,14 +1754,14 @@
       "position": "D/ST",
       "pro_team": "NO",
       "injury_status": [],
-      "percent_owned": 3.51,
-      "percent_started": 1.71,
+      "percent_owned": 3.46,
+      "percent_started": 1.68,
       "projected_points": 11.02,
       "points": 0,
       "pro_opponent": "DET",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 12:00:00",
+      "game_date": "2026-09-13 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1770,14 +1770,14 @@
       "position": "D/ST",
       "pro_team": "NYG",
       "injury_status": [],
-      "percent_owned": 2.46,
-      "percent_started": 1.29,
+      "percent_owned": 2.44,
+      "percent_started": 1.28,
       "projected_points": 12.05,
       "points": 0,
       "pro_opponent": "DAL",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 19:20:00",
+      "game_date": "2026-09-14 00:20:00",
       "lineup_slot": "FA"
     },
     {
@@ -1786,14 +1786,14 @@
       "position": "D/ST",
       "pro_team": "IND",
       "injury_status": [],
-      "percent_owned": 2.15,
-      "percent_started": 1.0,
+      "percent_owned": 2.12,
+      "percent_started": 0.98,
       "projected_points": 11.42,
       "points": 0,
       "pro_opponent": "BAL",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 12:00:00",
+      "game_date": "2026-09-13 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1802,14 +1802,14 @@
       "position": "D/ST",
       "pro_team": "CIN",
       "injury_status": [],
-      "percent_owned": 2.08,
-      "percent_started": 1.14,
+      "percent_owned": 2.06,
+      "percent_started": 1.13,
       "projected_points": 13.74,
       "points": 0,
       "pro_opponent": "TB",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 12:00:00",
+      "game_date": "2026-09-13 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1818,14 +1818,14 @@
       "position": "D/ST",
       "pro_team": "LV",
       "injury_status": [],
-      "percent_owned": 1.98,
-      "percent_started": 1.56,
+      "percent_owned": 2.0,
+      "percent_started": 1.59,
       "projected_points": 15.27,
       "points": 0,
       "pro_opponent": "MIA",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 15:25:00",
+      "game_date": "2026-09-13 20:25:00",
       "lineup_slot": "FA"
     },
     {
@@ -1834,14 +1834,14 @@
       "position": "K",
       "pro_team": "PIT",
       "injury_status": "ACTIVE",
-      "percent_owned": 38.84,
-      "percent_started": 34.05,
+      "percent_owned": 38.79,
+      "percent_started": 34.02,
       "projected_points": 15.76,
       "points": 0,
       "pro_opponent": "ATL",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 12:00:00",
+      "game_date": "2026-09-13 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1850,14 +1850,14 @@
       "position": "K",
       "pro_team": "CHI",
       "injury_status": "ACTIVE",
-      "percent_owned": 34.89,
-      "percent_started": 29.79,
+      "percent_owned": 34.75,
+      "percent_started": 29.68,
       "projected_points": 14.59,
       "points": 0,
       "pro_opponent": "CAR",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 12:00:00",
+      "game_date": "2026-09-13 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1866,14 +1866,14 @@
       "position": "K",
       "pro_team": "MIN",
       "injury_status": "ACTIVE",
-      "percent_owned": 33.29,
-      "percent_started": 29.04,
+      "percent_owned": 33.14,
+      "percent_started": 28.92,
       "projected_points": 14.64,
       "points": 0,
       "pro_opponent": "GB",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 15:25:00",
+      "game_date": "2026-09-13 20:25:00",
       "lineup_slot": "FA"
     },
     {
@@ -1882,14 +1882,14 @@
       "position": "K",
       "pro_team": "TB",
       "injury_status": "ACTIVE",
-      "percent_owned": 16.49,
-      "percent_started": 13.07,
+      "percent_owned": 16.41,
+      "percent_started": 13.01,
       "projected_points": 14.59,
       "points": 0,
       "pro_opponent": "CIN",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 12:00:00",
+      "game_date": "2026-09-13 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1899,13 +1899,13 @@
       "pro_team": "PHI",
       "injury_status": "ACTIVE",
       "percent_owned": 8.52,
-      "percent_started": 5.97,
+      "percent_started": 5.98,
       "projected_points": 15.39,
       "points": 0,
       "pro_opponent": "WSH",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 15:25:00",
+      "game_date": "2026-09-13 20:25:00",
       "lineup_slot": "FA"
     },
     {
@@ -1914,14 +1914,14 @@
       "position": "K",
       "pro_team": "DEN",
       "injury_status": "ACTIVE",
-      "percent_owned": 6.16,
-      "percent_started": 4.63,
+      "percent_owned": 6.13,
+      "percent_started": 4.61,
       "projected_points": 13.48,
       "points": 0,
       "pro_opponent": "KC",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-14 19:15:00",
+      "game_date": "2026-09-15 00:15:00",
       "lineup_slot": "FA"
     },
     {
@@ -1930,14 +1930,14 @@
       "position": "K",
       "pro_team": "ATL",
       "injury_status": "ACTIVE",
-      "percent_owned": 4.87,
-      "percent_started": 3.13,
+      "percent_owned": 4.84,
+      "percent_started": 3.11,
       "projected_points": 13.29,
       "points": 0,
       "pro_opponent": "PIT",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 12:00:00",
+      "game_date": "2026-09-13 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1953,7 +1953,7 @@
       "pro_opponent": "BAL",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 12:00:00",
+      "game_date": "2026-09-13 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1963,13 +1963,13 @@
       "pro_team": "NE",
       "injury_status": "ACTIVE",
       "percent_owned": 2.71,
-      "percent_started": 2.02,
+      "percent_started": 2.03,
       "projected_points": 12.33,
-      "points": 0,
+      "points": 2.0,
       "pro_opponent": "SEA",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-09 19:20:00",
+      "game_date": "2026-09-10 00:20:00",
       "lineup_slot": "FA"
     },
     {
@@ -1978,14 +1978,14 @@
       "position": "K",
       "pro_team": "NYG",
       "injury_status": "ACTIVE",
-      "percent_owned": 1.98,
+      "percent_owned": 1.97,
       "percent_started": 1.5,
       "projected_points": 14.4,
       "points": 0,
       "pro_opponent": "DAL",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 19:20:00",
+      "game_date": "2026-09-14 00:20:00",
       "lineup_slot": "FA"
     },
     {
@@ -1994,14 +1994,14 @@
       "position": "K",
       "pro_team": "LV",
       "injury_status": "ACTIVE",
-      "percent_owned": 1.62,
-      "percent_started": 1.02,
+      "percent_owned": 1.61,
+      "percent_started": 1.01,
       "projected_points": 14.44,
       "points": 0,
       "pro_opponent": "MIA",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 15:25:00",
+      "game_date": "2026-09-13 20:25:00",
       "lineup_slot": "FA"
     },
     {
@@ -2010,14 +2010,14 @@
       "position": "K",
       "pro_team": "NO",
       "injury_status": "ACTIVE",
-      "percent_owned": 1.6,
-      "percent_started": 1.02,
+      "percent_owned": 1.59,
+      "percent_started": 1.01,
       "projected_points": 13.44,
       "points": 0,
       "pro_opponent": "DET",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 12:00:00",
+      "game_date": "2026-09-13 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -2026,14 +2026,14 @@
       "position": "K",
       "pro_team": "TEN",
       "injury_status": "ACTIVE",
-      "percent_owned": 0.85,
+      "percent_owned": 0.84,
       "percent_started": 0.63,
       "projected_points": 13.36,
       "points": 0,
       "pro_opponent": "NYJ",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 12:00:00",
+      "game_date": "2026-09-13 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -2043,13 +2043,13 @@
       "pro_team": "CAR",
       "injury_status": "ACTIVE",
       "percent_owned": 0.73,
-      "percent_started": 0.48,
+      "percent_started": 0.47,
       "projected_points": 13.77,
       "points": 0,
       "pro_opponent": "CHI",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 12:00:00",
+      "game_date": "2026-09-13 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -2065,7 +2065,7 @@
       "pro_opponent": "PHI",
       "pro_pos_rank": 0,
       "on_bye_week": false,
-      "game_date": "2026-09-13 15:25:00",
+      "game_date": "2026-09-13 20:25:00",
       "lineup_slot": "FA"
     }
   ],
