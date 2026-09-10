@@ -132,7 +132,38 @@ This starts a local server and opens the dashboard in your browser at
 `http://localhost:8765/frontend/index.html`. (It has to be served over
 HTTP, not opened as a plain file, so the page can fetch the JSON data.)
 
-## Weekly routine
+## Live dashboard (phone-accessible, always-on)
+
+The dashboard is also published as a static site, kept up to date
+automatically, so you can check it from your phone without your
+computer needing to be on:
+
+**https://colerowan7.github.io/rz8lacveiskdqehm840z/frontend/index.html**
+
+Bookmark it or add it to your phone's home screen. The link is
+intentionally an unguessable random string (not your GitHub username
+or anything descriptive) and has a `noindex` tag so search engines
+won't pick it up — but note it's still a public URL with no login: don't
+share it, and treat it the same as you would any other "unlisted, not
+secret" link.
+
+How it stays live:
+- **`.github/workflows/update-dashboard.yml`** runs every 6 hours
+  (and on-demand via the Actions tab or GitHub mobile app — "Run
+  workflow"): pulls fresh ESPN/Sleeper/nflverse data, re-runs
+  `analyze.py`, and publishes the result. Free — no billed API calls.
+- **`.github/workflows/ai-insights.yml`** is manual-trigger **only**
+  (never scheduled) since it makes real, billed Claude API calls. Run
+  it from the Actions tab whenever you want a fresh AI judgment pass
+  before setting your lineup.
+- Your ESPN cookies, league ID, and Anthropic API key live as
+  encrypted GitHub Actions secrets (Settings → Secrets and variables →
+  Actions on the repo) — never committed to the repo itself.
+
+To redeploy after code changes: just `git push`. GitHub Pages rebuilds
+automatically from the `master` branch.
+
+## Weekly routine (running locally instead)
 
 ```
 python scripts/pull_league_data.py
