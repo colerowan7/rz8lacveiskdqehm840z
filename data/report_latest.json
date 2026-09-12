@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T10:13:25.146330+00:00",
+  "generated_at": "2026-09-12T15:07:41.812446+00:00",
   "week": 1,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "Junkyard Dawgs (JK)",
@@ -35,7 +35,7 @@
       "urgent": false,
       "impact": 0.5,
       "headline": "Darren Waller (TE) is trending on Sleeper",
-      "detail": "27,027 adds in the last 24h - possibly worth a speculative add.",
+      "detail": "23,985 adds in the last 24h - possibly worth a speculative add.",
       "ref_id": null
     }
   ],
@@ -47,7 +47,7 @@
         "name": "Chris Brooks",
         "pro_team": "GB",
         "projected_points": 8.62,
-        "percent_owned": 10.96,
+        "percent_owned": 10.99,
         "beats_your_weakest_by": 1.6,
         "weakest_player": "Keaton Mitchell",
         "would_start_this_week": false,
@@ -77,7 +77,7 @@
         "name": "Jalen Nailor",
         "pro_team": "LV",
         "projected_points": 10.59,
-        "percent_owned": 13.03,
+        "percent_owned": 13.04,
         "beats_your_weakest_by": 2.9,
         "weakest_player": "Cooper Kupp",
         "would_start_this_week": false,
@@ -91,7 +91,7 @@
         "name": "Devaughn Vele",
         "pro_team": "NO",
         "projected_points": 10.44,
-        "percent_owned": 12.61,
+        "percent_owned": 12.62,
         "beats_your_weakest_by": 2.8,
         "weakest_player": "Cooper Kupp",
         "would_start_this_week": false,
@@ -105,7 +105,7 @@
         "name": "Jaylin Noel",
         "pro_team": "HOU",
         "projected_points": 9.52,
-        "percent_owned": 7.96,
+        "percent_owned": 7.95,
         "beats_your_weakest_by": 1.9,
         "weakest_player": "Cooper Kupp",
         "would_start_this_week": false,
@@ -135,7 +135,7 @@
         "name": "Dalton Schultz",
         "pro_team": "HOU",
         "projected_points": 9.41,
-        "percent_owned": 19.96,
+        "percent_owned": 19.97,
         "beats_your_weakest_by": 0.0,
         "weakest_player": "George Kittle",
         "would_start_this_week": false,
@@ -151,7 +151,7 @@
         "name": "Jets D/ST",
         "pro_team": "NYJ",
         "projected_points": 17.95,
-        "percent_owned": 5.02,
+        "percent_owned": 5.03,
         "beats_your_weakest_by": 0.6,
         "weakest_player": "Eagles D/ST",
         "would_start_this_week": false,
@@ -162,7 +162,7 @@
         "name": "Titans D/ST",
         "pro_team": "TEN",
         "projected_points": 17.72,
-        "percent_owned": 10.8,
+        "percent_owned": 10.84,
         "beats_your_weakest_by": 0.3,
         "weakest_player": "Eagles D/ST",
         "would_start_this_week": false,
@@ -175,7 +175,7 @@
         "name": "Chris Boswell",
         "pro_team": "PIT",
         "projected_points": 15.76,
-        "percent_owned": 38.98,
+        "percent_owned": 39.0,
         "beats_your_weakest_by": 0.8,
         "weakest_player": "Harrison Butker",
         "would_start_this_week": true,
@@ -186,7 +186,7 @@
         "name": "Jake Elliott",
         "pro_team": "PHI",
         "projected_points": 15.39,
-        "percent_owned": 8.69,
+        "percent_owned": 8.7,
         "beats_your_weakest_by": 0.5,
         "weakest_player": "Harrison Butker",
         "would_start_this_week": true,
@@ -201,28 +201,21 @@
       "position": "TE",
       "pro_team": "CAR",
       "projected_points": 8.34,
-      "sleeper_adds_24h": 27027
+      "sleeper_adds_24h": 23985
     },
     {
       "name": "Justice Hill",
       "position": "RB",
       "pro_team": "BAL",
       "projected_points": 7.87,
-      "sleeper_adds_24h": 14355
+      "sleeper_adds_24h": 15165
     },
     {
       "name": "Kirk Cousins",
       "position": "QB",
       "pro_team": "LV",
       "projected_points": 30.16,
-      "sleeper_adds_24h": 13720
-    },
-    {
-      "name": "Odell Beckham Jr.",
-      "position": "WR",
-      "pro_team": "NYG",
-      "projected_points": 4.56,
-      "sleeper_adds_24h": 11858
+      "sleeper_adds_24h": 13208
     }
   ]
 }
