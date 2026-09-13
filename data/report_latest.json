@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T03:34:21.421307+00:00",
+  "generated_at": "2026-09-13T11:13:29.059346+00:00",
   "week": 1,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "Junkyard Dawgs (JK)",
@@ -35,7 +35,7 @@
       "urgent": false,
       "impact": 0.5,
       "headline": "Darren Waller (TE) is trending on Sleeper",
-      "detail": "21,636 adds in the last 24h - possibly worth a speculative add.",
+      "detail": "22,950 adds in the last 24h - possibly worth a speculative add.",
       "ref_id": null
     }
   ],
@@ -47,7 +47,7 @@
         "name": "Chris Brooks",
         "pro_team": "GB",
         "projected_points": 8.63,
-        "percent_owned": 11.08,
+        "percent_owned": 11.12,
         "beats_your_weakest_by": 1.6,
         "weakest_player": "Keaton Mitchell",
         "would_start_this_week": false,
@@ -91,7 +91,7 @@
         "name": "Devaughn Vele",
         "pro_team": "NO",
         "projected_points": 10.44,
-        "percent_owned": 12.67,
+        "percent_owned": 12.69,
         "beats_your_weakest_by": 2.8,
         "weakest_player": "Cooper Kupp",
         "would_start_this_week": false,
@@ -151,7 +151,7 @@
         "name": "Jets D/ST",
         "pro_team": "NYJ",
         "projected_points": 17.96,
-        "percent_owned": 5.06,
+        "percent_owned": 5.08,
         "beats_your_weakest_by": 0.6,
         "weakest_player": "Eagles D/ST",
         "would_start_this_week": false,
@@ -162,7 +162,7 @@
         "name": "Titans D/ST",
         "pro_team": "TEN",
         "projected_points": 17.71,
-        "percent_owned": 11.0,
+        "percent_owned": 11.08,
         "beats_your_weakest_by": 0.4,
         "weakest_player": "Eagles D/ST",
         "would_start_this_week": false,
@@ -175,7 +175,7 @@
         "name": "Chris Boswell",
         "pro_team": "PIT",
         "projected_points": 15.76,
-        "percent_owned": 39.04,
+        "percent_owned": 39.08,
         "beats_your_weakest_by": 0.8,
         "weakest_player": "Harrison Butker",
         "would_start_this_week": true,
@@ -201,21 +201,21 @@
       "position": "TE",
       "pro_team": "CAR",
       "projected_points": 8.34,
-      "sleeper_adds_24h": 21636
+      "sleeper_adds_24h": 22950
     },
     {
       "name": "Justice Hill",
       "position": "RB",
       "pro_team": "BAL",
       "projected_points": 7.87,
-      "sleeper_adds_24h": 17352
+      "sleeper_adds_24h": 18261
     },
     {
       "name": "Matt Gay",
       "position": "K",
       "pro_team": "LV",
       "projected_points": 14.44,
-      "sleeper_adds_24h": 11225
+      "sleeper_adds_24h": 13035
     }
   ]
 }
