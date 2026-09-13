@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T20:16:09.886125+00:00",
+  "generated_at": "2026-09-13T03:34:21.421307+00:00",
   "week": 1,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "Junkyard Dawgs (JK)",
@@ -35,7 +35,7 @@
       "urgent": false,
       "impact": 0.5,
       "headline": "Darren Waller (TE) is trending on Sleeper",
-      "detail": "22,050 adds in the last 24h - possibly worth a speculative add.",
+      "detail": "21,636 adds in the last 24h - possibly worth a speculative add.",
       "ref_id": null
     }
   ],
@@ -46,8 +46,8 @@
       {
         "name": "Chris Brooks",
         "pro_team": "GB",
-        "projected_points": 8.62,
-        "percent_owned": 11.03,
+        "projected_points": 8.63,
+        "percent_owned": 11.08,
         "beats_your_weakest_by": 1.6,
         "weakest_player": "Keaton Mitchell",
         "would_start_this_week": false,
@@ -61,7 +61,7 @@
         "name": "Justice Hill",
         "pro_team": "BAL",
         "projected_points": 7.87,
-        "percent_owned": 18.45,
+        "percent_owned": 18.41,
         "beats_your_weakest_by": 0.9,
         "weakest_player": "Keaton Mitchell",
         "would_start_this_week": false,
@@ -91,7 +91,7 @@
         "name": "Devaughn Vele",
         "pro_team": "NO",
         "projected_points": 10.44,
-        "percent_owned": 12.64,
+        "percent_owned": 12.67,
         "beats_your_weakest_by": 2.8,
         "weakest_player": "Cooper Kupp",
         "would_start_this_week": false,
@@ -105,7 +105,7 @@
         "name": "Jaylin Noel",
         "pro_team": "HOU",
         "projected_points": 9.52,
-        "percent_owned": 7.95,
+        "percent_owned": 7.93,
         "beats_your_weakest_by": 1.9,
         "weakest_player": "Cooper Kupp",
         "would_start_this_week": false,
@@ -121,7 +121,7 @@
         "name": "Pat Freiermuth",
         "pro_team": "PIT",
         "projected_points": 9.5,
-        "percent_owned": 14.62,
+        "percent_owned": 14.6,
         "beats_your_weakest_by": 0.1,
         "weakest_player": "George Kittle",
         "would_start_this_week": false,
@@ -135,7 +135,7 @@
         "name": "Dalton Schultz",
         "pro_team": "HOU",
         "projected_points": 9.41,
-        "percent_owned": 19.95,
+        "percent_owned": 19.91,
         "beats_your_weakest_by": 0.0,
         "weakest_player": "George Kittle",
         "would_start_this_week": false,
@@ -150,23 +150,23 @@
       {
         "name": "Jets D/ST",
         "pro_team": "NYJ",
-        "projected_points": 17.95,
-        "percent_owned": 5.04,
+        "projected_points": 17.96,
+        "percent_owned": 5.06,
         "beats_your_weakest_by": 0.6,
         "weakest_player": "Eagles D/ST",
         "would_start_this_week": false,
-        "reason": "Projected for 17.9 pts this week - +0.6 more than your weakest rostered D/ST, Eagles D/ST (17.4 proj). Note: that's still below your starting D/ST Jaguars D/ST (20.2 proj), so they'd sit on your bench scoring nothing unless something changes - this is a depth add / stash, not an immediate lineup upgrade.",
+        "reason": "Projected for 18.0 pts this week - +0.6 more than your weakest rostered D/ST, Eagles D/ST (17.3 proj). Note: that's still below your starting D/ST Jaguars D/ST (20.2 proj), so they'd sit on your bench scoring nothing unless something changes - this is a depth add / stash, not an immediate lineup upgrade.",
         "recent_form": null
       },
       {
         "name": "Titans D/ST",
         "pro_team": "TEN",
-        "projected_points": 17.72,
-        "percent_owned": 10.9,
-        "beats_your_weakest_by": 0.3,
+        "projected_points": 17.71,
+        "percent_owned": 11.0,
+        "beats_your_weakest_by": 0.4,
         "weakest_player": "Eagles D/ST",
         "would_start_this_week": false,
-        "reason": "Projected for 17.7 pts this week - +0.3 more than your weakest rostered D/ST, Eagles D/ST (17.4 proj). Note: that's still below your starting D/ST Jaguars D/ST (20.2 proj), so they'd sit on your bench scoring nothing unless something changes - this is a depth add / stash, not an immediate lineup upgrade.",
+        "reason": "Projected for 17.7 pts this week - +0.4 more than your weakest rostered D/ST, Eagles D/ST (17.3 proj). Note: that's still below your starting D/ST Jaguars D/ST (20.2 proj), so they'd sit on your bench scoring nothing unless something changes - this is a depth add / stash, not an immediate lineup upgrade.",
         "recent_form": null
       }
     ],
@@ -175,7 +175,7 @@
         "name": "Chris Boswell",
         "pro_team": "PIT",
         "projected_points": 15.76,
-        "percent_owned": 39.03,
+        "percent_owned": 39.04,
         "beats_your_weakest_by": 0.8,
         "weakest_player": "Harrison Butker",
         "would_start_this_week": true,
@@ -185,8 +185,8 @@
       {
         "name": "Jake Elliott",
         "pro_team": "PHI",
-        "projected_points": 15.39,
-        "percent_owned": 8.7,
+        "projected_points": 15.38,
+        "percent_owned": 8.71,
         "beats_your_weakest_by": 0.5,
         "weakest_player": "Harrison Butker",
         "would_start_this_week": true,
@@ -201,21 +201,21 @@
       "position": "TE",
       "pro_team": "CAR",
       "projected_points": 8.34,
-      "sleeper_adds_24h": 22050
+      "sleeper_adds_24h": 21636
     },
     {
       "name": "Justice Hill",
       "position": "RB",
       "pro_team": "BAL",
       "projected_points": 7.87,
-      "sleeper_adds_24h": 18846
+      "sleeper_adds_24h": 17352
     },
     {
-      "name": "Kirk Cousins",
-      "position": "QB",
+      "name": "Matt Gay",
+      "position": "K",
       "pro_team": "LV",
-      "projected_points": 30.16,
-      "sleeper_adds_24h": 10472
+      "projected_points": 14.44,
+      "sleeper_adds_24h": 11225
     }
   ]
 }
