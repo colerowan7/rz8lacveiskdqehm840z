@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T03:44:04.081143+00:00",
+  "generated_at": "2026-09-14T12:00:05.434303+00:00",
   "week": 1,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "Junkyard Dawgs (JK)",
@@ -35,7 +35,7 @@
       "urgent": false,
       "impact": 0.5,
       "headline": "Mike Gesicki (TE) is trending on Sleeper",
-      "detail": "206,424 adds in the last 24h - possibly worth a speculative add.",
+      "detail": "249,012 adds in the last 24h - possibly worth a speculative add.",
       "ref_id": null
     }
   ],
@@ -135,7 +135,7 @@
         "name": "Dalton Schultz",
         "pro_team": "HOU",
         "projected_points": 9.4,
-        "percent_owned": 19.84,
+        "percent_owned": 19.83,
         "beats_your_weakest_by": 0.0,
         "weakest_player": "George Kittle",
         "would_start_this_week": false,
@@ -201,21 +201,14 @@
       "position": "TE",
       "pro_team": "CIN",
       "projected_points": 6.76,
-      "sleeper_adds_24h": 206424
+      "sleeper_adds_24h": 249012
     },
     {
       "name": "Odell Beckham Jr.",
       "position": "WR",
       "pro_team": "NYG",
       "projected_points": 5.15,
-      "sleeper_adds_24h": 61194
-    },
-    {
-      "name": "Darren Waller",
-      "position": "TE",
-      "pro_team": "CAR",
-      "projected_points": 8.32,
-      "sleeper_adds_24h": 46233
+      "sleeper_adds_24h": 57988
     }
   ]
 }
