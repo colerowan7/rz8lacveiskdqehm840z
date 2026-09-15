@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T16:25:51.390780+00:00",
+  "generated_at": "2026-09-15T20:56:10.647697+00:00",
   "week": 2,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "Just send More Letters (JT)",
@@ -59,7 +59,7 @@
       "urgent": false,
       "impact": 0.5,
       "headline": "Mike Gesicki (TE) is trending on Sleeper",
-      "detail": "339,588 adds in the last 24h - possibly worth a speculative add.",
+      "detail": "378,336 adds in the last 24h - possibly worth a speculative add.",
       "ref_id": null
     }
   ],
@@ -88,7 +88,7 @@
         "name": "Chris Brooks",
         "pro_team": "GB",
         "projected_points": 10.95,
-        "percent_owned": 11.46,
+        "percent_owned": 11.44,
         "beats_your_weakest_by": 2.1,
         "weakest_player": "Keaton Mitchell",
         "would_start_this_week": false,
@@ -102,7 +102,7 @@
         "name": "Kaelon Black",
         "pro_team": "SF",
         "projected_points": 9.44,
-        "percent_owned": 15.48,
+        "percent_owned": 15.52,
         "beats_your_weakest_by": 0.5,
         "weakest_player": "Keaton Mitchell",
         "would_start_this_week": false,
@@ -116,7 +116,7 @@
         "name": "Braelon Allen",
         "pro_team": "NYJ",
         "projected_points": 9.21,
-        "percent_owned": 12.38,
+        "percent_owned": 12.37,
         "beats_your_weakest_by": 0.3,
         "weakest_player": "Keaton Mitchell",
         "would_start_this_week": false,
@@ -132,7 +132,7 @@
         "name": "Devaughn Vele",
         "pro_team": "NO",
         "projected_points": 10.64,
-        "percent_owned": 13.0,
+        "percent_owned": 13.05,
         "beats_your_weakest_by": 2.6,
         "weakest_player": "Cooper Kupp",
         "would_start_this_week": true,
@@ -146,7 +146,7 @@
         "name": "Adonai Mitchell",
         "pro_team": "NYJ",
         "projected_points": 10.23,
-        "percent_owned": 15.39,
+        "percent_owned": 15.38,
         "beats_your_weakest_by": 2.2,
         "weakest_player": "Cooper Kupp",
         "would_start_this_week": true,
@@ -160,7 +160,7 @@
         "name": "Dontayvion Wicks",
         "pro_team": "PHI",
         "projected_points": 9.56,
-        "percent_owned": 10.14,
+        "percent_owned": 10.16,
         "beats_your_weakest_by": 1.6,
         "weakest_player": "Cooper Kupp",
         "would_start_this_week": true,
@@ -176,7 +176,7 @@
         "name": "49ers D/ST",
         "pro_team": "SF",
         "projected_points": 17.72,
-        "percent_owned": 7.54,
+        "percent_owned": 7.61,
         "beats_your_weakest_by": 3.7,
         "weakest_player": "Jaguars D/ST",
         "would_start_this_week": true,
@@ -187,7 +187,7 @@
         "name": "Packers D/ST",
         "pro_team": "GB",
         "projected_points": 17.2,
-        "percent_owned": 16.2,
+        "percent_owned": 16.19,
         "beats_your_weakest_by": 3.2,
         "weakest_player": "Jaguars D/ST",
         "would_start_this_week": true,
@@ -198,7 +198,7 @@
         "name": "Bears D/ST",
         "pro_team": "CHI",
         "projected_points": 16.54,
-        "percent_owned": 9.66,
+        "percent_owned": 9.64,
         "beats_your_weakest_by": 2.6,
         "weakest_player": "Jaguars D/ST",
         "would_start_this_week": true,
@@ -213,14 +213,21 @@
       "position": "TE",
       "pro_team": "CIN",
       "projected_points": 7.71,
-      "sleeper_adds_24h": 339588
+      "sleeper_adds_24h": 378336
     },
     {
       "name": "Evan Engram",
       "position": "TE",
       "pro_team": "DEN",
       "projected_points": 7.67,
-      "sleeper_adds_24h": 176576
+      "sleeper_adds_24h": 226120
+    },
+    {
+      "name": "Cairo Santos",
+      "position": "K",
+      "pro_team": "CHI",
+      "projected_points": 15.9,
+      "sleeper_adds_24h": 88543
     }
   ]
 }
