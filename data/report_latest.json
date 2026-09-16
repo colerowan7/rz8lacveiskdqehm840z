@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T03:41:29.496403+00:00",
+  "generated_at": "2026-09-16T10:57:34.764057+00:00",
   "week": 2,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "Just send More Letters (JT)",
@@ -55,20 +55,20 @@
       "ref_id": "waiver_WR_0"
     },
     {
+      "category": "waiver",
+      "urgent": false,
+      "impact": 0.7,
+      "headline": "Add Harrison Mevis (K) - would start immediately",
+      "detail": "Projected for 16.7 pts this week - +0.7 more than your weakest rostered K, Harrison Butker (16.0 proj). This would actually start over your starting K Harrison Butker (16.0 proj) - real points, not just bench depth.",
+      "ref_id": "waiver_K_0"
+    },
+    {
       "category": "start_sit",
       "urgent": false,
       "impact": 0.6,
       "headline": "Start Kyle Pitts Sr. over Travis Kelce",
       "detail": "+0.6 projected pts",
       "ref_id": "swap_0"
-    },
-    {
-      "category": "trending",
-      "urgent": false,
-      "impact": 0.5,
-      "headline": "Mike Gesicki (TE) is trending on Sleeper",
-      "detail": "427,244 adds in the last 24h - possibly worth a speculative add.",
-      "ref_id": null
     }
   ],
   "injury_flags": [],
@@ -104,7 +104,7 @@
         "name": "Chris Brooks",
         "pro_team": "GB",
         "projected_points": 10.84,
-        "percent_owned": 11.41,
+        "percent_owned": 13.25,
         "beats_your_weakest_by": 1.8,
         "weakest_player": "Keaton Mitchell",
         "would_start_this_week": false,
@@ -118,7 +118,7 @@
         "name": "Kaelon Black",
         "pro_team": "SF",
         "projected_points": 9.7,
-        "percent_owned": 15.55,
+        "percent_owned": 36.73,
         "beats_your_weakest_by": 0.7,
         "weakest_player": "Keaton Mitchell",
         "would_start_this_week": false,
@@ -132,7 +132,7 @@
         "name": "George Holani",
         "pro_team": "SEA",
         "projected_points": 9.14,
-        "percent_owned": 4.11,
+        "percent_owned": 4.25,
         "beats_your_weakest_by": 0.1,
         "weakest_player": "Keaton Mitchell",
         "would_start_this_week": false,
@@ -148,7 +148,7 @@
         "name": "Devaughn Vele",
         "pro_team": "NO",
         "projected_points": 10.71,
-        "percent_owned": 13.08,
+        "percent_owned": 36.41,
         "beats_your_weakest_by": 2.7,
         "weakest_player": "Cooper Kupp",
         "would_start_this_week": true,
@@ -162,7 +162,7 @@
         "name": "Adonai Mitchell",
         "pro_team": "NYJ",
         "projected_points": 10.48,
-        "percent_owned": 15.36,
+        "percent_owned": 15.4,
         "beats_your_weakest_by": 2.5,
         "weakest_player": "Cooper Kupp",
         "would_start_this_week": true,
@@ -176,7 +176,7 @@
         "name": "Dontayvion Wicks",
         "pro_team": "PHI",
         "projected_points": 9.96,
-        "percent_owned": 10.17,
+        "percent_owned": 16.58,
         "beats_your_weakest_by": 2.0,
         "weakest_player": "Cooper Kupp",
         "would_start_this_week": true,
@@ -192,7 +192,7 @@
         "name": "49ers D/ST",
         "pro_team": "SF",
         "projected_points": 18.04,
-        "percent_owned": 7.69,
+        "percent_owned": 33.54,
         "beats_your_weakest_by": 4.1,
         "weakest_player": "Jaguars D/ST",
         "would_start_this_week": true,
@@ -203,7 +203,7 @@
         "name": "Packers D/ST",
         "pro_team": "GB",
         "projected_points": 16.68,
-        "percent_owned": 16.17,
+        "percent_owned": 16.57,
         "beats_your_weakest_by": 2.8,
         "weakest_player": "Jaguars D/ST",
         "would_start_this_week": true,
@@ -214,7 +214,7 @@
         "name": "Bears D/ST",
         "pro_team": "CHI",
         "projected_points": 16.52,
-        "percent_owned": 9.61,
+        "percent_owned": 9.25,
         "beats_your_weakest_by": 2.6,
         "weakest_player": "Jaguars D/ST",
         "would_start_this_week": true,
@@ -224,32 +224,53 @@
     ],
     "K": [
       {
-        "name": "Cairo Santos",
-        "pro_team": "CHI",
-        "projected_points": 16.11,
-        "percent_owned": 33.75,
-        "beats_your_weakest_by": 0.1,
+        "name": "Harrison Mevis",
+        "pro_team": "LAR",
+        "projected_points": 16.72,
+        "percent_owned": 90.1,
+        "beats_your_weakest_by": 0.7,
         "weakest_player": "Harrison Butker",
         "would_start_this_week": true,
-        "reason": "Projected for 16.1 pts this week - +0.1 more than your weakest rostered K, Harrison Butker (16.0 proj). This would actually start over your starting K Harrison Butker (16.0 proj) - real points, not just bench depth.",
+        "reason": "Projected for 16.7 pts this week - +0.7 more than your weakest rostered K, Harrison Butker (16.0 proj). This would actually start over your starting K Harrison Butker (16.0 proj) - real points, not just bench depth.",
         "recent_form": null
       }
     ]
   },
   "trending_adds": [
     {
+      "name": "Devin Singletary",
+      "position": "RB",
+      "pro_team": "NYG",
+      "projected_points": 7.42,
+      "sleeper_adds_24h": 1605123
+    },
+    {
+      "name": "Carson Wentz",
+      "position": "QB",
+      "pro_team": "MIN",
+      "projected_points": 33.35,
+      "sleeper_adds_24h": 954174
+    },
+    {
       "name": "Mike Gesicki",
       "position": "TE",
       "pro_team": "CIN",
       "projected_points": 7.49,
-      "sleeper_adds_24h": 427244
+      "sleeper_adds_24h": 424192
     },
     {
       "name": "Evan Engram",
       "position": "TE",
       "pro_team": "DEN",
       "projected_points": 7.77,
-      "sleeper_adds_24h": 259528
+      "sleeper_adds_24h": 274024
+    },
+    {
+      "name": "Kalif Raymond",
+      "position": "WR",
+      "pro_team": "CHI",
+      "projected_points": 6.4,
+      "sleeper_adds_24h": 234254
     }
   ]
 }
