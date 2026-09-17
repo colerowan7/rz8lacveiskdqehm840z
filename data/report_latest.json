@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T16:24:14.675442+00:00",
+  "generated_at": "2026-09-17T21:00:25.110669+00:00",
   "week": 2,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "Just send More Letters (JT)",
@@ -43,7 +43,7 @@
       "urgent": false,
       "impact": 0.5,
       "headline": "Devin Singletary (RB) is trending on Sleeper",
-      "detail": "645,777 adds in the last 24h - possibly worth a speculative add.",
+      "detail": "509,571 adds in the last 24h - possibly worth a speculative add.",
       "ref_id": null
     }
   ],
@@ -62,7 +62,7 @@
         "name": "Chris Brooks",
         "pro_team": "GB",
         "projected_points": 10.85,
-        "percent_owned": 17.07,
+        "percent_owned": 17.62,
         "beats_your_weakest_by": 1.8,
         "weakest_player": "Keaton Mitchell",
         "would_start_this_week": false,
@@ -76,7 +76,7 @@
         "name": "George Holani",
         "pro_team": "SEA",
         "projected_points": 9.22,
-        "percent_owned": 4.92,
+        "percent_owned": 5.06,
         "beats_your_weakest_by": 0.2,
         "weakest_player": "Keaton Mitchell",
         "would_start_this_week": false,
@@ -92,7 +92,7 @@
         "name": "Adonai Mitchell",
         "pro_team": "NYJ",
         "projected_points": 10.48,
-        "percent_owned": 16.53,
+        "percent_owned": 16.69,
         "beats_your_weakest_by": 2.5,
         "weakest_player": "Cooper Kupp",
         "would_start_this_week": false,
@@ -106,7 +106,7 @@
         "name": "Dontayvion Wicks",
         "pro_team": "PHI",
         "projected_points": 9.96,
-        "percent_owned": 22.74,
+        "percent_owned": 23.5,
         "beats_your_weakest_by": 2.0,
         "weakest_player": "Cooper Kupp",
         "would_start_this_week": false,
@@ -120,7 +120,7 @@
         "name": "Mack Hollins",
         "pro_team": "NE",
         "projected_points": 9.48,
-        "percent_owned": 5.4,
+        "percent_owned": 5.75,
         "beats_your_weakest_by": 1.5,
         "weakest_player": "Cooper Kupp",
         "would_start_this_week": false,
@@ -136,7 +136,7 @@
         "name": "Bears D/ST",
         "pro_team": "CHI",
         "projected_points": 16.8,
-        "percent_owned": 10.67,
+        "percent_owned": 11.16,
         "beats_your_weakest_by": 2.9,
         "weakest_player": "Jaguars D/ST",
         "would_start_this_week": false,
@@ -147,7 +147,7 @@
         "name": "Packers D/ST",
         "pro_team": "GB",
         "projected_points": 16.54,
-        "percent_owned": 18.66,
+        "percent_owned": 18.99,
         "beats_your_weakest_by": 2.6,
         "weakest_player": "Jaguars D/ST",
         "would_start_this_week": false,
@@ -158,7 +158,7 @@
         "name": "Falcons D/ST",
         "pro_team": "ATL",
         "projected_points": 15.95,
-        "percent_owned": 1.49,
+        "percent_owned": 1.54,
         "beats_your_weakest_by": 2.0,
         "weakest_player": "Jaguars D/ST",
         "would_start_this_week": false,
@@ -171,7 +171,7 @@
         "name": "Harrison Mevis",
         "pro_team": "LAR",
         "projected_points": 16.72,
-        "percent_owned": 87.84,
+        "percent_owned": 87.56,
         "beats_your_weakest_by": 0.7,
         "weakest_player": "Harrison Butker",
         "would_start_this_week": true,
@@ -186,28 +186,28 @@
       "position": "RB",
       "pro_team": "NYG",
       "projected_points": 7.38,
-      "sleeper_adds_24h": 645777
+      "sleeper_adds_24h": 509571
     },
     {
       "name": "Carson Wentz",
       "position": "QB",
       "pro_team": "MIN",
       "projected_points": 33.49,
-      "sleeper_adds_24h": 226956
+      "sleeper_adds_24h": 165840
     },
     {
       "name": "Mack Hollins",
       "position": "WR",
       "pro_team": "NE",
       "projected_points": 9.48,
-      "sleeper_adds_24h": 152295
+      "sleeper_adds_24h": 114099
     },
     {
       "name": "Mike Gesicki",
       "position": "TE",
       "pro_team": "CIN",
       "projected_points": 7.5,
-      "sleeper_adds_24h": 123604
+      "sleeper_adds_24h": 95768
     }
   ]
 }
