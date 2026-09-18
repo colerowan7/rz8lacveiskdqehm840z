@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T03:33:11.012218+00:00",
+  "generated_at": "2026-09-18T15:57:30.206081+00:00",
   "week": 2,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "Just send More Letters (JT)",
@@ -43,7 +43,7 @@
       "urgent": false,
       "impact": 0.5,
       "headline": "Devin Singletary (RB) is trending on Sleeper",
-      "detail": "536,661 adds in the last 24h - possibly worth a speculative add.",
+      "detail": "425,187 adds in the last 24h - possibly worth a speculative add.",
       "ref_id": null
     }
   ],
@@ -62,7 +62,7 @@
         "name": "Chris Brooks",
         "pro_team": "GB",
         "projected_points": 10.85,
-        "percent_owned": 18.74,
+        "percent_owned": 19.04,
         "beats_your_weakest_by": 1.8,
         "weakest_player": "Keaton Mitchell",
         "would_start_this_week": false,
@@ -76,7 +76,7 @@
         "name": "George Holani",
         "pro_team": "SEA",
         "projected_points": 9.22,
-        "percent_owned": 5.35,
+        "percent_owned": 5.42,
         "beats_your_weakest_by": 0.2,
         "weakest_player": "Keaton Mitchell",
         "would_start_this_week": false,
@@ -92,7 +92,7 @@
         "name": "Adonai Mitchell",
         "pro_team": "NYJ",
         "projected_points": 10.48,
-        "percent_owned": 17.01,
+        "percent_owned": 17.06,
         "beats_your_weakest_by": 2.5,
         "weakest_player": "Cooper Kupp",
         "would_start_this_week": false,
@@ -106,7 +106,7 @@
         "name": "Dontayvion Wicks",
         "pro_team": "PHI",
         "projected_points": 9.97,
-        "percent_owned": 25.0,
+        "percent_owned": 25.42,
         "beats_your_weakest_by": 2.0,
         "weakest_player": "Cooper Kupp",
         "would_start_this_week": false,
@@ -120,7 +120,7 @@
         "name": "Mack Hollins",
         "pro_team": "NE",
         "projected_points": 9.48,
-        "percent_owned": 6.39,
+        "percent_owned": 6.57,
         "beats_your_weakest_by": 1.5,
         "weakest_player": "Cooper Kupp",
         "would_start_this_week": false,
@@ -136,7 +136,7 @@
         "name": "Panthers D/ST",
         "pro_team": "CAR",
         "projected_points": 16.5,
-        "percent_owned": 2.23,
+        "percent_owned": 2.35,
         "beats_your_weakest_by": 2.8,
         "weakest_player": "Jaguars D/ST",
         "would_start_this_week": false,
@@ -147,7 +147,7 @@
         "name": "Bears D/ST",
         "pro_team": "CHI",
         "projected_points": 16.48,
-        "percent_owned": 12.23,
+        "percent_owned": 12.37,
         "beats_your_weakest_by": 2.7,
         "weakest_player": "Jaguars D/ST",
         "would_start_this_week": false,
@@ -158,7 +158,7 @@
         "name": "Packers D/ST",
         "pro_team": "GB",
         "projected_points": 16.24,
-        "percent_owned": 19.56,
+        "percent_owned": 19.6,
         "beats_your_weakest_by": 2.5,
         "weakest_player": "Jaguars D/ST",
         "would_start_this_week": false,
@@ -171,7 +171,7 @@
         "name": "Harrison Mevis",
         "pro_team": "LAR",
         "projected_points": 16.72,
-        "percent_owned": 87.05,
+        "percent_owned": 86.88,
         "beats_your_weakest_by": 0.7,
         "weakest_player": "Harrison Butker",
         "would_start_this_week": true,
@@ -186,28 +186,35 @@
       "position": "RB",
       "pro_team": "NYG",
       "projected_points": 7.39,
-      "sleeper_adds_24h": 536661
+      "sleeper_adds_24h": 425187
     },
     {
       "name": "Carson Wentz",
       "position": "QB",
       "pro_team": "MIN",
       "projected_points": 33.47,
-      "sleeper_adds_24h": 143880
-    },
-    {
-      "name": "Mack Hollins",
-      "position": "WR",
-      "pro_team": "NE",
-      "projected_points": 9.48,
-      "sleeper_adds_24h": 98448
+      "sleeper_adds_24h": 105174
     },
     {
       "name": "Mike Gesicki",
       "position": "TE",
       "pro_team": "CIN",
       "projected_points": 7.5,
-      "sleeper_adds_24h": 93072
+      "sleeper_adds_24h": 76312
+    },
+    {
+      "name": "Mack Hollins",
+      "position": "WR",
+      "pro_team": "NE",
+      "projected_points": 9.48,
+      "sleeper_adds_24h": 70968
+    },
+    {
+      "name": "Evan Engram",
+      "position": "TE",
+      "pro_team": "DEN",
+      "projected_points": 7.77,
+      "sleeper_adds_24h": 48648
     }
   ],
   "trade_reviews": []
