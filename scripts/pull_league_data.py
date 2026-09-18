@@ -84,44 +84,63 @@ def build_league_player_lookup(league, week):
 
 def fetch_pending_trades(league, my_team_id, player_lookup):
     """Trade proposals involving my team that haven't been resolved yet.
-    Uses the raw mTransactions2 view — espn_api's own recent_activity()
-    only surfaces already-EXECUTED transactions, not pending offers."""
-    data = league.espn_request.league_get(params={"view": "mTransactions2"})
+
+    espn_api's own recent_activity() and the mTransactions2 view only ever
+    surface already-EXECUTED transactions — verified by inspecting real
+    network traffic from ESPN's own web client, which calls a completely
+    different, undocumented view (mPendingTransactions) specifically to
+    populate the "pending trade" banner on the team page. espn_api has no
+    model for this view at all, so this parses the raw response directly,
+    assuming the same Transaction object shape mTransactions2 uses
+    elsewhere (id/type/status/items[]/teamId) since ESPN's backend reuses
+    one transaction model across views — reasonable, but unverified
+    against a real pending trade (none existed at the time this was
+    written). If this silently returns nothing despite a real pending
+    trade existing, the shape assumption below is the first thing to
+    re-check against a fresh network capture."""
+    data = league.espn_request.league_get(params={"view": "mPendingTransactions"})
     team_name_by_id = {t.team_id: t.team_name for t in league.teams}
 
     trades = []
-    for txn in data.get("transactions", []):
-        if txn.get("type") != "TRADE" or txn.get("status") in TERMINAL_TRADE_STATUSES:
-            continue
-        items = [i for i in txn.get("items", []) if i.get("type") == "TRADE"]
-        team_ids_involved = {i["fromTeamId"] for i in items} | {i["toTeamId"] for i in items}
-        if my_team_id not in team_ids_involved:
-            continue
+    for txn in data.get("pendingTransactions", []):
+        try:
+            if txn.get("type") != "TRADE" or txn.get("status") in TERMINAL_TRADE_STATUSES:
+                continue
+            items = [i for i in txn.get("items", []) if i.get("type") == "TRADE"]
+            team_ids_involved = {i["fromTeamId"] for i in items} | {i["toTeamId"] for i in items}
+            if my_team_id not in team_ids_involved:
+                continue
 
-        give, get = [], []
-        for item in items:
-            player = player_lookup.get(item["playerId"])
-            if player is None:
-                # Not in anyone's lineup this week (e.g. a bye) — fall back
-                # to season-level info so the trade still shows something.
-                fallback = league.player_info(playerId=item["playerId"])
-                player_dict = player_to_dict(fallback) if fallback else {
-                    "name": f"Player #{item['playerId']}", "espn_player_id": item["playerId"],
-                }
-            else:
-                player_dict = player_to_dict(player)
-            (give if item["fromTeamId"] == my_team_id else get).append(player_dict)
+            give, get = [], []
+            for item in items:
+                player = player_lookup.get(item["playerId"])
+                if player is None:
+                    # Not in anyone's lineup this week (e.g. a bye) — fall
+                    # back to season-level info so the trade still shows
+                    # something.
+                    fallback = league.player_info(playerId=item["playerId"])
+                    player_dict = player_to_dict(fallback) if fallback else {
+                        "name": f"Player #{item['playerId']}", "espn_player_id": item["playerId"],
+                    }
+                else:
+                    player_dict = player_to_dict(player)
+                (give if item["fromTeamId"] == my_team_id else get).append(player_dict)
 
-        other_team_id = next((tid for tid in team_ids_involved if tid != my_team_id), None)
-        trades.append({
-            "transaction_id": txn.get("id"),
-            "status": txn.get("status"),
-            "proposed_by": team_name_by_id.get(txn.get("teamId"), "Unknown"),
-            "other_team": team_name_by_id.get(other_team_id, "Unknown"),
-            "proposed_date": txn.get("proposedDate"),
-            "give": give,
-            "get": get,
-        })
+            other_team_id = next((tid for tid in team_ids_involved if tid != my_team_id), None)
+            trades.append({
+                "transaction_id": txn.get("id"),
+                "status": txn.get("status"),
+                "proposed_by": team_name_by_id.get(txn.get("teamId"), "Unknown"),
+                "other_team": team_name_by_id.get(other_team_id, "Unknown"),
+                "proposed_date": txn.get("proposedDate"),
+                "give": give,
+                "get": get,
+            })
+        except (KeyError, TypeError) as e:
+            # mPendingTransactions' exact item schema is unverified against a
+            # real trade (see docstring) — don't let one malformed/
+            # unexpected-shape entry take down the whole data pull.
+            print(f"  Warning: couldn't parse a pending transaction ({e}) - skipping it. Raw: {txn}")
     return trades
 
 
