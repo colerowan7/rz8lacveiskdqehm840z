@@ -39,6 +39,9 @@ the ESPN app.
 - League standings
 - Top available free agents / waiver wire by position
 - Recent league transactions (trades, adds, drops)
+- Any **pending trade proposal** involving your team, awaiting a decision
+  (not just already-completed trades — ESPN doesn't expose this through
+  its normal activity feed, so this uses a lower-level API view instead)
 
 All saved to `data/latest.json` — this is the file the analysis layer
 and dashboard will read from.
@@ -78,7 +81,12 @@ week's games).
 recommendation report: start/sit swaps, injury/bye alerts (enriched
 with Sleeper detail when available), waiver-wire upgrades by position
 (annotated with nflverse recent-form ppg when available), Sleeper
-trending adds, and a projected score for your matchup.
+trending adds, a projected score for your matchup, and a first-pass
+review of any pending trade proposal (this week's point swap only —
+see the AI layer below for a review that actually accounts for
+rest-of-season value). Any pending trade always sorts to the very top
+of the dashboard's Top Actions, since it's the one category that needs
+an explicit response with a real deadline.
 
 ```
 python scripts/analyze.py
@@ -100,6 +108,11 @@ or whether recent real production should outweigh a stale projection.
 report (small point margins, ambiguous injury status) and sends those
 to Claude for real judgment — not the obvious ones, so it stays cheap
 and doesn't waste calls confirming what the math already got right.
+**Any pending trade proposal is the one exception** — it always gets
+reviewed regardless of point margin, since a trade's real value is
+mostly about rest-of-season outlook and roster construction (does it
+fill a real need, or create a logjam?), which arithmetic can't judge
+well at all.
 
 Setup:
 ```
