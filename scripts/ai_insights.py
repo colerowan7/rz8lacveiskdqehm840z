@@ -17,6 +17,12 @@ data/report_latest.json. It's additive and optional: run
 with no API key required. This step only sharpens the calls that were
 already ambiguous.
 
+Any pending trade proposal is always included, regardless of point
+margin — unlike a marginal waiver add, there's no "not worth asking"
+cutoff for a rare, high-stakes decision with a real deadline, and
+whether it's a good trade is mostly about rest-of-season value and
+roster construction, not this week's projections.
+
 Requires ANTHROPIC_API_KEY in your .env (get one at console.anthropic.com
 — this makes real, billed API calls, a handful of cents per run).
 
@@ -69,15 +75,18 @@ SCHEMA = {
 
 SYSTEM_PROMPT = (
     "You are a sharp, experienced fantasy football analyst helping a beginner "
-    "make close lineup and waiver decisions. You'll be given several 'close calls' "
-    "- situations where simple point-projection math is ambiguous (small margins, "
-    "questionable injury tags). For EACH one, decide whether to agree with the "
-    "default/suggested action stated in its context, citing the specific matchup "
-    "difficulty, injury detail, or recent-production number that drove your call. "
-    "Keep reasoning to 1-2 plain-English sentences a beginner can follow, no jargon. "
-    "Be decisive - pick a side even when it's close, and say so honestly when you "
-    "genuinely have no edge over the raw numbers (that's still a valid, "
-    "low-confidence answer). Never hedge with 'it depends' as your entire answer."
+    "make close lineup, waiver, and trade decisions. You'll be given several "
+    "'close calls' - situations simple point-projection math can't resolve well: "
+    "small margins, questionable injury tags, or a proposed trade (where the real "
+    "question is rest-of-season value and roster construction, not one week's "
+    "projection). For EACH one, decide whether to agree with the default/suggested "
+    "action stated in its context - for a trade, 'agree' means recommend accepting "
+    "it - citing the specific matchup difficulty, injury detail, recent-production "
+    "number, or positional need/depth that drove your call. Keep reasoning to 1-2 "
+    "plain-English sentences a beginner can follow, no jargon. Be decisive - pick a "
+    "side even when it's close, and say so honestly when you genuinely have no edge "
+    "over the raw numbers (that's still a valid, low-confidence answer). Never hedge "
+    "with 'it depends' as your entire answer."
 )
 
 
@@ -171,6 +180,28 @@ def build_close_calls(data, report, sleeper, nflverse):
             ])
             calls.append({"id": f"waiver_{pos}_{j}", "category": "waiver", "context": context})
 
+    # Trades always get a review, regardless of point margin - unlike a
+    # waiver add, there's no "not worth asking" cutoff: it's a rare,
+    # high-stakes decision with a real deadline, and value is mostly about
+    # rest-of-season outlook rather than any one week's projection.
+    for i, t in enumerate(data.get("pending_trades", [])):
+        give_names = {p["name"] for p in t["give"]}
+        positions_involved = {p["position"] for p in t["give"] + t["get"]}
+        depth_lines = []
+        for pos in sorted(positions_involved):
+            others = [p["name"] for p in roster if p["position"] == pos and p["name"] not in give_names]
+            depth_lines.append(f"Your other {pos}s on this roster: {', '.join(others) if others else '(none)'}")
+        context = "\n".join([
+            f"Trade proposed by {t['proposed_by']}.",
+            *[player_block(p, f"You would GIVE UP", sleeper, nflverse) for p in t["give"]],
+            *[player_block(p, f"You would RECEIVE", sleeper, nflverse) for p in t["get"]],
+            *depth_lines,
+            "Question: should you accept this trade? Weigh rest-of-season value and roster "
+            "construction (does this fill a real need, or create a logjam?) - not just this "
+            "week's projected points.",
+        ])
+        calls.append({"id": f"trade_{i}", "category": "trade", "context": context})
+
     return calls
 
 
@@ -228,6 +259,9 @@ def merge_verdicts(report, calls, verdicts):
         elif call["category"] == "waiver":
             _, pos, idx = cid.split("_")
             report["waiver_targets"][pos][int(idx)]["ai_verdict"] = entry
+        elif call["category"] == "trade":
+            idx = int(cid.split("_")[1])
+            report["trade_reviews"][idx]["ai_verdict"] = entry
 
     for action in report.get("top_actions", []):
         v = verdicts.get(action.get("ref_id"))

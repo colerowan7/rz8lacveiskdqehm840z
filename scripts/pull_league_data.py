@@ -61,6 +61,70 @@ def player_to_dict(player, is_free_agent=False):
     }
 
 
+# A pending trade sits in this set of non-terminal statuses until the other
+# team (or the league's veto window) resolves it. ESPN's exact status
+# strings for trades aren't documented, so this list is best-effort —
+# deliberately treating any *unrecognized* status as "still pending" (shown
+# to the user) rather than silently dropping it, since missing a real trade
+# offer is worse than showing one that turns out to already be resolved.
+TERMINAL_TRADE_STATUSES = {"EXECUTED", "DECLINED", "VETOED", "EXPIRED", "CANCELLED", "FAILED"}
+
+
+def build_league_player_lookup(league, week):
+    """Every player in every team's starting lineup or bench this week,
+    keyed by ESPN player ID, as BoxPlayer objects (real weekly projections,
+    matchup difficulty, etc.) — not just the two teams in your own matchup."""
+    lookup = {}
+    for matchup in league.box_scores(week=week):
+        for lineup in (matchup.home_lineup, matchup.away_lineup):
+            for p in lineup:
+                lookup[p.playerId] = p
+    return lookup
+
+
+def fetch_pending_trades(league, my_team_id, player_lookup):
+    """Trade proposals involving my team that haven't been resolved yet.
+    Uses the raw mTransactions2 view — espn_api's own recent_activity()
+    only surfaces already-EXECUTED transactions, not pending offers."""
+    data = league.espn_request.league_get(params={"view": "mTransactions2"})
+    team_name_by_id = {t.team_id: t.team_name for t in league.teams}
+
+    trades = []
+    for txn in data.get("transactions", []):
+        if txn.get("type") != "TRADE" or txn.get("status") in TERMINAL_TRADE_STATUSES:
+            continue
+        items = [i for i in txn.get("items", []) if i.get("type") == "TRADE"]
+        team_ids_involved = {i["fromTeamId"] for i in items} | {i["toTeamId"] for i in items}
+        if my_team_id not in team_ids_involved:
+            continue
+
+        give, get = [], []
+        for item in items:
+            player = player_lookup.get(item["playerId"])
+            if player is None:
+                # Not in anyone's lineup this week (e.g. a bye) — fall back
+                # to season-level info so the trade still shows something.
+                fallback = league.player_info(playerId=item["playerId"])
+                player_dict = player_to_dict(fallback) if fallback else {
+                    "name": f"Player #{item['playerId']}", "espn_player_id": item["playerId"],
+                }
+            else:
+                player_dict = player_to_dict(player)
+            (give if item["fromTeamId"] == my_team_id else get).append(player_dict)
+
+        other_team_id = next((tid for tid in team_ids_involved if tid != my_team_id), None)
+        trades.append({
+            "transaction_id": txn.get("id"),
+            "status": txn.get("status"),
+            "proposed_by": team_name_by_id.get(txn.get("teamId"), "Unknown"),
+            "other_team": team_name_by_id.get(other_team_id, "Unknown"),
+            "proposed_date": txn.get("proposedDate"),
+            "give": give,
+            "get": get,
+        })
+    return trades
+
+
 def team_to_dict(team, lineup=None):
     """lineup: optional list of BoxPlayer objects (from box_scores) with
     real weekly projections. Falls back to team.roster (season-total only,
@@ -102,21 +166,29 @@ def main():
 
     # Find this week's opponent + real per-week lineups (with projections)
     # for both teams. team.roster only has season-total stats, not weekly
-    # projections, so we pull lineups from the box score instead.
+    # projections, so we pull lineups from the box score instead. Also
+    # build a league-wide player lookup from the same box scores so trade
+    # proposals involving ANY team's players can be evaluated with real
+    # weekly projections, not just my own roster and opponent's.
+    all_box_scores = league.box_scores(week=current_week)
+    player_lookup = {}
     my_matchup = None
     my_lineup = None
     opponent_lineup = None
-    for matchup in league.box_scores(week=current_week):
+    for matchup in all_box_scores:
+        for lineup in (matchup.home_lineup, matchup.away_lineup):
+            for p in lineup:
+                player_lookup[p.playerId] = p
         if matchup.home_team == my_team:
             my_lineup = matchup.home_lineup
             opponent_lineup = matchup.away_lineup
             my_matchup = matchup.away_team
-            break
-        if matchup.away_team == my_team:
+        elif matchup.away_team == my_team:
             my_lineup = matchup.away_lineup
             opponent_lineup = matchup.home_lineup
             my_matchup = matchup.home_team
-            break
+
+    pending_trades = fetch_pending_trades(league, my_team.team_id, player_lookup)
 
     # Free agents / waiver wire — top available by position
     free_agents = []
@@ -154,6 +226,7 @@ def main():
         ],
         "free_agents": free_agents,
         "recent_activity": activity_log,
+        "pending_trades": pending_trades,
     }
 
     out_path = DATA_DIR / f"league_data_week{current_week}.json"
@@ -169,6 +242,8 @@ def main():
     print(f"\nYour team: {my_team.team_name} ({my_team.wins}-{my_team.losses})")
     if my_matchup:
         print(f"This week's opponent: {my_matchup.team_name} ({my_matchup.wins}-{my_matchup.losses})")
+    if pending_trades:
+        print(f"\n{len(pending_trades)} pending trade(s) awaiting a decision - see the dashboard or run analyze.py.")
 
 
 if __name__ == "__main__":

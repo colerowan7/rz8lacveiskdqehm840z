@@ -356,9 +356,28 @@ function waiverPanel(data, report) {
     </div>`;
 }
 
+function tradesPanel(report) {
+  if (!report || !report.trade_reviews || !report.trade_reviews.length) {
+    return `
+      <div class="panel-card">
+        <h3 class="panel-title">Trades</h3>
+        <p class="empty-note">No pending trades right now.</p>
+      </div>`;
+  }
+  return report.trade_reviews.map(tr => `
+    <div class="panel-card" style="margin-bottom:14px;">
+      <h3 class="panel-title">Trade from ${tr.proposed_by}</h3>
+      <p class="rec-help">You give: <b>${tr.give_names.join(", ") || "nothing"}</b> (${tr.give_total_proj} proj this week) &rarr; you get: <b>${tr.get_names.join(", ") || "nothing"}</b> (${tr.get_total_proj} proj this week)</p>
+      <p class="player-meta">${tr.summary}</p>
+      ${aiVerdictHtml(tr.ai_verdict)}
+    </div>`).join("");
+}
+
 function sectionTabsHtml(data, report) {
+  const tradeCount = report && report.trade_reviews ? report.trade_reviews.length : 0;
   const tabs = [
     { id: "roster", label: "My Roster" },
+    { id: "trades", label: tradeCount ? `Trades (${tradeCount})` : "Trades" },
     { id: "opponent", label: data.opponent_team ? "Opponent" : "Opponent" },
     { id: "waivers", label: "Waivers" },
     { id: "standings", label: "Standings" },
@@ -376,6 +395,11 @@ function sectionTabsHtml(data, report) {
         <p class="rec-help">Only the top section counts toward your score this week &mdash; "Bench" and "IR" players sit out no matter how well they play in real life. <b>Slot</b> is where they're lined up (single positions play only there; "RB/WR/TE" is your flex spot, open to any of those three). <b>Status</b> flags injuries: OUT/DOUBTFUL usually means they won't play, QUESTIONABLE is a game-time call.</p>
         ${rosterTable(data.my_team.roster)}
       </div>
+    </div>`;
+
+  const tradesTabPanel = `
+    <div class="tab-panel" data-panel="trades">
+      ${tradesPanel(report)}
     </div>`;
 
   const opponentPanel = `
@@ -418,7 +442,7 @@ function sectionTabsHtml(data, report) {
     <div class="wrap">
       <div class="section-heading"><h2>Details</h2></div>
       <div class="section-tabs">${nav}</div>
-      ${rosterPanel}${opponentPanel}${waiversPanel}${standingsPanel}${activityPanel}
+      ${rosterPanel}${tradesTabPanel}${opponentPanel}${waiversPanel}${standingsPanel}${activityPanel}
     </div>`;
 }
 

@@ -324,7 +324,37 @@ def matchup_projection(my_roster, opponent_roster):
     }
 
 
-def build_top_actions(injury_flags_, start_sit_, waiver_targets_, trending_adds_, max_items=6):
+def evaluate_trades(pending_trades):
+    """Arithmetic first pass on any pending trade proposals: this week's
+    point swap only. Real trade value is mostly about rest-of-season
+    outlook, not one week's projection - that's exactly the kind of
+    judgment ai_insights.py's trade review is for, if you run it."""
+    reviews = []
+    for t in pending_trades:
+        give_total = round(sum(proj(p) for p in t["give"]), 1)
+        get_total = round(sum(proj(p) for p in t["get"]), 1)
+        net = round(get_total - give_total, 1)
+        give_names = ", ".join(p["name"] for p in t["give"]) or "nothing"
+        get_names = ", ".join(p["name"] for p in t["get"]) or "nothing"
+        reviews.append({
+            "transaction_id": t["transaction_id"],
+            "proposed_by": t["proposed_by"],
+            "give_names": [p["name"] for p in t["give"]],
+            "get_names": [p["name"] for p in t["get"]],
+            "give_total_proj": give_total,
+            "get_total_proj": get_total,
+            "net_this_week": net,
+            "summary": (
+                f"{t['proposed_by']} proposed: you give {give_names} ({give_total} proj) "
+                f"for {get_names} ({get_total} proj) - a {'gain' if net >= 0 else 'loss'} of "
+                f"{abs(net)} pts this week alone. This is a one-week snapshot, not a real trade "
+                f"evaluation - it says nothing about rest-of-season value or your roster needs."
+            ),
+        })
+    return reviews
+
+
+def build_top_actions(injury_flags_, start_sit_, waiver_targets_, trending_adds_, trade_reviews_=None, max_items=6):
     """Rank every recommendation across categories into one prioritized
     feed, so the highest-impact thing to do this week surfaces first
     instead of being buried in whichever card happens to be scrolled to."""
@@ -381,8 +411,22 @@ def build_top_actions(injury_flags_, start_sit_, waiver_targets_, trending_adds_
             "ref_id": None,
         })
 
+    # Pending trades always sort first, ahead of even urgent injury/lineup
+    # items: those are "you could do this," a trade proposal is "someone is
+    # waiting on your response," with an actual expiration.
+    trade_actions = []
+    for i, tr in enumerate(trade_reviews_ or []):
+        trade_actions.append({
+            "category": "trade",
+            "urgent": True,
+            "impact": 1000,  # forces top of sort regardless of point math
+            "headline": f"Pending trade from {tr['proposed_by']}",
+            "detail": tr["summary"],
+            "ref_id": f"trade_{i}",
+        })
+
     actions.sort(key=lambda a: (a["urgent"], a["impact"]), reverse=True)
-    return actions[:max_items]
+    return (trade_actions + actions)[:max_items]
 
 
 def build_report(data, sleeper=None, nflverse=None):
@@ -395,6 +439,7 @@ def build_report(data, sleeper=None, nflverse=None):
     start_sit_ = start_sit_recommendations(my_roster)
     waiver_targets_ = waiver_targets(data["free_agents"], my_roster, nflverse, capacity)
     trending_adds_ = trending_on_waivers(data["free_agents"], sleeper)
+    trade_reviews_ = evaluate_trades(data.get("pending_trades", []))
 
     return {
         "generated_at": datetime.now(timezone.utc).isoformat(),
@@ -407,11 +452,12 @@ def build_report(data, sleeper=None, nflverse=None):
         },
         "roster_capacity": capacity,
         "matchup_projection": matchup_projection(my_roster, opponent_roster),
-        "top_actions": build_top_actions(injury_flags_, start_sit_, waiver_targets_, trending_adds_),
+        "top_actions": build_top_actions(injury_flags_, start_sit_, waiver_targets_, trending_adds_, trade_reviews_),
         "injury_flags": injury_flags_,
         "start_sit": start_sit_,
         "waiver_targets": waiver_targets_,
         "trending_adds": trending_adds_,
+        "trade_reviews": trade_reviews_,
     }
 
 
@@ -438,6 +484,13 @@ def print_report(report):
     else:
         print("  -> Bench is full - adding a waiver player means dropping someone.")
     print()
+
+    if report["trade_reviews"]:
+        print(f"PENDING TRADES ({len(report['trade_reviews'])}):")
+        for tr in report["trade_reviews"]:
+            print(f"  From {tr['proposed_by']}:")
+            print(f"    {tr['summary']}")
+        print()
 
     if report["top_actions"]:
         print("TOP ACTIONS THIS WEEK:")
