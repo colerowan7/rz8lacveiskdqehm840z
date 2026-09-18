@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T02:56:20.772576+00:00",
+  "generated_at": "2026-09-18T03:09:06.407665+00:00",
   "week": 2,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "Just send More Letters (JT)",
@@ -28,13 +28,7 @@
       "impact": 3,
       "headline": "George Kittle (TE): QUESTIONABLE",
       "detail": "Achilles",
-      "ref_id": "injury_0",
-      "ai_verdict": {
-        "agree_with_default": false,
-        "confidence": "medium",
-        "verdict": "Bench Kittle if you have any other startable tight end; only start him if he's your only option.",
-        "reasoning": "An Achilles problem is the kind of injury that quietly steals a player's speed and snap count, and his last game backs that up \u2014 just 3.2 points, nowhere near the 12.3 the projection expects. Miami isn't a soft spot for tight ends either (11th toughest), so you're paying full price for a guy who may be limited or ruled out late."
-      }
+      "ref_id": "injury_0"
     },
     {
       "category": "waiver",
@@ -42,20 +36,14 @@
       "impact": 0.7,
       "headline": "Add Harrison Mevis (K) - would start immediately",
       "detail": "Projected for 16.7 pts this week - +0.7 more than your weakest rostered K, Harrison Butker (16.0 proj). This would actually start over your starting K Harrison Butker (16.0 proj) - real points, not just bench depth.",
-      "ref_id": "waiver_K_0",
-      "ai_verdict": {
-        "agree_with_default": false,
-        "confidence": "high",
-        "verdict": "Skip the add \u2014 keep Butker as your kicker.",
-        "reasoning": "A 0.7-point projected edge at kicker is basically a coin flip, and Mevis draws the Giants, who rank 2nd-toughest against kickers, so that tiny edge is more likely to evaporate than pay off. Don't spend a waiver claim or roster spot to swap one kicker for a nearly identical one in a worse matchup."
-      }
+      "ref_id": "waiver_K_0"
     },
     {
       "category": "trending",
       "urgent": false,
       "impact": 0.5,
       "headline": "Devin Singletary (RB) is trending on Sleeper",
-      "detail": "522,450 adds in the last 24h - possibly worth a speculative add.",
+      "detail": "527,058 adds in the last 24h - possibly worth a speculative add.",
       "ref_id": null
     }
   ],
@@ -64,13 +52,7 @@
       "player": "George Kittle",
       "slot": "TE",
       "reason": "QUESTIONABLE",
-      "detail": "Achilles",
-      "ai_verdict": {
-        "agree_with_default": false,
-        "confidence": "medium",
-        "verdict": "Bench Kittle if you have any other startable tight end; only start him if he's your only option.",
-        "reasoning": "An Achilles problem is the kind of injury that quietly steals a player's speed and snap count, and his last game backs that up \u2014 just 3.2 points, nowhere near the 12.3 the projection expects. Miami isn't a soft spot for tight ends either (11th toughest), so you're paying full price for a guy who may be limited or ruled out late."
-      }
+      "detail": "Achilles"
     }
   ],
   "start_sit": [],
@@ -194,13 +176,7 @@
         "weakest_player": "Harrison Butker",
         "would_start_this_week": true,
         "reason": "Projected for 16.7 pts this week - +0.7 more than your weakest rostered K, Harrison Butker (16.0 proj). This would actually start over your starting K Harrison Butker (16.0 proj) - real points, not just bench depth.",
-        "recent_form": null,
-        "ai_verdict": {
-          "agree_with_default": false,
-          "confidence": "high",
-          "verdict": "Skip the add \u2014 keep Butker as your kicker.",
-          "reasoning": "A 0.7-point projected edge at kicker is basically a coin flip, and Mevis draws the Giants, who rank 2nd-toughest against kickers, so that tiny edge is more likely to evaporate than pay off. Don't spend a waiver claim or roster spot to swap one kicker for a nearly identical one in a worse matchup."
-        }
+        "recent_form": null
       }
     ]
   },
@@ -210,29 +186,29 @@
       "position": "RB",
       "pro_team": "NYG",
       "projected_points": 7.39,
-      "sleeper_adds_24h": 522450
+      "sleeper_adds_24h": 527058
     },
     {
       "name": "Carson Wentz",
       "position": "QB",
       "pro_team": "MIN",
       "projected_points": 33.47,
-      "sleeper_adds_24h": 141000
+      "sleeper_adds_24h": 141876
     },
     {
       "name": "Mack Hollins",
       "position": "WR",
       "pro_team": "NE",
       "projected_points": 9.48,
-      "sleeper_adds_24h": 96279
+      "sleeper_adds_24h": 96963
     },
     {
       "name": "Mike Gesicki",
       "position": "TE",
       "pro_team": "CIN",
       "projected_points": 7.5,
-      "sleeper_adds_24h": 90300
+      "sleeper_adds_24h": 91204
     }
   ],
-  "ai_reviewed_count": 2
+  "trade_reviews": []
 }
