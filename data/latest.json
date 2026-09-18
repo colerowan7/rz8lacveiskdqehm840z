@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-09-18T02:56:19.718066+00:00",
+  "pulled_at": "2026-09-18T03:09:05.136781+00:00",
   "league_id": 1934807293,
   "year": 2026,
   "current_week": 2,
@@ -2097,5 +2097,6 @@
     "Activity((Team(Junkyard Dawgs (JK)),DROPPED,Player(Adonai Mitchell)) (Team(Junkyard Dawgs (JK)),WAIVER ADDED,Player(Michael Mayer)))",
     "Activity((Team(British Outlaws (MW)),WAIVER ADDED,Player(Roschon Johnson)))",
     "Activity((Team(Fourth and Cole (CR)),WAIVER ADDED,Player(Jaguars D/ST)))"
-  ]
+  ],
+  "pending_trades": []
 }
