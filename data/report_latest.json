@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-18T03:07:53.828829+00:00",
+  "generated_at": "2026-09-18T02:56:20.772576+00:00",
   "week": 2,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "Just send More Letters (JT)",
   "sources": {
     "sleeper": true,
-    "nflverse": "last_season_avg"
+    "nflverse": "recent_form"
   },
   "roster_capacity": {
     "bench_slots": 7,
@@ -27,8 +27,14 @@
       "urgent": false,
       "impact": 3,
       "headline": "George Kittle (TE): QUESTIONABLE",
-      "detail": "Surgery",
-      "ref_id": "injury_0"
+      "detail": "Achilles",
+      "ref_id": "injury_0",
+      "ai_verdict": {
+        "agree_with_default": false,
+        "confidence": "medium",
+        "verdict": "Bench Kittle if you have any other startable tight end; only start him if he's your only option.",
+        "reasoning": "An Achilles problem is the kind of injury that quietly steals a player's speed and snap count, and his last game backs that up \u2014 just 3.2 points, nowhere near the 12.3 the projection expects. Miami isn't a soft spot for tight ends either (11th toughest), so you're paying full price for a guy who may be limited or ruled out late."
+      }
     },
     {
       "category": "waiver",
@@ -36,14 +42,20 @@
       "impact": 0.7,
       "headline": "Add Harrison Mevis (K) - would start immediately",
       "detail": "Projected for 16.7 pts this week - +0.7 more than your weakest rostered K, Harrison Butker (16.0 proj). This would actually start over your starting K Harrison Butker (16.0 proj) - real points, not just bench depth.",
-      "ref_id": "waiver_K_0"
+      "ref_id": "waiver_K_0",
+      "ai_verdict": {
+        "agree_with_default": false,
+        "confidence": "high",
+        "verdict": "Skip the add \u2014 keep Butker as your kicker.",
+        "reasoning": "A 0.7-point projected edge at kicker is basically a coin flip, and Mevis draws the Giants, who rank 2nd-toughest against kickers, so that tiny edge is more likely to evaporate than pay off. Don't spend a waiver claim or roster spot to swap one kicker for a nearly identical one in a worse matchup."
+      }
     },
     {
       "category": "trending",
       "urgent": false,
       "impact": 0.5,
-      "headline": "Darren Waller (TE) is trending on Sleeper",
-      "detail": "171,981 adds in the last 24h - possibly worth a speculative add.",
+      "headline": "Devin Singletary (RB) is trending on Sleeper",
+      "detail": "522,450 adds in the last 24h - possibly worth a speculative add.",
       "ref_id": null
     }
   ],
@@ -52,7 +64,13 @@
       "player": "George Kittle",
       "slot": "TE",
       "reason": "QUESTIONABLE",
-      "detail": "Surgery"
+      "detail": "Achilles",
+      "ai_verdict": {
+        "agree_with_default": false,
+        "confidence": "medium",
+        "verdict": "Bench Kittle if you have any other startable tight end; only start him if he's your only option.",
+        "reasoning": "An Achilles problem is the kind of injury that quietly steals a player's speed and snap count, and his last game backs that up \u2014 just 3.2 points, nowhere near the 12.3 the projection expects. Miami isn't a soft spot for tight ends either (11th toughest), so you're paying full price for a guy who may be limited or ruled out late."
+      }
     }
   ],
   "start_sit": [],
@@ -66,10 +84,10 @@
         "beats_your_weakest_by": 1.8,
         "weakest_player": "Keaton Mitchell",
         "would_start_this_week": false,
-        "reason": "Projected for 10.8 pts this week - +1.8 more than your weakest rostered RB, Keaton Mitchell (9.0 proj). Actually averaged 1.9 ppg over their last 17 games, for context. Note: that's still below Travis Kelce (TE), currently in your RB/WR/TE flex spot (12.1 proj), so they'd sit on your bench scoring nothing unless something changes - this is a depth add / stash, not an immediate lineup upgrade.",
+        "reason": "Projected for 10.8 pts this week - +1.8 more than your weakest rostered RB, Keaton Mitchell (9.0 proj). Actually averaged 2.9 ppg over their last 1 games, for context. Note: that's still below Travis Kelce (TE), currently in your RB/WR/TE flex spot (12.1 proj), so they'd sit on your bench scoring nothing unless something changes - this is a depth add / stash, not an immediate lineup upgrade.",
         "recent_form": {
-          "avg_fantasy_points_ppr": 1.92,
-          "games_sample": 17
+          "avg_fantasy_points_ppr": 2.9,
+          "games_sample": 1
         }
       },
       {
@@ -80,10 +98,10 @@
         "beats_your_weakest_by": 0.2,
         "weakest_player": "Keaton Mitchell",
         "would_start_this_week": false,
-        "reason": "Projected for 9.2 pts this week - +0.2 more than your weakest rostered RB, Keaton Mitchell (9.0 proj). Actually averaged 2.1 ppg over their last 10 games, for context. Note: that's still below Travis Kelce (TE), currently in your RB/WR/TE flex spot (12.1 proj), so they'd sit on your bench scoring nothing unless something changes - this is a depth add / stash, not an immediate lineup upgrade.",
+        "reason": "Projected for 9.2 pts this week - +0.2 more than your weakest rostered RB, Keaton Mitchell (9.0 proj). Actually averaged 2.9 ppg over their last 1 games, for context. Note: that's still below Travis Kelce (TE), currently in your RB/WR/TE flex spot (12.1 proj), so they'd sit on your bench scoring nothing unless something changes - this is a depth add / stash, not an immediate lineup upgrade.",
         "recent_form": {
-          "avg_fantasy_points_ppr": 2.08,
-          "games_sample": 10
+          "avg_fantasy_points_ppr": 2.9,
+          "games_sample": 1
         }
       }
     ],
@@ -96,10 +114,10 @@
         "beats_your_weakest_by": 2.5,
         "weakest_player": "Cooper Kupp",
         "would_start_this_week": false,
-        "reason": "Projected for 10.5 pts this week - +2.5 more than your weakest rostered WR, Cooper Kupp (8.0 proj). Actually averaged 5.5 ppg over their last 16 games, for context. Note: that's still below Travis Kelce (TE), currently in your RB/WR/TE flex spot (12.1 proj), so they'd sit on your bench scoring nothing unless something changes - this is a depth add / stash, not an immediate lineup upgrade.",
+        "reason": "Projected for 10.5 pts this week - +2.5 more than your weakest rostered WR, Cooper Kupp (8.0 proj). Actually averaged 9.0 ppg over their last 1 games, for context. Note: that's still below Travis Kelce (TE), currently in your RB/WR/TE flex spot (12.1 proj), so they'd sit on your bench scoring nothing unless something changes - this is a depth add / stash, not an immediate lineup upgrade.",
         "recent_form": {
-          "avg_fantasy_points_ppr": 5.49,
-          "games_sample": 16
+          "avg_fantasy_points_ppr": 9.0,
+          "games_sample": 1
         }
       },
       {
@@ -110,10 +128,10 @@
         "beats_your_weakest_by": 2.0,
         "weakest_player": "Cooper Kupp",
         "would_start_this_week": false,
-        "reason": "Projected for 10.0 pts this week - +2.0 more than your weakest rostered WR, Cooper Kupp (8.0 proj). Actually averaged 5.8 ppg over their last 13 games, for context. Note: that's still below Travis Kelce (TE), currently in your RB/WR/TE flex spot (12.1 proj), so they'd sit on your bench scoring nothing unless something changes - this is a depth add / stash, not an immediate lineup upgrade.",
+        "reason": "Projected for 10.0 pts this week - +2.0 more than your weakest rostered WR, Cooper Kupp (8.0 proj). Actually averaged 15.3 ppg over their last 1 games, for context. Note: that's still below Travis Kelce (TE), currently in your RB/WR/TE flex spot (12.1 proj), so they'd sit on your bench scoring nothing unless something changes - this is a depth add / stash, not an immediate lineup upgrade.",
         "recent_form": {
-          "avg_fantasy_points_ppr": 5.83,
-          "games_sample": 13
+          "avg_fantasy_points_ppr": 15.3,
+          "games_sample": 1
         }
       },
       {
@@ -124,10 +142,10 @@
         "beats_your_weakest_by": 1.5,
         "weakest_player": "Cooper Kupp",
         "would_start_this_week": false,
-        "reason": "Projected for 9.5 pts this week - +1.5 more than your weakest rostered WR, Cooper Kupp (8.0 proj). Actually averaged 8.1 ppg over their last 14 games, for context. Note: that's still below Travis Kelce (TE), currently in your RB/WR/TE flex spot (12.1 proj), so they'd sit on your bench scoring nothing unless something changes - this is a depth add / stash, not an immediate lineup upgrade.",
+        "reason": "Projected for 9.5 pts this week - +1.5 more than your weakest rostered WR, Cooper Kupp (8.0 proj). Actually averaged 9.1 ppg over their last 1 games, for context. Note: that's still below Travis Kelce (TE), currently in your RB/WR/TE flex spot (12.1 proj), so they'd sit on your bench scoring nothing unless something changes - this is a depth add / stash, not an immediate lineup upgrade.",
         "recent_form": {
-          "avg_fantasy_points_ppr": 8.1,
-          "games_sample": 14
+          "avg_fantasy_points_ppr": 9.1,
+          "games_sample": 1
         }
       }
     ],
@@ -176,32 +194,45 @@
         "weakest_player": "Harrison Butker",
         "would_start_this_week": true,
         "reason": "Projected for 16.7 pts this week - +0.7 more than your weakest rostered K, Harrison Butker (16.0 proj). This would actually start over your starting K Harrison Butker (16.0 proj) - real points, not just bench depth.",
-        "recent_form": null
+        "recent_form": null,
+        "ai_verdict": {
+          "agree_with_default": false,
+          "confidence": "high",
+          "verdict": "Skip the add \u2014 keep Butker as your kicker.",
+          "reasoning": "A 0.7-point projected edge at kicker is basically a coin flip, and Mevis draws the Giants, who rank 2nd-toughest against kickers, so that tiny edge is more likely to evaporate than pay off. Don't spend a waiver claim or roster spot to swap one kicker for a nearly identical one in a worse matchup."
+        }
       }
     ]
   },
   "trending_adds": [
     {
-      "name": "Darren Waller",
-      "position": "TE",
-      "pro_team": "CAR",
-      "projected_points": 6.96,
-      "sleeper_adds_24h": 171981
-    },
-    {
-      "name": "Matt Gay",
-      "position": "K",
-      "pro_team": "LV",
-      "projected_points": 13.24,
-      "sleeper_adds_24h": 118680
-    },
-    {
-      "name": "Justice Hill",
+      "name": "Devin Singletary",
       "position": "RB",
-      "pro_team": "BAL",
-      "projected_points": 8.39,
-      "sleeper_adds_24h": 57186
+      "pro_team": "NYG",
+      "projected_points": 7.39,
+      "sleeper_adds_24h": 522450
+    },
+    {
+      "name": "Carson Wentz",
+      "position": "QB",
+      "pro_team": "MIN",
+      "projected_points": 33.47,
+      "sleeper_adds_24h": 141000
+    },
+    {
+      "name": "Mack Hollins",
+      "position": "WR",
+      "pro_team": "NE",
+      "projected_points": 9.48,
+      "sleeper_adds_24h": 96279
+    },
+    {
+      "name": "Mike Gesicki",
+      "position": "TE",
+      "pro_team": "CIN",
+      "projected_points": 7.5,
+      "sleeper_adds_24h": 90300
     }
   ],
-  "trade_reviews": []
+  "ai_reviewed_count": 2
 }

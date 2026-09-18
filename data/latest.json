@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-09-18T03:07:52.841855+00:00",
+  "pulled_at": "2026-09-18T02:56:19.718066+00:00",
   "league_id": 1934807293,
   "year": 2026,
   "current_week": 2,
@@ -29,7 +29,7 @@
         "pro_opponent": "TEN",
         "pro_pos_rank": 21,
         "on_bye_week": false,
-        "game_date": "2026-09-20 12:00:00",
+        "game_date": "2026-09-20 17:00:00",
         "lineup_slot": "RB"
       },
       {
@@ -45,7 +45,7 @@
         "pro_opponent": "NO",
         "pro_pos_rank": 20,
         "on_bye_week": false,
-        "game_date": "2026-09-20 12:00:00",
+        "game_date": "2026-09-20 17:00:00",
         "lineup_slot": "QB"
       },
       {
@@ -61,7 +61,7 @@
         "pro_opponent": "WSH",
         "pro_pos_rank": 14,
         "on_bye_week": false,
-        "game_date": "2026-09-20 15:25:00",
+        "game_date": "2026-09-20 20:25:00",
         "lineup_slot": "WR"
       },
       {
@@ -77,7 +77,7 @@
         "pro_opponent": "HOU",
         "pro_pos_rank": 31,
         "on_bye_week": false,
-        "game_date": "2026-09-20 12:00:00",
+        "game_date": "2026-09-20 17:00:00",
         "lineup_slot": "BE"
       },
       {
@@ -93,7 +93,7 @@
         "pro_opponent": "MIA",
         "pro_pos_rank": 11,
         "on_bye_week": false,
-        "game_date": "2026-09-20 15:25:00",
+        "game_date": "2026-09-20 20:25:00",
         "lineup_slot": "TE"
       },
       {
@@ -109,7 +109,7 @@
         "pro_opponent": "CAR",
         "pro_pos_rank": 18,
         "on_bye_week": false,
-        "game_date": "2026-09-20 12:00:00",
+        "game_date": "2026-09-20 17:00:00",
         "lineup_slot": "BE"
       },
       {
@@ -125,7 +125,7 @@
         "pro_opponent": "PIT",
         "pro_pos_rank": 25,
         "on_bye_week": false,
-        "game_date": "2026-09-20 12:00:00",
+        "game_date": "2026-09-20 17:00:00",
         "lineup_slot": "RB"
       },
       {
@@ -141,7 +141,7 @@
         "pro_opponent": "IND",
         "pro_pos_rank": 29,
         "on_bye_week": false,
-        "game_date": "2026-09-20 19:20:00",
+        "game_date": "2026-09-21 00:20:00",
         "lineup_slot": "K"
       },
       {
@@ -157,7 +157,7 @@
         "pro_opponent": "IND",
         "pro_pos_rank": 14,
         "on_bye_week": false,
-        "game_date": "2026-09-20 19:20:00",
+        "game_date": "2026-09-21 00:20:00",
         "lineup_slot": "RB/WR/TE"
       },
       {
@@ -173,7 +173,7 @@
         "pro_opponent": "IND",
         "pro_pos_rank": 24,
         "on_bye_week": false,
-        "game_date": "2026-09-20 19:20:00",
+        "game_date": "2026-09-21 00:20:00",
         "lineup_slot": "WR"
       },
       {
@@ -189,7 +189,7 @@
         "pro_opponent": "TEN",
         "pro_pos_rank": 26,
         "on_bye_week": false,
-        "game_date": "2026-09-20 12:00:00",
+        "game_date": "2026-09-20 17:00:00",
         "lineup_slot": "D/ST"
       },
       {
@@ -205,7 +205,7 @@
         "pro_opponent": "ARI",
         "pro_pos_rank": 17,
         "on_bye_week": false,
-        "game_date": "2026-09-20 15:25:00",
+        "game_date": "2026-09-20 20:25:00",
         "lineup_slot": "BE"
       },
       {
@@ -221,7 +221,7 @@
         "pro_opponent": "DAL",
         "pro_pos_rank": 24,
         "on_bye_week": false,
-        "game_date": "2026-09-20 15:25:00",
+        "game_date": "2026-09-20 20:25:00",
         "lineup_slot": "BE"
       },
       {
@@ -237,7 +237,7 @@
         "pro_opponent": "BUF",
         "pro_pos_rank": 27,
         "on_bye_week": false,
-        "game_date": "2026-09-17 19:15:00",
+        "game_date": "2026-09-18 00:15:00",
         "lineup_slot": "IR"
       },
       {
@@ -253,7 +253,7 @@
         "pro_opponent": "LV",
         "pro_pos_rank": 3,
         "on_bye_week": false,
-        "game_date": "2026-09-20 15:05:00",
+        "game_date": "2026-09-20 20:05:00",
         "lineup_slot": "BE"
       },
       {
@@ -269,7 +269,7 @@
         "pro_opponent": "DEN",
         "pro_pos_rank": 30,
         "on_bye_week": false,
-        "game_date": "2026-09-20 15:05:00",
+        "game_date": "2026-09-20 20:05:00",
         "lineup_slot": "BE"
       },
       {
@@ -285,7 +285,7 @@
         "pro_opponent": "LAC",
         "pro_pos_rank": 16,
         "on_bye_week": false,
-        "game_date": "2026-09-20 15:05:00",
+        "game_date": "2026-09-20 20:05:00",
         "lineup_slot": "BE"
       }
     ]
@@ -312,7 +312,7 @@
         "pro_opponent": "SF",
         "pro_pos_rank": 16,
         "on_bye_week": false,
-        "game_date": "2026-09-20 15:25:00",
+        "game_date": "2026-09-20 20:25:00",
         "lineup_slot": "RB"
       },
       {
@@ -328,7 +328,7 @@
         "pro_opponent": "LV",
         "pro_pos_rank": 3,
         "on_bye_week": false,
-        "game_date": "2026-09-20 15:05:00",
+        "game_date": "2026-09-20 20:05:00",
         "lineup_slot": "RB"
       },
       {
@@ -344,7 +344,7 @@
         "pro_opponent": "CIN",
         "pro_pos_rank": 10,
         "on_bye_week": false,
-        "game_date": "2026-09-20 12:00:00",
+        "game_date": "2026-09-20 17:00:00",
         "lineup_slot": "WR"
       },
       {
@@ -360,7 +360,7 @@
         "pro_opponent": "NE",
         "pro_pos_rank": 26,
         "on_bye_week": false,
-        "game_date": "2026-09-20 12:00:00",
+        "game_date": "2026-09-20 17:00:00",
         "lineup_slot": "D/ST"
       },
       {
@@ -376,7 +376,7 @@
         "pro_opponent": "DEN",
         "pro_pos_rank": 21,
         "on_bye_week": false,
-        "game_date": "2026-09-20 15:05:00",
+        "game_date": "2026-09-20 20:05:00",
         "lineup_slot": "QB"
       },
       {
@@ -392,7 +392,7 @@
         "pro_opponent": "JAX",
         "pro_pos_rank": 18,
         "on_bye_week": false,
-        "game_date": "2026-09-20 15:05:00",
+        "game_date": "2026-09-20 20:05:00",
         "lineup_slot": "WR"
       },
       {
@@ -408,7 +408,7 @@
         "pro_opponent": "DAL",
         "pro_pos_rank": 7,
         "on_bye_week": false,
-        "game_date": "2026-09-20 15:25:00",
+        "game_date": "2026-09-20 20:25:00",
         "lineup_slot": "RB/WR/TE"
       },
       {
@@ -424,7 +424,7 @@
         "pro_opponent": "DET",
         "pro_pos_rank": 31,
         "on_bye_week": false,
-        "game_date": "2026-09-17 19:15:00",
+        "game_date": "2026-09-18 00:15:00",
         "lineup_slot": "TE"
       },
       {
@@ -440,7 +440,7 @@
         "pro_opponent": "HOU",
         "pro_pos_rank": 27,
         "on_bye_week": false,
-        "game_date": "2026-09-20 12:00:00",
+        "game_date": "2026-09-20 17:00:00",
         "lineup_slot": "K"
       },
       {
@@ -456,7 +456,7 @@
         "pro_opponent": "NO",
         "pro_pos_rank": 12,
         "on_bye_week": false,
-        "game_date": "2026-09-20 12:00:00",
+        "game_date": "2026-09-20 17:00:00",
         "lineup_slot": "BE"
       },
       {
@@ -472,7 +472,7 @@
         "pro_opponent": "NE",
         "pro_pos_rank": 9,
         "on_bye_week": false,
-        "game_date": "2026-09-20 12:00:00",
+        "game_date": "2026-09-20 17:00:00",
         "lineup_slot": "BE"
       },
       {
@@ -488,7 +488,7 @@
         "pro_opponent": "NYJ",
         "pro_pos_rank": 2,
         "on_bye_week": false,
-        "game_date": "2026-09-20 12:00:00",
+        "game_date": "2026-09-20 17:00:00",
         "lineup_slot": "BE"
       },
       {
@@ -504,7 +504,7 @@
         "pro_opponent": "PHI",
         "pro_pos_rank": 23,
         "on_bye_week": false,
-        "game_date": "2026-09-20 12:00:00",
+        "game_date": "2026-09-20 17:00:00",
         "lineup_slot": "BE"
       },
       {
@@ -520,7 +520,7 @@
         "pro_opponent": "NYG",
         "pro_pos_rank": 22,
         "on_bye_week": false,
-        "game_date": "2026-09-21 19:15:00",
+        "game_date": "2026-09-22 00:15:00",
         "lineup_slot": "BE"
       },
       {
@@ -536,7 +536,7 @@
         "pro_opponent": "ARI",
         "pro_pos_rank": 17,
         "on_bye_week": false,
-        "game_date": "2026-09-20 15:25:00",
+        "game_date": "2026-09-20 20:25:00",
         "lineup_slot": "BE"
       },
       {
@@ -552,7 +552,7 @@
         "pro_opponent": "NYJ",
         "pro_pos_rank": 6,
         "on_bye_week": false,
-        "game_date": "2026-09-20 12:00:00",
+        "game_date": "2026-09-20 17:00:00",
         "lineup_slot": "BE"
       }
     ]
@@ -657,7 +657,7 @@
       "pro_opponent": "SF",
       "pro_pos_rank": 2,
       "on_bye_week": false,
-      "game_date": "2026-09-20 15:25:00",
+      "game_date": "2026-09-20 20:25:00",
       "lineup_slot": "FA"
     },
     {
@@ -673,7 +673,7 @@
       "pro_opponent": "PHI",
       "pro_pos_rank": 16,
       "on_bye_week": false,
-      "game_date": "2026-09-20 12:00:00",
+      "game_date": "2026-09-20 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -689,7 +689,7 @@
       "pro_opponent": "NE",
       "pro_pos_rank": 9,
       "on_bye_week": false,
-      "game_date": "2026-09-20 12:00:00",
+      "game_date": "2026-09-20 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -705,7 +705,7 @@
       "pro_opponent": "LAC",
       "pro_pos_rank": 18,
       "on_bye_week": false,
-      "game_date": "2026-09-20 15:05:00",
+      "game_date": "2026-09-20 20:05:00",
       "lineup_slot": "FA"
     },
     {
@@ -721,7 +721,7 @@
       "pro_opponent": "CHI",
       "pro_pos_rank": 30,
       "on_bye_week": false,
-      "game_date": "2026-09-20 12:00:00",
+      "game_date": "2026-09-20 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -737,7 +737,7 @@
       "pro_opponent": "SEA",
       "pro_pos_rank": 7,
       "on_bye_week": false,
-      "game_date": "2026-09-20 15:25:00",
+      "game_date": "2026-09-20 20:25:00",
       "lineup_slot": "FA"
     },
     {
@@ -753,7 +753,7 @@
       "pro_opponent": "GB",
       "pro_pos_rank": 19,
       "on_bye_week": false,
-      "game_date": "2026-09-20 12:00:00",
+      "game_date": "2026-09-20 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -769,7 +769,7 @@
       "pro_opponent": "LAC",
       "pro_pos_rank": 18,
       "on_bye_week": false,
-      "game_date": "2026-09-20 15:05:00",
+      "game_date": "2026-09-20 20:05:00",
       "lineup_slot": "FA"
     },
     {
@@ -785,7 +785,7 @@
       "pro_opponent": "ARI",
       "pro_pos_rank": 8,
       "on_bye_week": false,
-      "game_date": "2026-09-20 15:25:00",
+      "game_date": "2026-09-20 20:25:00",
       "lineup_slot": "FA"
     },
     {
@@ -801,7 +801,7 @@
       "pro_opponent": "TB",
       "pro_pos_rank": 13,
       "on_bye_week": false,
-      "game_date": "2026-09-20 12:00:00",
+      "game_date": "2026-09-20 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -817,7 +817,7 @@
       "pro_opponent": "CAR",
       "pro_pos_rank": 29,
       "on_bye_week": false,
-      "game_date": "2026-09-20 12:00:00",
+      "game_date": "2026-09-20 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -833,7 +833,7 @@
       "pro_opponent": "TB",
       "pro_pos_rank": 13,
       "on_bye_week": false,
-      "game_date": "2026-09-20 12:00:00",
+      "game_date": "2026-09-20 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -849,7 +849,7 @@
       "pro_opponent": "CAR",
       "pro_pos_rank": 29,
       "on_bye_week": false,
-      "game_date": "2026-09-20 12:00:00",
+      "game_date": "2026-09-20 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -865,7 +865,7 @@
       "pro_opponent": "SEA",
       "pro_pos_rank": 7,
       "on_bye_week": false,
-      "game_date": "2026-09-20 15:25:00",
+      "game_date": "2026-09-20 20:25:00",
       "lineup_slot": "FA"
     },
     {
@@ -881,7 +881,7 @@
       "pro_opponent": "CHI",
       "pro_pos_rank": 30,
       "on_bye_week": false,
-      "game_date": "2026-09-20 12:00:00",
+      "game_date": "2026-09-20 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -897,7 +897,7 @@
       "pro_opponent": "NYJ",
       "pro_pos_rank": 2,
       "on_bye_week": false,
-      "game_date": "2026-09-20 12:00:00",
+      "game_date": "2026-09-20 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -913,7 +913,7 @@
       "pro_opponent": "NO",
       "pro_pos_rank": 28,
       "on_bye_week": false,
-      "game_date": "2026-09-20 12:00:00",
+      "game_date": "2026-09-20 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -929,7 +929,7 @@
       "pro_opponent": "TEN",
       "pro_pos_rank": 21,
       "on_bye_week": false,
-      "game_date": "2026-09-20 12:00:00",
+      "game_date": "2026-09-20 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -945,7 +945,7 @@
       "pro_opponent": "IND",
       "pro_pos_rank": 30,
       "on_bye_week": false,
-      "game_date": "2026-09-20 19:20:00",
+      "game_date": "2026-09-21 00:20:00",
       "lineup_slot": "FA"
     },
     {
@@ -961,7 +961,7 @@
       "pro_opponent": "GB",
       "pro_pos_rank": 17,
       "on_bye_week": false,
-      "game_date": "2026-09-20 12:00:00",
+      "game_date": "2026-09-20 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -977,7 +977,7 @@
       "pro_opponent": "LAR",
       "pro_pos_rank": 14,
       "on_bye_week": false,
-      "game_date": "2026-09-21 19:15:00",
+      "game_date": "2026-09-22 00:15:00",
       "lineup_slot": "FA"
     },
     {
@@ -993,7 +993,7 @@
       "pro_opponent": "LAR",
       "pro_pos_rank": 14,
       "on_bye_week": false,
-      "game_date": "2026-09-21 19:15:00",
+      "game_date": "2026-09-22 00:15:00",
       "lineup_slot": "FA"
     },
     {
@@ -1009,7 +1009,7 @@
       "pro_opponent": "DET",
       "pro_pos_rank": 17,
       "on_bye_week": false,
-      "game_date": "2026-09-17 19:15:00",
+      "game_date": "2026-09-18 00:15:00",
       "lineup_slot": "FA"
     },
     {
@@ -1025,7 +1025,7 @@
       "pro_opponent": "ARI",
       "pro_pos_rank": 8,
       "on_bye_week": false,
-      "game_date": "2026-09-20 15:25:00",
+      "game_date": "2026-09-20 20:25:00",
       "lineup_slot": "FA"
     },
     {
@@ -1041,7 +1041,7 @@
       "pro_opponent": "LAR",
       "pro_pos_rank": 14,
       "on_bye_week": false,
-      "game_date": "2026-09-21 19:15:00",
+      "game_date": "2026-09-22 00:15:00",
       "lineup_slot": "FA"
     },
     {
@@ -1057,7 +1057,7 @@
       "pro_opponent": "NYJ",
       "pro_pos_rank": 2,
       "on_bye_week": false,
-      "game_date": "2026-09-20 12:00:00",
+      "game_date": "2026-09-20 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1073,7 +1073,7 @@
       "pro_opponent": "SEA",
       "pro_pos_rank": 12,
       "on_bye_week": false,
-      "game_date": "2026-09-20 15:25:00",
+      "game_date": "2026-09-20 20:25:00",
       "lineup_slot": "FA"
     },
     {
@@ -1089,7 +1089,7 @@
       "pro_opponent": "LV",
       "pro_pos_rank": 3,
       "on_bye_week": false,
-      "game_date": "2026-09-20 15:05:00",
+      "game_date": "2026-09-20 20:05:00",
       "lineup_slot": "FA"
     },
     {
@@ -1105,7 +1105,7 @@
       "pro_opponent": "SF",
       "pro_pos_rank": 16,
       "on_bye_week": false,
-      "game_date": "2026-09-20 15:25:00",
+      "game_date": "2026-09-20 20:25:00",
       "lineup_slot": "FA"
     },
     {
@@ -1121,7 +1121,7 @@
       "pro_opponent": "WSH",
       "pro_pos_rank": 5,
       "on_bye_week": false,
-      "game_date": "2026-09-20 15:25:00",
+      "game_date": "2026-09-20 20:25:00",
       "lineup_slot": "FA"
     },
     {
@@ -1137,7 +1137,7 @@
       "pro_opponent": "DEN",
       "pro_pos_rank": 3,
       "on_bye_week": false,
-      "game_date": "2026-09-20 15:05:00",
+      "game_date": "2026-09-20 20:05:00",
       "lineup_slot": "FA"
     },
     {
@@ -1153,7 +1153,7 @@
       "pro_opponent": "TEN",
       "pro_pos_rank": 13,
       "on_bye_week": false,
-      "game_date": "2026-09-20 12:00:00",
+      "game_date": "2026-09-20 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1169,7 +1169,7 @@
       "pro_opponent": "GB",
       "pro_pos_rank": 20,
       "on_bye_week": false,
-      "game_date": "2026-09-20 12:00:00",
+      "game_date": "2026-09-20 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1185,7 +1185,7 @@
       "pro_opponent": "NO",
       "pro_pos_rank": 25,
       "on_bye_week": false,
-      "game_date": "2026-09-20 12:00:00",
+      "game_date": "2026-09-20 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1201,7 +1201,7 @@
       "pro_opponent": "LAC",
       "pro_pos_rank": 16,
       "on_bye_week": false,
-      "game_date": "2026-09-20 15:05:00",
+      "game_date": "2026-09-20 20:05:00",
       "lineup_slot": "FA"
     },
     {
@@ -1217,7 +1217,7 @@
       "pro_opponent": "MIN",
       "pro_pos_rank": 32,
       "on_bye_week": false,
-      "game_date": "2026-09-20 12:00:00",
+      "game_date": "2026-09-20 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1233,7 +1233,7 @@
       "pro_opponent": "LAR",
       "pro_pos_rank": 29,
       "on_bye_week": false,
-      "game_date": "2026-09-21 19:15:00",
+      "game_date": "2026-09-22 00:15:00",
       "lineup_slot": "FA"
     },
     {
@@ -1249,7 +1249,7 @@
       "pro_opponent": "SF",
       "pro_pos_rank": 5,
       "on_bye_week": false,
-      "game_date": "2026-09-20 15:25:00",
+      "game_date": "2026-09-20 20:25:00",
       "lineup_slot": "FA"
     },
     {
@@ -1265,7 +1265,7 @@
       "pro_opponent": "CIN",
       "pro_pos_rank": 10,
       "on_bye_week": false,
-      "game_date": "2026-09-20 12:00:00",
+      "game_date": "2026-09-20 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1281,7 +1281,7 @@
       "pro_opponent": "CHI",
       "pro_pos_rank": 28,
       "on_bye_week": false,
-      "game_date": "2026-09-20 12:00:00",
+      "game_date": "2026-09-20 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1297,7 +1297,7 @@
       "pro_opponent": "PIT",
       "pro_pos_rank": 1,
       "on_bye_week": false,
-      "game_date": "2026-09-20 12:00:00",
+      "game_date": "2026-09-20 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1329,7 +1329,7 @@
       "pro_opponent": "SF",
       "pro_pos_rank": 5,
       "on_bye_week": false,
-      "game_date": "2026-09-20 15:25:00",
+      "game_date": "2026-09-20 20:25:00",
       "lineup_slot": "FA"
     },
     {
@@ -1345,7 +1345,7 @@
       "pro_opponent": "JAX",
       "pro_pos_rank": 18,
       "on_bye_week": false,
-      "game_date": "2026-09-20 15:05:00",
+      "game_date": "2026-09-20 20:05:00",
       "lineup_slot": "FA"
     },
     {
@@ -1361,7 +1361,7 @@
       "pro_opponent": "NE",
       "pro_pos_rank": 21,
       "on_bye_week": false,
-      "game_date": "2026-09-20 12:00:00",
+      "game_date": "2026-09-20 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1377,7 +1377,7 @@
       "pro_opponent": "DEN",
       "pro_pos_rank": 15,
       "on_bye_week": false,
-      "game_date": "2026-09-20 15:05:00",
+      "game_date": "2026-09-20 20:05:00",
       "lineup_slot": "FA"
     },
     {
@@ -1393,7 +1393,7 @@
       "pro_opponent": "NE",
       "pro_pos_rank": 2,
       "on_bye_week": false,
-      "game_date": "2026-09-20 12:00:00",
+      "game_date": "2026-09-20 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1409,7 +1409,7 @@
       "pro_opponent": "CIN",
       "pro_pos_rank": 4,
       "on_bye_week": false,
-      "game_date": "2026-09-20 12:00:00",
+      "game_date": "2026-09-20 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1425,7 +1425,7 @@
       "pro_opponent": "HOU",
       "pro_pos_rank": 26,
       "on_bye_week": false,
-      "game_date": "2026-09-20 12:00:00",
+      "game_date": "2026-09-20 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1441,7 +1441,7 @@
       "pro_opponent": "JAX",
       "pro_pos_rank": 5,
       "on_bye_week": false,
-      "game_date": "2026-09-20 15:05:00",
+      "game_date": "2026-09-20 20:05:00",
       "lineup_slot": "FA"
     },
     {
@@ -1457,7 +1457,7 @@
       "pro_opponent": "DAL",
       "pro_pos_rank": 32,
       "on_bye_week": false,
-      "game_date": "2026-09-20 15:25:00",
+      "game_date": "2026-09-20 20:25:00",
       "lineup_slot": "FA"
     },
     {
@@ -1473,7 +1473,7 @@
       "pro_opponent": "LV",
       "pro_pos_rank": 3,
       "on_bye_week": false,
-      "game_date": "2026-09-20 15:05:00",
+      "game_date": "2026-09-20 20:05:00",
       "lineup_slot": "FA"
     },
     {
@@ -1489,7 +1489,7 @@
       "pro_opponent": "ARI",
       "pro_pos_rank": 19,
       "on_bye_week": false,
-      "game_date": "2026-09-20 15:25:00",
+      "game_date": "2026-09-20 20:25:00",
       "lineup_slot": "FA"
     },
     {
@@ -1505,7 +1505,7 @@
       "pro_opponent": "PHI",
       "pro_pos_rank": 6,
       "on_bye_week": false,
-      "game_date": "2026-09-20 12:00:00",
+      "game_date": "2026-09-20 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1521,7 +1521,7 @@
       "pro_opponent": "ATL",
       "pro_pos_rank": 27,
       "on_bye_week": false,
-      "game_date": "2026-09-20 12:00:00",
+      "game_date": "2026-09-20 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1537,7 +1537,7 @@
       "pro_opponent": "SF",
       "pro_pos_rank": 7,
       "on_bye_week": false,
-      "game_date": "2026-09-20 15:25:00",
+      "game_date": "2026-09-20 20:25:00",
       "lineup_slot": "FA"
     },
     {
@@ -1553,7 +1553,7 @@
       "pro_opponent": "CLE",
       "pro_pos_rank": 20,
       "on_bye_week": false,
-      "game_date": "2026-09-20 12:00:00",
+      "game_date": "2026-09-20 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1569,7 +1569,7 @@
       "pro_opponent": "LV",
       "pro_pos_rank": 3,
       "on_bye_week": false,
-      "game_date": "2026-09-20 15:05:00",
+      "game_date": "2026-09-20 20:05:00",
       "lineup_slot": "FA"
     },
     {
@@ -1585,7 +1585,7 @@
       "pro_opponent": "MIN",
       "pro_pos_rank": 21,
       "on_bye_week": false,
-      "game_date": "2026-09-20 12:00:00",
+      "game_date": "2026-09-20 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1601,7 +1601,7 @@
       "pro_opponent": "NE",
       "pro_pos_rank": 2,
       "on_bye_week": false,
-      "game_date": "2026-09-20 12:00:00",
+      "game_date": "2026-09-20 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1617,7 +1617,7 @@
       "pro_opponent": "NYJ",
       "pro_pos_rank": 5,
       "on_bye_week": false,
-      "game_date": "2026-09-20 12:00:00",
+      "game_date": "2026-09-20 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1633,7 +1633,7 @@
       "pro_opponent": "MIN",
       "pro_pos_rank": 16,
       "on_bye_week": false,
-      "game_date": "2026-09-20 12:00:00",
+      "game_date": "2026-09-20 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1649,7 +1649,7 @@
       "pro_opponent": "CHI",
       "pro_pos_rank": 1,
       "on_bye_week": false,
-      "game_date": "2026-09-20 12:00:00",
+      "game_date": "2026-09-20 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1665,7 +1665,7 @@
       "pro_opponent": "WSH",
       "pro_pos_rank": 17,
       "on_bye_week": false,
-      "game_date": "2026-09-20 15:25:00",
+      "game_date": "2026-09-20 20:25:00",
       "lineup_slot": "FA"
     },
     {
@@ -1681,7 +1681,7 @@
       "pro_opponent": "HOU",
       "pro_pos_rank": 13,
       "on_bye_week": false,
-      "game_date": "2026-09-20 12:00:00",
+      "game_date": "2026-09-20 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1697,7 +1697,7 @@
       "pro_opponent": "DET",
       "pro_pos_rank": 6,
       "on_bye_week": false,
-      "game_date": "2026-09-17 19:15:00",
+      "game_date": "2026-09-18 00:15:00",
       "lineup_slot": "FA"
     },
     {
@@ -1713,7 +1713,7 @@
       "pro_opponent": "PHI",
       "pro_pos_rank": 13,
       "on_bye_week": false,
-      "game_date": "2026-09-20 12:00:00",
+      "game_date": "2026-09-20 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1729,7 +1729,7 @@
       "pro_opponent": "GB",
       "pro_pos_rank": 13,
       "on_bye_week": false,
-      "game_date": "2026-09-20 12:00:00",
+      "game_date": "2026-09-20 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1745,7 +1745,7 @@
       "pro_opponent": "BAL",
       "pro_pos_rank": 2,
       "on_bye_week": false,
-      "game_date": "2026-09-20 12:00:00",
+      "game_date": "2026-09-20 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1761,7 +1761,7 @@
       "pro_opponent": "LAR",
       "pro_pos_rank": 24,
       "on_bye_week": false,
-      "game_date": "2026-09-21 19:15:00",
+      "game_date": "2026-09-22 00:15:00",
       "lineup_slot": "FA"
     },
     {
@@ -1777,7 +1777,7 @@
       "pro_opponent": "ATL",
       "pro_pos_rank": 32,
       "on_bye_week": false,
-      "game_date": "2026-09-20 12:00:00",
+      "game_date": "2026-09-20 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1793,7 +1793,7 @@
       "pro_opponent": "LAC",
       "pro_pos_rank": 25,
       "on_bye_week": false,
-      "game_date": "2026-09-20 15:05:00",
+      "game_date": "2026-09-20 20:05:00",
       "lineup_slot": "FA"
     },
     {
@@ -1809,7 +1809,7 @@
       "pro_opponent": "KC",
       "pro_pos_rank": 9,
       "on_bye_week": false,
-      "game_date": "2026-09-20 19:20:00",
+      "game_date": "2026-09-21 00:20:00",
       "lineup_slot": "FA"
     },
     {
@@ -1825,7 +1825,7 @@
       "pro_opponent": "CAR",
       "pro_pos_rank": 6,
       "on_bye_week": false,
-      "game_date": "2026-09-20 12:00:00",
+      "game_date": "2026-09-20 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1841,7 +1841,7 @@
       "pro_opponent": "DAL",
       "pro_pos_rank": 19,
       "on_bye_week": false,
-      "game_date": "2026-09-20 15:25:00",
+      "game_date": "2026-09-20 20:25:00",
       "lineup_slot": "FA"
     },
     {
@@ -1857,7 +1857,7 @@
       "pro_opponent": "NYG",
       "pro_pos_rank": 2,
       "on_bye_week": false,
-      "game_date": "2026-09-21 19:15:00",
+      "game_date": "2026-09-22 00:15:00",
       "lineup_slot": "FA"
     },
     {
@@ -1873,7 +1873,7 @@
       "pro_opponent": "NE",
       "pro_pos_rank": 12,
       "on_bye_week": false,
-      "game_date": "2026-09-20 12:00:00",
+      "game_date": "2026-09-20 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1889,7 +1889,7 @@
       "pro_opponent": "CHI",
       "pro_pos_rank": 18,
       "on_bye_week": false,
-      "game_date": "2026-09-20 12:00:00",
+      "game_date": "2026-09-20 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1905,7 +1905,7 @@
       "pro_opponent": "CLE",
       "pro_pos_rank": 25,
       "on_bye_week": false,
-      "game_date": "2026-09-20 12:00:00",
+      "game_date": "2026-09-20 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1921,7 +1921,7 @@
       "pro_opponent": "TEN",
       "pro_pos_rank": 30,
       "on_bye_week": false,
-      "game_date": "2026-09-20 12:00:00",
+      "game_date": "2026-09-20 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1937,7 +1937,7 @@
       "pro_opponent": "JAX",
       "pro_pos_rank": 4,
       "on_bye_week": false,
-      "game_date": "2026-09-20 15:05:00",
+      "game_date": "2026-09-20 20:05:00",
       "lineup_slot": "FA"
     },
     {
@@ -1953,7 +1953,7 @@
       "pro_opponent": "CAR",
       "pro_pos_rank": 27,
       "on_bye_week": false,
-      "game_date": "2026-09-20 12:00:00",
+      "game_date": "2026-09-20 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -1969,7 +1969,7 @@
       "pro_opponent": "KC",
       "pro_pos_rank": 4,
       "on_bye_week": false,
-      "game_date": "2026-09-20 19:20:00",
+      "game_date": "2026-09-21 00:20:00",
       "lineup_slot": "FA"
     },
     {
@@ -1985,7 +1985,7 @@
       "pro_opponent": "PIT",
       "pro_pos_rank": 20,
       "on_bye_week": false,
-      "game_date": "2026-09-20 12:00:00",
+      "game_date": "2026-09-20 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -2001,7 +2001,7 @@
       "pro_opponent": "LAR",
       "pro_pos_rank": 23,
       "on_bye_week": false,
-      "game_date": "2026-09-21 19:15:00",
+      "game_date": "2026-09-22 00:15:00",
       "lineup_slot": "FA"
     },
     {
@@ -2017,7 +2017,7 @@
       "pro_opponent": "LAC",
       "pro_pos_rank": 31,
       "on_bye_week": false,
-      "game_date": "2026-09-20 15:05:00",
+      "game_date": "2026-09-20 20:05:00",
       "lineup_slot": "FA"
     },
     {
@@ -2033,7 +2033,7 @@
       "pro_opponent": "BAL",
       "pro_pos_rank": 12,
       "on_bye_week": false,
-      "game_date": "2026-09-20 12:00:00",
+      "game_date": "2026-09-20 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -2049,7 +2049,7 @@
       "pro_opponent": "ATL",
       "pro_pos_rank": 19,
       "on_bye_week": false,
-      "game_date": "2026-09-20 12:00:00",
+      "game_date": "2026-09-20 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -2065,7 +2065,7 @@
       "pro_opponent": "PHI",
       "pro_pos_rank": 8,
       "on_bye_week": false,
-      "game_date": "2026-09-20 12:00:00",
+      "game_date": "2026-09-20 17:00:00",
       "lineup_slot": "FA"
     },
     {
@@ -2081,7 +2081,7 @@
       "pro_opponent": "DAL",
       "pro_pos_rank": 6,
       "on_bye_week": false,
-      "game_date": "2026-09-20 15:25:00",
+      "game_date": "2026-09-20 20:25:00",
       "lineup_slot": "FA"
     }
   ],
@@ -2097,6 +2097,5 @@
     "Activity((Team(Junkyard Dawgs (JK)),DROPPED,Player(Adonai Mitchell)) (Team(Junkyard Dawgs (JK)),WAIVER ADDED,Player(Michael Mayer)))",
     "Activity((Team(British Outlaws (MW)),WAIVER ADDED,Player(Roschon Johnson)))",
     "Activity((Team(Fourth and Cole (CR)),WAIVER ADDED,Player(Jaguars D/ST)))"
-  ],
-  "pending_trades": []
+  ]
 }
