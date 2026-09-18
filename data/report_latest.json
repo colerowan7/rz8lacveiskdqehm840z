@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T02:55:11.621174+00:00",
+  "generated_at": "2026-09-18T02:56:20.772576+00:00",
   "week": 2,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "Just send More Letters (JT)",
@@ -28,7 +28,13 @@
       "impact": 3,
       "headline": "George Kittle (TE): QUESTIONABLE",
       "detail": "Achilles",
-      "ref_id": "injury_0"
+      "ref_id": "injury_0",
+      "ai_verdict": {
+        "agree_with_default": false,
+        "confidence": "medium",
+        "verdict": "Bench Kittle if you have any other startable tight end; only start him if he's your only option.",
+        "reasoning": "An Achilles problem is the kind of injury that quietly steals a player's speed and snap count, and his last game backs that up \u2014 just 3.2 points, nowhere near the 12.3 the projection expects. Miami isn't a soft spot for tight ends either (11th toughest), so you're paying full price for a guy who may be limited or ruled out late."
+      }
     },
     {
       "category": "waiver",
@@ -36,7 +42,13 @@
       "impact": 0.7,
       "headline": "Add Harrison Mevis (K) - would start immediately",
       "detail": "Projected for 16.7 pts this week - +0.7 more than your weakest rostered K, Harrison Butker (16.0 proj). This would actually start over your starting K Harrison Butker (16.0 proj) - real points, not just bench depth.",
-      "ref_id": "waiver_K_0"
+      "ref_id": "waiver_K_0",
+      "ai_verdict": {
+        "agree_with_default": false,
+        "confidence": "high",
+        "verdict": "Skip the add \u2014 keep Butker as your kicker.",
+        "reasoning": "A 0.7-point projected edge at kicker is basically a coin flip, and Mevis draws the Giants, who rank 2nd-toughest against kickers, so that tiny edge is more likely to evaporate than pay off. Don't spend a waiver claim or roster spot to swap one kicker for a nearly identical one in a worse matchup."
+      }
     },
     {
       "category": "trending",
@@ -52,7 +64,13 @@
       "player": "George Kittle",
       "slot": "TE",
       "reason": "QUESTIONABLE",
-      "detail": "Achilles"
+      "detail": "Achilles",
+      "ai_verdict": {
+        "agree_with_default": false,
+        "confidence": "medium",
+        "verdict": "Bench Kittle if you have any other startable tight end; only start him if he's your only option.",
+        "reasoning": "An Achilles problem is the kind of injury that quietly steals a player's speed and snap count, and his last game backs that up \u2014 just 3.2 points, nowhere near the 12.3 the projection expects. Miami isn't a soft spot for tight ends either (11th toughest), so you're paying full price for a guy who may be limited or ruled out late."
+      }
     }
   ],
   "start_sit": [],
@@ -176,7 +194,13 @@
         "weakest_player": "Harrison Butker",
         "would_start_this_week": true,
         "reason": "Projected for 16.7 pts this week - +0.7 more than your weakest rostered K, Harrison Butker (16.0 proj). This would actually start over your starting K Harrison Butker (16.0 proj) - real points, not just bench depth.",
-        "recent_form": null
+        "recent_form": null,
+        "ai_verdict": {
+          "agree_with_default": false,
+          "confidence": "high",
+          "verdict": "Skip the add \u2014 keep Butker as your kicker.",
+          "reasoning": "A 0.7-point projected edge at kicker is basically a coin flip, and Mevis draws the Giants, who rank 2nd-toughest against kickers, so that tiny edge is more likely to evaporate than pay off. Don't spend a waiver claim or roster spot to swap one kicker for a nearly identical one in a worse matchup."
+        }
       }
     ]
   },
@@ -209,5 +233,6 @@
       "projected_points": 7.5,
       "sleeper_adds_24h": 90300
     }
-  ]
+  ],
+  "ai_reviewed_count": 2
 }
