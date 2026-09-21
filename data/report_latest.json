@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T03:42:09.975977+00:00",
+  "generated_at": "2026-09-21T12:10:51.050734+00:00",
   "week": 2,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "Just send More Letters (JT)",
@@ -42,8 +42,8 @@
       "category": "trending",
       "urgent": false,
       "impact": 0.5,
-      "headline": "Devin Singletary (RB) is trending on Sleeper",
-      "detail": "248,796 adds in the last 24h - possibly worth a speculative add.",
+      "headline": "Darren Waller (TE) is trending on Sleeper",
+      "detail": "257,598 adds in the last 24h - possibly worth a speculative add.",
       "ref_id": null
     }
   ],
@@ -171,7 +171,7 @@
         "name": "Harrison Mevis",
         "pro_team": "LAR",
         "projected_points": 16.73,
-        "percent_owned": 86.25,
+        "percent_owned": 86.24,
         "beats_your_weakest_by": 0.7,
         "weakest_player": "Harrison Butker",
         "would_start_this_week": true,
@@ -182,32 +182,32 @@
   },
   "trending_adds": [
     {
-      "name": "Devin Singletary",
-      "position": "RB",
-      "pro_team": "NYG",
-      "projected_points": 7.39,
-      "sleeper_adds_24h": 248796
-    },
-    {
       "name": "Darren Waller",
       "position": "TE",
       "pro_team": "CAR",
       "projected_points": 6.97,
-      "sleeper_adds_24h": 216945
+      "sleeper_adds_24h": 257598
+    },
+    {
+      "name": "Devin Singletary",
+      "position": "RB",
+      "pro_team": "NYG",
+      "projected_points": 7.39,
+      "sleeper_adds_24h": 253944
     },
     {
       "name": "Chase McLaughlin",
       "position": "K",
       "pro_team": "TB",
       "projected_points": 15.4,
-      "sleeper_adds_24h": 139240
+      "sleeper_adds_24h": 161640
     },
     {
       "name": "Kirk Cousins",
       "position": "QB",
       "pro_team": "LV",
       "projected_points": 27.91,
-      "sleeper_adds_24h": 71280
+      "sleeper_adds_24h": 91216
     }
   ],
   "trade_reviews": []
