@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T20:25:37.785346+00:00",
+  "generated_at": "2026-09-21T03:42:09.975977+00:00",
   "week": 2,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "Just send More Letters (JT)",
@@ -23,6 +23,14 @@
   },
   "top_actions": [
     {
+      "category": "injury_watch",
+      "urgent": false,
+      "impact": 3,
+      "headline": "Saquon Barkley (RB): QUESTIONABLE",
+      "detail": "Arm",
+      "ref_id": "injury_0"
+    },
+    {
       "category": "waiver",
       "urgent": false,
       "impact": 0.7,
@@ -35,11 +43,18 @@
       "urgent": false,
       "impact": 0.5,
       "headline": "Devin Singletary (RB) is trending on Sleeper",
-      "detail": "208,944 adds in the last 24h - possibly worth a speculative add.",
+      "detail": "248,796 adds in the last 24h - possibly worth a speculative add.",
       "ref_id": null
     }
   ],
-  "injury_flags": [],
+  "injury_flags": [
+    {
+      "player": "Saquon Barkley",
+      "slot": "RB",
+      "reason": "QUESTIONABLE",
+      "detail": "Arm"
+    }
+  ],
   "start_sit": [],
   "waiver_targets": {
     "RB": [
@@ -47,7 +62,7 @@
         "name": "Chris Brooks",
         "pro_team": "GB",
         "projected_points": 10.85,
-        "percent_owned": 20.15,
+        "percent_owned": 20.1,
         "beats_your_weakest_by": 1.8,
         "weakest_player": "Keaton Mitchell",
         "would_start_this_week": false,
@@ -61,7 +76,7 @@
         "name": "George Holani",
         "pro_team": "SEA",
         "projected_points": 9.22,
-        "percent_owned": 5.82,
+        "percent_owned": 5.83,
         "beats_your_weakest_by": 0.2,
         "weakest_player": "Keaton Mitchell",
         "would_start_this_week": false,
@@ -77,7 +92,7 @@
         "name": "Xavier Hutchinson",
         "pro_team": "HOU",
         "projected_points": 10.74,
-        "percent_owned": 4.49,
+        "percent_owned": 4.48,
         "beats_your_weakest_by": 2.8,
         "weakest_player": "Cooper Kupp",
         "would_start_this_week": false,
@@ -91,7 +106,7 @@
         "name": "Adonai Mitchell",
         "pro_team": "NYJ",
         "projected_points": 10.52,
-        "percent_owned": 17.01,
+        "percent_owned": 16.99,
         "beats_your_weakest_by": 2.5,
         "weakest_player": "Cooper Kupp",
         "would_start_this_week": false,
@@ -105,7 +120,7 @@
         "name": "Jaylin Noel",
         "pro_team": "HOU",
         "projected_points": 10.32,
-        "percent_owned": 7.08,
+        "percent_owned": 7.07,
         "beats_your_weakest_by": 2.3,
         "weakest_player": "Cooper Kupp",
         "would_start_this_week": false,
@@ -121,7 +136,7 @@
         "name": "Bears D/ST",
         "pro_team": "CHI",
         "projected_points": 16.69,
-        "percent_owned": 13.29,
+        "percent_owned": 13.27,
         "beats_your_weakest_by": 2.9,
         "weakest_player": "Jaguars D/ST",
         "would_start_this_week": false,
@@ -143,7 +158,7 @@
         "name": "Packers D/ST",
         "pro_team": "GB",
         "projected_points": 16.39,
-        "percent_owned": 20.05,
+        "percent_owned": 20.02,
         "beats_your_weakest_by": 2.6,
         "weakest_player": "Jaguars D/ST",
         "would_start_this_week": false,
@@ -156,7 +171,7 @@
         "name": "Harrison Mevis",
         "pro_team": "LAR",
         "projected_points": 16.73,
-        "percent_owned": 86.35,
+        "percent_owned": 86.25,
         "beats_your_weakest_by": 0.7,
         "weakest_player": "Harrison Butker",
         "would_start_this_week": true,
@@ -171,28 +186,28 @@
       "position": "RB",
       "pro_team": "NYG",
       "projected_points": 7.39,
-      "sleeper_adds_24h": 208944
+      "sleeper_adds_24h": 248796
     },
     {
       "name": "Darren Waller",
       "position": "TE",
       "pro_team": "CAR",
       "projected_points": 6.97,
-      "sleeper_adds_24h": 86157
-    },
-    {
-      "name": "Carson Wentz",
-      "position": "QB",
-      "pro_team": "MIN",
-      "projected_points": 33.48,
-      "sleeper_adds_24h": 77382
+      "sleeper_adds_24h": 216945
     },
     {
       "name": "Chase McLaughlin",
       "position": "K",
       "pro_team": "TB",
       "projected_points": 15.4,
-      "sleeper_adds_24h": 70592
+      "sleeper_adds_24h": 139240
+    },
+    {
+      "name": "Kirk Cousins",
+      "position": "QB",
+      "pro_team": "LV",
+      "projected_points": 27.91,
+      "sleeper_adds_24h": 71280
     }
   ],
   "trade_reviews": []
