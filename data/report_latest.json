@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T21:45:34.141350+00:00",
+  "generated_at": "2026-09-22T03:40:18.068059+00:00",
   "week": 2,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "Just send More Letters (JT)",
@@ -43,7 +43,7 @@
       "urgent": false,
       "impact": 0.5,
       "headline": "Darren Waller (TE) is trending on Sleeper",
-      "detail": "259,767 adds in the last 24h - possibly worth a speculative add.",
+      "detail": "274,824 adds in the last 24h - possibly worth a speculative add.",
       "ref_id": null
     }
   ],
@@ -62,7 +62,7 @@
         "name": "Chris Brooks",
         "pro_team": "GB",
         "projected_points": 10.85,
-        "percent_owned": 20.09,
+        "percent_owned": 20.07,
         "beats_your_weakest_by": 1.8,
         "weakest_player": "Keaton Mitchell",
         "would_start_this_week": false,
@@ -76,7 +76,7 @@
         "name": "George Holani",
         "pro_team": "SEA",
         "projected_points": 9.22,
-        "percent_owned": 5.83,
+        "percent_owned": 5.82,
         "beats_your_weakest_by": 0.2,
         "weakest_player": "Keaton Mitchell",
         "would_start_this_week": false,
@@ -106,7 +106,7 @@
         "name": "Adonai Mitchell",
         "pro_team": "NYJ",
         "projected_points": 10.52,
-        "percent_owned": 16.98,
+        "percent_owned": 16.97,
         "beats_your_weakest_by": 2.5,
         "weakest_player": "Cooper Kupp",
         "would_start_this_week": false,
@@ -120,7 +120,7 @@
         "name": "Jaylin Noel",
         "pro_team": "HOU",
         "projected_points": 10.32,
-        "percent_owned": 7.06,
+        "percent_owned": 7.05,
         "beats_your_weakest_by": 2.3,
         "weakest_player": "Cooper Kupp",
         "would_start_this_week": false,
@@ -136,7 +136,7 @@
         "name": "Bears D/ST",
         "pro_team": "CHI",
         "projected_points": 16.69,
-        "percent_owned": 13.27,
+        "percent_owned": 13.26,
         "beats_your_weakest_by": 2.9,
         "weakest_player": "Jaguars D/ST",
         "would_start_this_week": false,
@@ -158,7 +158,7 @@
         "name": "Packers D/ST",
         "pro_team": "GB",
         "projected_points": 16.39,
-        "percent_owned": 20.01,
+        "percent_owned": 19.99,
         "beats_your_weakest_by": 2.6,
         "weakest_player": "Jaguars D/ST",
         "would_start_this_week": false,
@@ -171,7 +171,7 @@
         "name": "Harrison Mevis",
         "pro_team": "LAR",
         "projected_points": 16.73,
-        "percent_owned": 86.19,
+        "percent_owned": 86.13,
         "beats_your_weakest_by": 0.7,
         "weakest_player": "Harrison Butker",
         "would_start_this_week": true,
@@ -186,35 +186,28 @@
       "position": "TE",
       "pro_team": "CAR",
       "projected_points": 6.97,
-      "sleeper_adds_24h": 259767
+      "sleeper_adds_24h": 274824
     },
     {
       "name": "Chase McLaughlin",
       "position": "K",
       "pro_team": "TB",
       "projected_points": 15.4,
-      "sleeper_adds_24h": 157336
-    },
-    {
-      "name": "Devin Singletary",
-      "position": "RB",
-      "pro_team": "NYG",
-      "projected_points": 7.39,
-      "sleeper_adds_24h": 125577
+      "sleeper_adds_24h": 170024
     },
     {
       "name": "Kirk Cousins",
       "position": "QB",
       "pro_team": "LV",
       "projected_points": 27.91,
-      "sleeper_adds_24h": 124952
+      "sleeper_adds_24h": 133128
     },
     {
-      "name": "Deshaun Watson",
-      "position": "QB",
-      "pro_team": "CLE",
-      "projected_points": 25.47,
-      "sleeper_adds_24h": 68928
+      "name": "Devin Singletary",
+      "position": "RB",
+      "pro_team": "NYG",
+      "projected_points": 7.39,
+      "sleeper_adds_24h": 111690
     }
   ],
   "trade_reviews": []
