@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T16:25:39.814533+00:00",
+  "generated_at": "2026-09-22T20:57:48.604346+00:00",
   "week": 3,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "FloridaGPT (JO)",
@@ -43,7 +43,7 @@
       "urgent": false,
       "impact": 0.5,
       "headline": "Darren Waller (TE) is trending on Sleeper",
-      "detail": "482,418 adds in the last 24h - possibly worth a speculative add.",
+      "detail": "573,183 adds in the last 24h - possibly worth a speculative add.",
       "ref_id": null
     }
   ],
@@ -62,7 +62,7 @@
         "name": "Kaleb Johnson",
         "pro_team": "GB",
         "projected_points": 9.2,
-        "percent_owned": 2.78,
+        "percent_owned": 2.79,
         "beats_your_weakest_by": 3.6,
         "weakest_player": "Keaton Mitchell",
         "would_start_this_week": false,
@@ -76,7 +76,7 @@
         "name": "Chris Brooks",
         "pro_team": "GB",
         "projected_points": 8.2,
-        "percent_owned": 19.85,
+        "percent_owned": 19.76,
         "beats_your_weakest_by": 2.6,
         "weakest_player": "Keaton Mitchell",
         "would_start_this_week": false,
@@ -90,7 +90,7 @@
         "name": "Braelon Allen",
         "pro_team": "NYJ",
         "projected_points": 7.47,
-        "percent_owned": 14.33,
+        "percent_owned": 14.32,
         "beats_your_weakest_by": 1.9,
         "weakest_player": "Keaton Mitchell",
         "would_start_this_week": false,
@@ -106,7 +106,7 @@
         "name": "Adonai Mitchell",
         "pro_team": "NYJ",
         "projected_points": 12.47,
-        "percent_owned": 16.98,
+        "percent_owned": 17.0,
         "beats_your_weakest_by": 5.8,
         "weakest_player": "Cooper Kupp",
         "would_start_this_week": false,
@@ -134,7 +134,7 @@
         "name": "Mack Hollins",
         "pro_team": "NE",
         "projected_points": 9.98,
-        "percent_owned": 7.16,
+        "percent_owned": 7.12,
         "beats_your_weakest_by": 3.3,
         "weakest_player": "Cooper Kupp",
         "would_start_this_week": false,
@@ -150,7 +150,7 @@
         "name": "Panthers D/ST",
         "pro_team": "CAR",
         "projected_points": 18.55,
-        "percent_owned": 3.66,
+        "percent_owned": 3.7,
         "beats_your_weakest_by": 4.3,
         "weakest_player": "Jaguars D/ST",
         "would_start_this_week": true,
@@ -161,7 +161,7 @@
         "name": "Giants D/ST",
         "pro_team": "NYG",
         "projected_points": 18.38,
-        "percent_owned": 3.08,
+        "percent_owned": 3.07,
         "beats_your_weakest_by": 4.2,
         "weakest_player": "Jaguars D/ST",
         "would_start_this_week": true,
@@ -187,21 +187,21 @@
       "position": "TE",
       "pro_team": "CAR",
       "projected_points": 6.36,
-      "sleeper_adds_24h": 482418
-    },
-    {
-      "name": "Chase McLaughlin",
-      "position": "K",
-      "pro_team": "TB",
-      "projected_points": 14.65,
-      "sleeper_adds_24h": 294736
+      "sleeper_adds_24h": 573183
     },
     {
       "name": "Kirk Cousins",
       "position": "QB",
       "pro_team": "LV",
       "projected_points": 29.03,
-      "sleeper_adds_24h": 281384
+      "sleeper_adds_24h": 362368
+    },
+    {
+      "name": "Chase McLaughlin",
+      "position": "K",
+      "pro_team": "TB",
+      "projected_points": 14.65,
+      "sleeper_adds_24h": 334640
     }
   ],
   "trade_reviews": []
