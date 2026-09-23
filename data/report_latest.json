@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T10:54:58.275094+00:00",
+  "generated_at": "2026-09-23T16:15:36.389279+00:00",
   "week": 3,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "FloridaGPT (JO)",
@@ -18,8 +18,8 @@
   },
   "matchup_projection": {
     "my_projected": 162.8,
-    "opponent_projected": 162.5,
-    "margin": 0.3
+    "opponent_projected": 162.4,
+    "margin": 0.5
   },
   "top_actions": [
     {
@@ -43,7 +43,7 @@
       "urgent": false,
       "impact": 0.5,
       "headline": "Zach Ertz (TE) is trending on Sleeper",
-      "detail": "919,926 adds in the last 24h - possibly worth a speculative add.",
+      "detail": "928,197 adds in the last 24h - possibly worth a speculative add.",
       "ref_id": null
     }
   ],
@@ -62,7 +62,7 @@
         "name": "Kaleb Johnson",
         "pro_team": "GB",
         "projected_points": 9.2,
-        "percent_owned": 4.19,
+        "percent_owned": 5.11,
         "beats_your_weakest_by": 3.6,
         "weakest_player": "Keaton Mitchell",
         "would_start_this_week": false,
@@ -76,7 +76,7 @@
         "name": "Chris Brooks",
         "pro_team": "GB",
         "projected_points": 8.2,
-        "percent_owned": 16.99,
+        "percent_owned": 16.34,
         "beats_your_weakest_by": 2.6,
         "weakest_player": "Keaton Mitchell",
         "would_start_this_week": false,
@@ -89,8 +89,8 @@
       {
         "name": "Braelon Allen",
         "pro_team": "NYJ",
-        "projected_points": 7.47,
-        "percent_owned": 13.92,
+        "projected_points": 7.46,
+        "percent_owned": 13.85,
         "beats_your_weakest_by": 1.9,
         "weakest_player": "Keaton Mitchell",
         "would_start_this_week": false,
@@ -103,24 +103,10 @@
     ],
     "WR": [
       {
-        "name": "Adonai Mitchell",
-        "pro_team": "NYJ",
-        "projected_points": 12.47,
-        "percent_owned": 24.37,
-        "beats_your_weakest_by": 5.8,
-        "weakest_player": "Cooper Kupp",
-        "would_start_this_week": false,
-        "reason": "Projected for 12.5 pts this week - +5.8 more than your weakest rostered WR, Cooper Kupp (6.7 proj). Actually averaged 10.7 ppg over their last 2 games, for context. Note: that's still below your starting WR Xavier Worthy (13.5 proj), so they'd sit on your bench scoring nothing unless something changes - this is a depth add / stash, not an immediate lineup upgrade.",
-        "recent_form": {
-          "avg_fantasy_points_ppr": 10.65,
-          "games_sample": 2
-        }
-      },
-      {
         "name": "Malik Washington",
         "pro_team": "MIA",
         "projected_points": 10.8,
-        "percent_owned": 8.3,
+        "percent_owned": 8.82,
         "beats_your_weakest_by": 4.1,
         "weakest_player": "Cooper Kupp",
         "would_start_this_week": false,
@@ -134,13 +120,27 @@
         "name": "Mack Hollins",
         "pro_team": "NE",
         "projected_points": 9.98,
-        "percent_owned": 6.07,
+        "percent_owned": 5.87,
         "beats_your_weakest_by": 3.3,
         "weakest_player": "Cooper Kupp",
         "would_start_this_week": false,
         "reason": "Projected for 10.0 pts this week - +3.3 more than your weakest rostered WR, Cooper Kupp (6.7 proj). Actually averaged 6.5 ppg over their last 2 games, for context. Note: that's still below your starting WR Xavier Worthy (13.5 proj), so they'd sit on your bench scoring nothing unless something changes - this is a depth add / stash, not an immediate lineup upgrade.",
         "recent_form": {
           "avg_fantasy_points_ppr": 6.45,
+          "games_sample": 2
+        }
+      },
+      {
+        "name": "Malachi Fields",
+        "pro_team": "NYG",
+        "projected_points": 9.47,
+        "percent_owned": 11.51,
+        "beats_your_weakest_by": 2.8,
+        "weakest_player": "Cooper Kupp",
+        "would_start_this_week": false,
+        "reason": "Projected for 9.5 pts this week - +2.8 more than your weakest rostered WR, Cooper Kupp (6.7 proj). Actually averaged 4.8 ppg over their last 2 games, for context. Note: that's still below your starting WR Xavier Worthy (13.5 proj), so they'd sit on your bench scoring nothing unless something changes - this is a depth add / stash, not an immediate lineup upgrade.",
+        "recent_form": {
+          "avg_fantasy_points_ppr": 4.75,
           "games_sample": 2
         }
       }
@@ -150,7 +150,7 @@
         "name": "Panthers D/ST",
         "pro_team": "CAR",
         "projected_points": 18.55,
-        "percent_owned": 21.05,
+        "percent_owned": 27.32,
         "beats_your_weakest_by": 4.3,
         "weakest_player": "Jaguars D/ST",
         "would_start_this_week": true,
@@ -161,7 +161,7 @@
         "name": "Giants D/ST",
         "pro_team": "NYG",
         "projected_points": 18.38,
-        "percent_owned": 7.92,
+        "percent_owned": 8.82,
         "beats_your_weakest_by": 4.2,
         "weakest_player": "Jaguars D/ST",
         "would_start_this_week": true,
@@ -172,7 +172,7 @@
         "name": "Saints D/ST",
         "pro_team": "NO",
         "projected_points": 18.12,
-        "percent_owned": 3.29,
+        "percent_owned": 3.72,
         "beats_your_weakest_by": 3.9,
         "weakest_player": "Jaguars D/ST",
         "would_start_this_week": true,
@@ -187,35 +187,35 @@
       "position": "TE",
       "pro_team": "None",
       "projected_points": 4.05,
-      "sleeper_adds_24h": 919926
+      "sleeper_adds_24h": 928197
     },
     {
       "name": "Darren Waller",
       "position": "TE",
       "pro_team": "CAR",
       "projected_points": 6.36,
-      "sleeper_adds_24h": 737838
+      "sleeper_adds_24h": 732510
     },
     {
       "name": "Kirk Cousins",
       "position": "QB",
       "pro_team": "LV",
       "projected_points": 29.03,
-      "sleeper_adds_24h": 504056
+      "sleeper_adds_24h": 550944
     },
     {
       "name": "Marcus Mariota",
       "position": "QB",
       "pro_team": "WSH",
       "projected_points": 30.53,
-      "sleeper_adds_24h": 501244
+      "sleeper_adds_24h": 449808
     },
     {
       "name": "Chase McLaughlin",
       "position": "K",
       "pro_team": "TB",
       "projected_points": 14.65,
-      "sleeper_adds_24h": 393288
+      "sleeper_adds_24h": 426656
     }
   ],
   "trade_reviews": []
