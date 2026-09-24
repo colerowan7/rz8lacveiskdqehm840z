@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T11:14:31.648694+00:00",
+  "generated_at": "2026-09-24T16:37:52.995164+00:00",
   "week": 3,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "FloridaGPT (JO)",
@@ -35,7 +35,7 @@
       "urgent": false,
       "impact": 0.5,
       "headline": "Zach Ertz (TE) is trending on Sleeper",
-      "detail": "387,666 adds in the last 24h - possibly worth a speculative add.",
+      "detail": "254,484 adds in the last 24h - possibly worth a speculative add.",
       "ref_id": null
     }
   ],
@@ -51,10 +51,21 @@
   "waiver_targets": {
     "RB": [
       {
+        "name": "Eli Heidenreich",
+        "pro_team": "PIT",
+        "projected_points": 9.79,
+        "percent_owned": 1.48,
+        "beats_your_weakest_by": 4.2,
+        "weakest_player": "Keaton Mitchell",
+        "would_start_this_week": false,
+        "reason": "Projected for 9.8 pts this week - +4.2 more than your weakest rostered RB, Keaton Mitchell (5.6 proj). Note: that's still below your starting RB Rhamondre Stevenson (13.7 proj), so they'd sit on your bench scoring nothing unless something changes - this is a depth add / stash, not an immediate lineup upgrade.",
+        "recent_form": null
+      },
+      {
         "name": "Kaleb Johnson",
         "pro_team": "GB",
         "projected_points": 9.2,
-        "percent_owned": 6.86,
+        "percent_owned": 7.49,
         "beats_your_weakest_by": 3.6,
         "weakest_player": "Keaton Mitchell",
         "would_start_this_week": false,
@@ -68,27 +79,13 @@
         "name": "Chris Brooks",
         "pro_team": "GB",
         "projected_points": 8.2,
-        "percent_owned": 15.3,
+        "percent_owned": 15.0,
         "beats_your_weakest_by": 2.6,
         "weakest_player": "Keaton Mitchell",
         "would_start_this_week": false,
         "reason": "Projected for 8.2 pts this week - +2.6 more than your weakest rostered RB, Keaton Mitchell (5.6 proj). Actually averaged 3.2 ppg over their last 2 games, for context. Note: that's still below your starting RB Rhamondre Stevenson (13.7 proj), so they'd sit on your bench scoring nothing unless something changes - this is a depth add / stash, not an immediate lineup upgrade.",
         "recent_form": {
           "avg_fantasy_points_ppr": 3.25,
-          "games_sample": 2
-        }
-      },
-      {
-        "name": "Braelon Allen",
-        "pro_team": "NYJ",
-        "projected_points": 7.46,
-        "percent_owned": 13.77,
-        "beats_your_weakest_by": 1.9,
-        "weakest_player": "Keaton Mitchell",
-        "would_start_this_week": false,
-        "reason": "Projected for 7.5 pts this week - +1.9 more than your weakest rostered RB, Keaton Mitchell (5.6 proj). Actually averaged 6.2 ppg over their last 2 games, for context. Note: that's still below your starting RB Rhamondre Stevenson (13.7 proj), so they'd sit on your bench scoring nothing unless something changes - this is a depth add / stash, not an immediate lineup upgrade.",
-        "recent_form": {
-          "avg_fantasy_points_ppr": 6.25,
           "games_sample": 2
         }
       }
@@ -98,7 +95,7 @@
         "name": "Malik Washington",
         "pro_team": "MIA",
         "projected_points": 10.8,
-        "percent_owned": 10.05,
+        "percent_owned": 10.47,
         "beats_your_weakest_by": 4.1,
         "weakest_player": "Cooper Kupp",
         "would_start_this_week": false,
@@ -112,7 +109,7 @@
         "name": "Mack Hollins",
         "pro_team": "NE",
         "projected_points": 9.98,
-        "percent_owned": 5.64,
+        "percent_owned": 5.58,
         "beats_your_weakest_by": 3.3,
         "weakest_player": "Cooper Kupp",
         "would_start_this_week": false,
@@ -126,7 +123,7 @@
         "name": "Malachi Fields",
         "pro_team": "NYG",
         "projected_points": 9.47,
-        "percent_owned": 11.04,
+        "percent_owned": 10.89,
         "beats_your_weakest_by": 2.8,
         "weakest_player": "Cooper Kupp",
         "would_start_this_week": false,
@@ -142,7 +139,7 @@
         "name": "Panthers D/ST",
         "pro_team": "CAR",
         "projected_points": 18.55,
-        "percent_owned": 36.31,
+        "percent_owned": 39.22,
         "beats_your_weakest_by": 4.3,
         "weakest_player": "Jaguars D/ST",
         "would_start_this_week": false,
@@ -153,7 +150,7 @@
         "name": "Giants D/ST",
         "pro_team": "NYG",
         "projected_points": 18.24,
-        "percent_owned": 10.25,
+        "percent_owned": 10.72,
         "beats_your_weakest_by": 4.0,
         "weakest_player": "Jaguars D/ST",
         "would_start_this_week": false,
@@ -164,7 +161,7 @@
         "name": "Saints D/ST",
         "pro_team": "NO",
         "projected_points": 17.98,
-        "percent_owned": 4.41,
+        "percent_owned": 4.66,
         "beats_your_weakest_by": 3.8,
         "weakest_player": "Jaguars D/ST",
         "would_start_this_week": false,
@@ -179,28 +176,28 @@
       "position": "TE",
       "pro_team": "None",
       "projected_points": 4.05,
-      "sleeper_adds_24h": 387666
-    },
-    {
-      "name": "Kirk Cousins",
-      "position": "QB",
-      "pro_team": "LV",
-      "projected_points": 29.03,
-      "sleeper_adds_24h": 373008
+      "sleeper_adds_24h": 254484
     },
     {
       "name": "Darren Waller",
       "position": "TE",
       "pro_team": "CAR",
       "projected_points": 6.36,
-      "sleeper_adds_24h": 368748
+      "sleeper_adds_24h": 249345
+    },
+    {
+      "name": "Kirk Cousins",
+      "position": "QB",
+      "pro_team": "LV",
+      "projected_points": 29.03,
+      "sleeper_adds_24h": 238888
     },
     {
       "name": "Chase McLaughlin",
       "position": "K",
       "pro_team": "TB",
       "projected_points": 14.65,
-      "sleeper_adds_24h": 286760
+      "sleeper_adds_24h": 181872
     }
   ],
   "trade_reviews": []
