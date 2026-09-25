@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T01:12:56.738663+00:00",
+  "generated_at": "2026-09-25T03:47:40.685982+00:00",
   "week": 3,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "FloridaGPT (JO)",
@@ -18,8 +18,8 @@
   },
   "matchup_projection": {
     "my_projected": 166.2,
-    "opponent_projected": 166.1,
-    "margin": 0.1
+    "opponent_projected": 167.9,
+    "margin": -1.6
   },
   "top_actions": [
     {
@@ -28,20 +28,14 @@
       "impact": 3,
       "headline": "Saquon Barkley (RB): QUESTIONABLE",
       "detail": "Arm",
-      "ref_id": "injury_0",
-      "ai_verdict": {
-        "agree_with_default": true,
-        "confidence": "medium",
-        "verdict": "Start Saquon Barkley as planned, but confirm he's active before kickoff.",
-        "reasoning": "An arm issue rarely costs a running back carries, and Chicago is one of the softer run defenses he'll see (ranked 23rd against the position), so the workload and matchup both point to a bounce-back. The 6.0 points per game over his last two is ugly, but two games isn't enough to bench a true workhorse back unless you have another clear starter-quality option."
-      }
+      "ref_id": "injury_0"
     },
     {
       "category": "trending",
       "urgent": false,
       "impact": 0.5,
       "headline": "Darren Waller (TE) is trending on Sleeper",
-      "detail": "289,341 adds in the last 24h - possibly worth a speculative add.",
+      "detail": "313,011 adds in the last 24h - possibly worth a speculative add.",
       "ref_id": null
     }
   ],
@@ -50,13 +44,7 @@
       "player": "Saquon Barkley",
       "slot": "RB",
       "reason": "QUESTIONABLE",
-      "detail": "Arm",
-      "ai_verdict": {
-        "agree_with_default": true,
-        "confidence": "medium",
-        "verdict": "Start Saquon Barkley as planned, but confirm he's active before kickoff.",
-        "reasoning": "An arm issue rarely costs a running back carries, and Chicago is one of the softer run defenses he'll see (ranked 23rd against the position), so the workload and matchup both point to a bounce-back. The 6.0 points per game over his last two is ugly, but two games isn't enough to bench a true workhorse back unless you have another clear starter-quality option."
-      }
+      "detail": "Arm"
     }
   ],
   "start_sit": [],
@@ -66,7 +54,7 @@
         "name": "Eli Heidenreich",
         "pro_team": "PIT",
         "projected_points": 9.79,
-        "percent_owned": 2.26,
+        "percent_owned": 2.54,
         "beats_your_weakest_by": 4.2,
         "weakest_player": "Keaton Mitchell",
         "would_start_this_week": false,
@@ -107,7 +95,7 @@
         "name": "Xavier Hutchinson",
         "pro_team": "HOU",
         "projected_points": 10.91,
-        "percent_owned": 4.07,
+        "percent_owned": 4.32,
         "beats_your_weakest_by": 4.2,
         "weakest_player": "Cooper Kupp",
         "would_start_this_week": false,
@@ -121,7 +109,7 @@
         "name": "Malik Washington",
         "pro_team": "MIA",
         "projected_points": 10.9,
-        "percent_owned": 11.16,
+        "percent_owned": 11.38,
         "beats_your_weakest_by": 4.2,
         "weakest_player": "Cooper Kupp",
         "would_start_this_week": false,
@@ -135,7 +123,7 @@
         "name": "Mack Hollins",
         "pro_team": "NE",
         "projected_points": 9.98,
-        "percent_owned": 5.52,
+        "percent_owned": 5.5,
         "beats_your_weakest_by": 3.3,
         "weakest_player": "Cooper Kupp",
         "would_start_this_week": false,
@@ -151,7 +139,7 @@
         "name": "Panthers D/ST",
         "pro_team": "CAR",
         "projected_points": 18.55,
-        "percent_owned": 43.21,
+        "percent_owned": 44.4,
         "beats_your_weakest_by": 4.3,
         "weakest_player": "Jaguars D/ST",
         "would_start_this_week": false,
@@ -162,7 +150,7 @@
         "name": "Giants D/ST",
         "pro_team": "NYG",
         "projected_points": 18.24,
-        "percent_owned": 11.64,
+        "percent_owned": 11.92,
         "beats_your_weakest_by": 4.0,
         "weakest_player": "Jaguars D/ST",
         "would_start_this_week": false,
@@ -173,7 +161,7 @@
         "name": "Saints D/ST",
         "pro_team": "NO",
         "projected_points": 17.98,
-        "percent_owned": 5.05,
+        "percent_owned": 5.17,
         "beats_your_weakest_by": 3.8,
         "weakest_player": "Jaguars D/ST",
         "would_start_this_week": false,
@@ -188,30 +176,29 @@
       "position": "TE",
       "pro_team": "CAR",
       "projected_points": 6.36,
-      "sleeper_adds_24h": 289341
+      "sleeper_adds_24h": 313011
     },
     {
       "name": "Kirk Cousins",
       "position": "QB",
       "pro_team": "LV",
       "projected_points": 29.03,
-      "sleeper_adds_24h": 195752
+      "sleeper_adds_24h": 192768
     },
     {
       "name": "Chase McLaughlin",
       "position": "K",
       "pro_team": "TB",
       "projected_points": 14.65,
-      "sleeper_adds_24h": 165528
+      "sleeper_adds_24h": 160272
     },
     {
       "name": "Zach Ertz",
       "position": "TE",
       "pro_team": "None",
       "projected_points": 4.05,
-      "sleeper_adds_24h": 161271
+      "sleeper_adds_24h": 135801
     }
   ],
-  "trade_reviews": [],
-  "ai_reviewed_count": 1
+  "trade_reviews": []
 }
