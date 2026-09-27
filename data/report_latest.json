@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T16:32:12.171448+00:00",
+  "generated_at": "2026-09-27T20:59:27.350868+00:00",
   "week": 3,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "FloridaGPT (JO)",
@@ -17,25 +17,17 @@
     "ir_eligible_on_bench": []
   },
   "matchup_projection": {
-    "my_projected": 162.9,
+    "my_projected": 166.2,
     "opponent_projected": 168.1,
-    "margin": -5.2
+    "margin": -1.8
   },
   "top_actions": [
-    {
-      "category": "waiver",
-      "urgent": false,
-      "impact": 4.4,
-      "headline": "Add Panthers D/ST (D/ST) - would start immediately",
-      "detail": "Projected for 18.6 pts this week - +4.4 more than your weakest rostered D/ST, Jaguars D/ST (14.2 proj). This would actually start over your starting D/ST Eagles D/ST (16.2 proj) - real points, not just bench depth.",
-      "ref_id": "waiver_D/ST_0"
-    },
     {
       "category": "trending",
       "urgent": false,
       "impact": 0.5,
       "headline": "Tyreek Hill (WR) is trending on Sleeper",
-      "detail": "226,432 adds in the last 24h - possibly worth a speculative add.",
+      "detail": "466,368 adds in the last 24h - possibly worth a speculative add.",
       "ref_id": null
     }
   ],
@@ -47,7 +39,7 @@
         "name": "Kaleb Johnson",
         "pro_team": "GB",
         "projected_points": 9.2,
-        "percent_owned": 8.69,
+        "percent_owned": 8.68,
         "beats_your_weakest_by": 3.6,
         "weakest_player": "Keaton Mitchell",
         "would_start_this_week": false,
@@ -61,7 +53,7 @@
         "name": "Chris Brooks",
         "pro_team": "GB",
         "projected_points": 8.2,
-        "percent_owned": 14.6,
+        "percent_owned": 14.59,
         "beats_your_weakest_by": 2.6,
         "weakest_player": "Keaton Mitchell",
         "would_start_this_week": false,
@@ -75,7 +67,7 @@
         "name": "Braelon Allen",
         "pro_team": "NYJ",
         "projected_points": 7.47,
-        "percent_owned": 13.94,
+        "percent_owned": 13.98,
         "beats_your_weakest_by": 1.9,
         "weakest_player": "Keaton Mitchell",
         "would_start_this_week": false,
@@ -91,7 +83,7 @@
         "name": "Malik Washington",
         "pro_team": "MIA",
         "projected_points": 10.93,
-        "percent_owned": 13.22,
+        "percent_owned": 13.37,
         "beats_your_weakest_by": 4.2,
         "weakest_player": "Cooper Kupp",
         "would_start_this_week": false,
@@ -105,7 +97,7 @@
         "name": "Xavier Hutchinson",
         "pro_team": "HOU",
         "projected_points": 10.91,
-        "percent_owned": 6.85,
+        "percent_owned": 7.09,
         "beats_your_weakest_by": 4.2,
         "weakest_player": "Cooper Kupp",
         "would_start_this_week": false,
@@ -118,7 +110,7 @@
       {
         "name": "Mack Hollins",
         "pro_team": "NE",
-        "projected_points": 10.01,
+        "projected_points": 10.0,
         "percent_owned": 5.36,
         "beats_your_weakest_by": 3.3,
         "weakest_player": "Cooper Kupp",
@@ -135,33 +127,33 @@
         "name": "Panthers D/ST",
         "pro_team": "CAR",
         "projected_points": 18.65,
-        "percent_owned": 50.16,
+        "percent_owned": 50.89,
         "beats_your_weakest_by": 4.4,
         "weakest_player": "Jaguars D/ST",
-        "would_start_this_week": true,
-        "reason": "Projected for 18.6 pts this week - +4.4 more than your weakest rostered D/ST, Jaguars D/ST (14.2 proj). This would actually start over your starting D/ST Eagles D/ST (16.2 proj) - real points, not just bench depth.",
+        "would_start_this_week": false,
+        "reason": "Projected for 18.6 pts this week - +4.4 more than your weakest rostered D/ST, Jaguars D/ST (14.2 proj). Note: that's still below your starting D/ST Eagles D/ST (19.5 proj), so they'd sit on your bench scoring nothing unless something changes - this is a depth add / stash, not an immediate lineup upgrade.",
         "recent_form": null
       },
       {
         "name": "Giants D/ST",
         "pro_team": "NYG",
-        "projected_points": 18.61,
-        "percent_owned": 14.06,
-        "beats_your_weakest_by": 4.4,
+        "projected_points": 18.49,
+        "percent_owned": 14.64,
+        "beats_your_weakest_by": 4.3,
         "weakest_player": "Jaguars D/ST",
-        "would_start_this_week": true,
-        "reason": "Projected for 18.6 pts this week - +4.4 more than your weakest rostered D/ST, Jaguars D/ST (14.2 proj). This would actually start over your starting D/ST Eagles D/ST (16.2 proj) - real points, not just bench depth.",
+        "would_start_this_week": false,
+        "reason": "Projected for 18.5 pts this week - +4.3 more than your weakest rostered D/ST, Jaguars D/ST (14.2 proj). Note: that's still below your starting D/ST Eagles D/ST (19.5 proj), so they'd sit on your bench scoring nothing unless something changes - this is a depth add / stash, not an immediate lineup upgrade.",
         "recent_form": null
       },
       {
         "name": "Saints D/ST",
         "pro_team": "NO",
         "projected_points": 17.98,
-        "percent_owned": 5.83,
+        "percent_owned": 6.18,
         "beats_your_weakest_by": 3.8,
         "weakest_player": "Jaguars D/ST",
-        "would_start_this_week": true,
-        "reason": "Projected for 18.0 pts this week - +3.8 more than your weakest rostered D/ST, Jaguars D/ST (14.2 proj). This would actually start over your starting D/ST Eagles D/ST (16.2 proj) - real points, not just bench depth.",
+        "would_start_this_week": false,
+        "reason": "Projected for 18.0 pts this week - +3.8 more than your weakest rostered D/ST, Jaguars D/ST (14.2 proj). Note: that's still below your starting D/ST Eagles D/ST (19.5 proj), so they'd sit on your bench scoring nothing unless something changes - this is a depth add / stash, not an immediate lineup upgrade.",
         "recent_form": null
       }
     ]
@@ -172,49 +164,49 @@
       "position": "WR",
       "pro_team": "None",
       "projected_points": 0,
-      "sleeper_adds_24h": 226432
+      "sleeper_adds_24h": 466368
     },
     {
       "name": "Darren Waller",
       "position": "TE",
       "pro_team": "CAR",
       "projected_points": 6.36,
-      "sleeper_adds_24h": 154701
+      "sleeper_adds_24h": 140148
     },
     {
       "name": "Kirk Cousins",
       "position": "QB",
       "pro_team": "LV",
-      "projected_points": 29.03,
-      "sleeper_adds_24h": 102296
-    },
-    {
-      "name": "AJ Dillon",
-      "position": "RB",
-      "pro_team": "CAR",
-      "projected_points": 6.29,
-      "sleeper_adds_24h": 89592
-    },
-    {
-      "name": "Chase McLaughlin",
-      "position": "K",
-      "pro_team": "TB",
-      "projected_points": 14.65,
-      "sleeper_adds_24h": 82880
+      "projected_points": 29.02,
+      "sleeper_adds_24h": 128104
     },
     {
       "name": "Justice Hill",
       "position": "RB",
       "pro_team": "BAL",
       "projected_points": 7.39,
-      "sleeper_adds_24h": 76401
+      "sleeper_adds_24h": 93231
+    },
+    {
+      "name": "Chase McLaughlin",
+      "position": "K",
+      "pro_team": "TB",
+      "projected_points": 14.65,
+      "sleeper_adds_24h": 89680
+    },
+    {
+      "name": "AJ Dillon",
+      "position": "RB",
+      "pro_team": "CAR",
+      "projected_points": 6.29,
+      "sleeper_adds_24h": 71704
     },
     {
       "name": "Deshaun Watson",
       "position": "QB",
       "pro_team": "CLE",
       "projected_points": 29.56,
-      "sleeper_adds_24h": 53936
+      "sleeper_adds_24h": 62152
     }
   ],
   "trade_reviews": []
