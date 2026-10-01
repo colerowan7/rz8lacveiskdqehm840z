@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T04:33:08.062043+00:00",
+  "generated_at": "2026-10-01T12:35:11.001666+00:00",
   "week": 4,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "Tokyo 5XL returns (BA)",
@@ -35,7 +35,7 @@
       "urgent": false,
       "impact": 0.5,
       "headline": "Tyreek Hill (WR) is trending on Sleeper",
-      "detail": "572,664 adds in the last 24h - possibly worth a speculative add.",
+      "detail": "509,128 adds in the last 24h - possibly worth a speculative add.",
       "ref_id": null
     },
     {
@@ -55,7 +55,7 @@
         "name": "Isaiah Davis",
         "pro_team": "NYJ",
         "projected_points": 10.38,
-        "percent_owned": 4.9,
+        "percent_owned": 5.32,
         "beats_your_weakest_by": 5.1,
         "weakest_player": "Keaton Mitchell",
         "would_start_this_week": false,
@@ -66,7 +66,7 @@
         "name": "Kendre Miller",
         "pro_team": "NO",
         "projected_points": 9.99,
-        "percent_owned": 8.42,
+        "percent_owned": 9.14,
         "beats_your_weakest_by": 4.7,
         "weakest_player": "Keaton Mitchell",
         "would_start_this_week": false,
@@ -77,17 +77,17 @@
         }
       },
       {
-        "name": "Jaylen Wright",
-        "pro_team": "MIA",
-        "projected_points": 8.23,
-        "percent_owned": 17.4,
-        "beats_your_weakest_by": 2.9,
+        "name": "Kaleb Johnson",
+        "pro_team": "GB",
+        "projected_points": 8.08,
+        "percent_owned": 6.43,
+        "beats_your_weakest_by": 2.8,
         "weakest_player": "Keaton Mitchell",
         "would_start_this_week": false,
-        "reason": "Projected for 8.2 pts this week - +2.9 more than your weakest rostered RB, Keaton Mitchell (5.3 proj). Actually averaged 0.5 ppg over their last 2 games, for context. Note: that's still below your starting RB Rhamondre Stevenson (13.2 proj), so they'd sit on your bench scoring nothing unless something changes - this is a depth add / stash, not an immediate lineup upgrade.",
+        "reason": "Projected for 8.1 pts this week - +2.8 more than your weakest rostered RB, Keaton Mitchell (5.3 proj). Actually averaged 1.9 ppg over their last 3 games, for context. Note: that's still below your starting RB Rhamondre Stevenson (13.2 proj), so they'd sit on your bench scoring nothing unless something changes - this is a depth add / stash, not an immediate lineup upgrade.",
         "recent_form": {
-          "avg_fantasy_points_ppr": 0.5,
-          "games_sample": 2
+          "avg_fantasy_points_ppr": 1.93,
+          "games_sample": 3
         }
       }
     ],
@@ -96,7 +96,7 @@
         "name": "Mack Hollins",
         "pro_team": "NE",
         "projected_points": 11.03,
-        "percent_owned": 9.1,
+        "percent_owned": 9.46,
         "beats_your_weakest_by": 3.6,
         "weakest_player": "Cooper Kupp",
         "would_start_this_week": false,
@@ -110,7 +110,7 @@
         "name": "Malik Washington",
         "pro_team": "MIA",
         "projected_points": 10.84,
-        "percent_owned": 19.8,
+        "percent_owned": 20.4,
         "beats_your_weakest_by": 3.4,
         "weakest_player": "Cooper Kupp",
         "would_start_this_week": false,
@@ -124,7 +124,7 @@
         "name": "Malachi Fields",
         "pro_team": "NYG",
         "projected_points": 8.95,
-        "percent_owned": 8.54,
+        "percent_owned": 8.39,
         "beats_your_weakest_by": 1.5,
         "weakest_player": "Cooper Kupp",
         "would_start_this_week": false,
@@ -140,7 +140,7 @@
         "name": "Kenyon Sadiq",
         "pro_team": "NYJ",
         "projected_points": 11.11,
-        "percent_owned": 55.26,
+        "percent_owned": 56.35,
         "beats_your_weakest_by": 3.0,
         "weakest_player": "Kyle Pitts Sr.",
         "would_start_this_week": false,
@@ -154,7 +154,7 @@
         "name": "Darren Waller",
         "pro_team": "CAR",
         "projected_points": 10.87,
-        "percent_owned": 18.33,
+        "percent_owned": 19.54,
         "beats_your_weakest_by": 2.8,
         "weakest_player": "Kyle Pitts Sr.",
         "would_start_this_week": false,
@@ -168,7 +168,7 @@
         "name": "AJ Barner",
         "pro_team": "SEA",
         "projected_points": 9.5,
-        "percent_owned": 7.26,
+        "percent_owned": 7.42,
         "beats_your_weakest_by": 1.4,
         "weakest_player": "Kyle Pitts Sr.",
         "would_start_this_week": false,
@@ -184,7 +184,7 @@
         "name": "49ers D/ST",
         "pro_team": "SF",
         "projected_points": 17.2,
-        "percent_owned": 55.46,
+        "percent_owned": 54.2,
         "beats_your_weakest_by": 3.8,
         "weakest_player": "Eagles D/ST",
         "would_start_this_week": true,
@@ -195,7 +195,7 @@
         "name": "Bears D/ST",
         "pro_team": "CHI",
         "projected_points": 16.98,
-        "percent_owned": 23.04,
+        "percent_owned": 24.54,
         "beats_your_weakest_by": 3.6,
         "weakest_player": "Eagles D/ST",
         "would_start_this_week": true,
@@ -206,7 +206,7 @@
         "name": "Buccaneers D/ST",
         "pro_team": "TB",
         "projected_points": 16.97,
-        "percent_owned": 22.42,
+        "percent_owned": 22.18,
         "beats_your_weakest_by": 3.5,
         "weakest_player": "Eagles D/ST",
         "would_start_this_week": true,
@@ -219,7 +219,7 @@
         "name": "Will Reichard",
         "pro_team": "MIN",
         "projected_points": 16.04,
-        "percent_owned": 35.85,
+        "percent_owned": 36.45,
         "beats_your_weakest_by": 0.3,
         "weakest_player": "Harrison Butker",
         "would_start_this_week": true,
@@ -230,7 +230,7 @@
         "name": "Spencer Shrader",
         "pro_team": "IND",
         "projected_points": 15.81,
-        "percent_owned": 23.49,
+        "percent_owned": 24.82,
         "beats_your_weakest_by": 0.1,
         "weakest_player": "Harrison Butker",
         "would_start_this_week": true,
@@ -245,21 +245,28 @@
       "position": "WR",
       "pro_team": "None",
       "projected_points": 0,
-      "sleeper_adds_24h": 572664
+      "sleeper_adds_24h": 509128
     },
     {
       "name": "Darren Waller",
       "position": "TE",
       "pro_team": "CAR",
       "projected_points": 10.87,
-      "sleeper_adds_24h": 464094
+      "sleeper_adds_24h": 315054
     },
     {
       "name": "Kirk Cousins",
       "position": "QB",
       "pro_team": "LV",
       "projected_points": 30.27,
-      "sleeper_adds_24h": 258552
+      "sleeper_adds_24h": 199208
+    },
+    {
+      "name": "Deshaun Watson",
+      "position": "QB",
+      "pro_team": "CLE",
+      "projected_points": 28.31,
+      "sleeper_adds_24h": 121200
     }
   ],
   "trade_reviews": []
