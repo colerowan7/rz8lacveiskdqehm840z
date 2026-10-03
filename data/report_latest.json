@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T04:08:00.029594+00:00",
+  "generated_at": "2026-10-03T11:13:08.006795+00:00",
   "week": 4,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "Tokyo 5XL returns (BA)",
@@ -43,7 +43,7 @@
       "urgent": false,
       "impact": 0.5,
       "headline": "Jauan Jennings (WR) is trending on Sleeper",
-      "detail": "245,189 adds in the last 24h - possibly worth a speculative add.",
+      "detail": "267,204 adds in the last 24h - possibly worth a speculative add.",
       "ref_id": null
     },
     {
@@ -63,7 +63,7 @@
         "name": "George Holani",
         "pro_team": "SEA",
         "projected_points": 11.71,
-        "percent_owned": 4.78,
+        "percent_owned": 5.21,
         "beats_your_weakest_by": 6.4,
         "weakest_player": "Keaton Mitchell",
         "would_start_this_week": false,
@@ -88,7 +88,7 @@
         "name": "Kendre Miller",
         "pro_team": "NO",
         "projected_points": 9.99,
-        "percent_owned": 16.24,
+        "percent_owned": 16.29,
         "beats_your_weakest_by": 4.7,
         "weakest_player": "Keaton Mitchell",
         "would_start_this_week": false,
@@ -104,7 +104,7 @@
         "name": "Makai Lemon",
         "pro_team": "PHI",
         "projected_points": 11.99,
-        "percent_owned": 49.84,
+        "percent_owned": 50.15,
         "beats_your_weakest_by": 4.1,
         "weakest_player": "Cooper Kupp",
         "would_start_this_week": true,
@@ -118,7 +118,7 @@
         "name": "Malik Washington",
         "pro_team": "MIA",
         "projected_points": 11.41,
-        "percent_owned": 24.53,
+        "percent_owned": 24.66,
         "beats_your_weakest_by": 3.5,
         "weakest_player": "Cooper Kupp",
         "would_start_this_week": false,
@@ -132,7 +132,7 @@
         "name": "Jauan Jennings",
         "pro_team": "MIN",
         "projected_points": 11.34,
-        "percent_owned": 5.39,
+        "percent_owned": 5.47,
         "beats_your_weakest_by": 3.5,
         "weakest_player": "Cooper Kupp",
         "would_start_this_week": false,
@@ -148,7 +148,7 @@
         "name": "Kenyon Sadiq",
         "pro_team": "NYJ",
         "projected_points": 11.11,
-        "percent_owned": 57.87,
+        "percent_owned": 57.94,
         "beats_your_weakest_by": 3.0,
         "weakest_player": "Kyle Pitts Sr.",
         "would_start_this_week": false,
@@ -162,7 +162,7 @@
         "name": "Darren Waller",
         "pro_team": "CAR",
         "projected_points": 10.87,
-        "percent_owned": 28.61,
+        "percent_owned": 28.92,
         "beats_your_weakest_by": 2.8,
         "weakest_player": "Kyle Pitts Sr.",
         "would_start_this_week": false,
@@ -176,7 +176,7 @@
         "name": "AJ Barner",
         "pro_team": "SEA",
         "projected_points": 9.9,
-        "percent_owned": 8.09,
+        "percent_owned": 8.11,
         "beats_your_weakest_by": 1.8,
         "weakest_player": "Kyle Pitts Sr.",
         "would_start_this_week": false,
@@ -192,7 +192,7 @@
         "name": "Bears D/ST",
         "pro_team": "CHI",
         "projected_points": 17.15,
-        "percent_owned": 31.89,
+        "percent_owned": 32.17,
         "beats_your_weakest_by": 3.8,
         "weakest_player": "Eagles D/ST",
         "would_start_this_week": true,
@@ -203,7 +203,7 @@
         "name": "Buccaneers D/ST",
         "pro_team": "TB",
         "projected_points": 16.97,
-        "percent_owned": 20.99,
+        "percent_owned": 20.95,
         "beats_your_weakest_by": 3.6,
         "weakest_player": "Eagles D/ST",
         "would_start_this_week": true,
@@ -214,7 +214,7 @@
         "name": "Packers D/ST",
         "pro_team": "GB",
         "projected_points": 16.8,
-        "percent_owned": 26.92,
+        "percent_owned": 27.07,
         "beats_your_weakest_by": 3.5,
         "weakest_player": "Eagles D/ST",
         "would_start_this_week": true,
@@ -227,7 +227,7 @@
         "name": "Will Reichard",
         "pro_team": "MIN",
         "projected_points": 16.04,
-        "percent_owned": 38.81,
+        "percent_owned": 38.88,
         "beats_your_weakest_by": 0.3,
         "weakest_player": "Harrison Butker",
         "would_start_this_week": true,
@@ -238,7 +238,7 @@
         "name": "Spencer Shrader",
         "pro_team": "IND",
         "projected_points": 15.81,
-        "percent_owned": 29.15,
+        "percent_owned": 29.28,
         "beats_your_weakest_by": 0.1,
         "weakest_player": "Harrison Butker",
         "would_start_this_week": true,
@@ -253,35 +253,42 @@
       "position": "WR",
       "pro_team": "MIN",
       "projected_points": 11.34,
-      "sleeper_adds_24h": 245189
+      "sleeper_adds_24h": 267204
     },
     {
       "name": "Tyreek Hill",
       "position": "WR",
       "pro_team": "None",
       "projected_points": 0,
-      "sleeper_adds_24h": 238968
+      "sleeper_adds_24h": 196384
     },
     {
       "name": "Darren Waller",
       "position": "TE",
       "pro_team": "CAR",
       "projected_points": 10.87,
-      "sleeper_adds_24h": 167949
+      "sleeper_adds_24h": 162252
     },
     {
       "name": "Tyler Higbee",
       "position": "TE",
       "pro_team": "LAR",
       "projected_points": 8.53,
-      "sleeper_adds_24h": 155547
+      "sleeper_adds_24h": 153153
     },
     {
       "name": "Kirk Cousins",
       "position": "QB",
       "pro_team": "LV",
       "projected_points": 30.27,
-      "sleeper_adds_24h": 62656
+      "sleeper_adds_24h": 54936
+    },
+    {
+      "name": "Austin Ekeler",
+      "position": "RB",
+      "pro_team": "WSH",
+      "projected_points": 6.53,
+      "sleeper_adds_24h": 47048
     }
   ],
   "trade_reviews": []
