@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T11:54:08.478814+00:00",
+  "generated_at": "2026-10-04T16:32:31.830061+00:00",
   "week": 4,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "Tokyo 5XL returns (BA)",
@@ -35,7 +35,7 @@
       "urgent": false,
       "impact": 0.5,
       "headline": "Jauan Jennings (WR) is trending on Sleeper",
-      "detail": "321,720 adds in the last 24h - possibly worth a speculative add.",
+      "detail": "420,063 adds in the last 24h - possibly worth a speculative add.",
       "ref_id": null
     },
     {
@@ -52,24 +52,10 @@
   "waiver_targets": {
     "RB": [
       {
-        "name": "George Holani",
-        "pro_team": "SEA",
-        "projected_points": 11.69,
-        "percent_owned": 12.11,
-        "beats_your_weakest_by": 6.4,
-        "weakest_player": "Keaton Mitchell",
-        "would_start_this_week": false,
-        "reason": "Projected for 11.7 pts this week - +6.4 more than your weakest rostered RB, Keaton Mitchell (5.3 proj). Actually averaged 5.4 ppg over their last 3 games, for context. Note: that's still below your starting RB Rhamondre Stevenson (13.2 proj), so they'd sit on your bench scoring nothing unless something changes - this is a depth add / stash, not an immediate lineup upgrade.",
-        "recent_form": {
-          "avg_fantasy_points_ppr": 5.4,
-          "games_sample": 3
-        }
-      },
-      {
         "name": "Isaiah Davis",
         "pro_team": "NYJ",
         "projected_points": 10.38,
-        "percent_owned": 8.11,
+        "percent_owned": 8.4,
         "beats_your_weakest_by": 5.1,
         "weakest_player": "Keaton Mitchell",
         "would_start_this_week": false,
@@ -89,6 +75,20 @@
           "avg_fantasy_points_ppr": 1.93,
           "games_sample": 3
         }
+      },
+      {
+        "name": "Najee Harris",
+        "pro_team": "NYG",
+        "projected_points": 7.39,
+        "percent_owned": 7.99,
+        "beats_your_weakest_by": 2.1,
+        "weakest_player": "Keaton Mitchell",
+        "would_start_this_week": false,
+        "reason": "Projected for 7.4 pts this week - +2.1 more than your weakest rostered RB, Keaton Mitchell (5.3 proj). Actually averaged 2.9 ppg over their last 2 games, for context. Note: that's still below your starting RB Rhamondre Stevenson (13.2 proj), so they'd sit on your bench scoring nothing unless something changes - this is a depth add / stash, not an immediate lineup upgrade.",
+        "recent_form": {
+          "avg_fantasy_points_ppr": 2.9,
+          "games_sample": 2
+        }
       }
     ],
     "WR": [
@@ -96,7 +96,7 @@
         "name": "Malik Washington",
         "pro_team": "MIA",
         "projected_points": 11.41,
-        "percent_owned": 26.44,
+        "percent_owned": 27.64,
         "beats_your_weakest_by": 3.5,
         "weakest_player": "Cooper Kupp",
         "would_start_this_week": false,
@@ -110,7 +110,7 @@
         "name": "Jauan Jennings",
         "pro_team": "MIN",
         "projected_points": 11.34,
-        "percent_owned": 6.64,
+        "percent_owned": 7.48,
         "beats_your_weakest_by": 3.5,
         "weakest_player": "Cooper Kupp",
         "would_start_this_week": false,
@@ -124,7 +124,7 @@
         "name": "Mack Hollins",
         "pro_team": "NE",
         "projected_points": 11.03,
-        "percent_owned": 12.92,
+        "percent_owned": 13.57,
         "beats_your_weakest_by": 3.2,
         "weakest_player": "Cooper Kupp",
         "would_start_this_week": false,
@@ -140,7 +140,7 @@
         "name": "Darren Waller",
         "pro_team": "CAR",
         "projected_points": 11.83,
-        "percent_owned": 31.97,
+        "percent_owned": 34.36,
         "beats_your_weakest_by": 3.7,
         "weakest_player": "Kyle Pitts Sr.",
         "would_start_this_week": false,
@@ -154,7 +154,7 @@
         "name": "Kenyon Sadiq",
         "pro_team": "NYJ",
         "projected_points": 11.11,
-        "percent_owned": 58.13,
+        "percent_owned": 58.26,
         "beats_your_weakest_by": 3.0,
         "weakest_player": "Kyle Pitts Sr.",
         "would_start_this_week": false,
@@ -168,7 +168,7 @@
         "name": "AJ Barner",
         "pro_team": "SEA",
         "projected_points": 9.9,
-        "percent_owned": 8.32,
+        "percent_owned": 8.52,
         "beats_your_weakest_by": 1.8,
         "weakest_player": "Kyle Pitts Sr.",
         "would_start_this_week": false,
@@ -184,7 +184,7 @@
         "name": "Bears D/ST",
         "pro_team": "CHI",
         "projected_points": 17.15,
-        "percent_owned": 34.93,
+        "percent_owned": 37.63,
         "beats_your_weakest_by": 3.8,
         "weakest_player": "Eagles D/ST",
         "would_start_this_week": true,
@@ -195,7 +195,7 @@
         "name": "Buccaneers D/ST",
         "pro_team": "TB",
         "projected_points": 16.97,
-        "percent_owned": 20.63,
+        "percent_owned": 20.39,
         "beats_your_weakest_by": 3.6,
         "weakest_player": "Eagles D/ST",
         "would_start_this_week": true,
@@ -206,7 +206,7 @@
         "name": "Packers D/ST",
         "pro_team": "GB",
         "projected_points": 16.8,
-        "percent_owned": 28.31,
+        "percent_owned": 29.75,
         "beats_your_weakest_by": 3.4,
         "weakest_player": "Eagles D/ST",
         "would_start_this_week": true,
@@ -219,7 +219,7 @@
         "name": "Will Reichard",
         "pro_team": "MIN",
         "projected_points": 16.04,
-        "percent_owned": 39.55,
+        "percent_owned": 40.13,
         "beats_your_weakest_by": 0.3,
         "weakest_player": "Harrison Butker",
         "would_start_this_week": true,
@@ -230,7 +230,7 @@
         "name": "Spencer Shrader",
         "pro_team": "IND",
         "projected_points": 15.81,
-        "percent_owned": 30.4,
+        "percent_owned": 30.66,
         "beats_your_weakest_by": 0.1,
         "weakest_player": "Harrison Butker",
         "would_start_this_week": true,
@@ -245,35 +245,42 @@
       "position": "WR",
       "pro_team": "MIN",
       "projected_points": 11.34,
-      "sleeper_adds_24h": 321720
+      "sleeper_adds_24h": 420063
     },
     {
       "name": "Darren Waller",
       "position": "TE",
       "pro_team": "CAR",
       "projected_points": 11.83,
-      "sleeper_adds_24h": 147447
+      "sleeper_adds_24h": 220527
     },
     {
       "name": "Austin Ekeler",
       "position": "RB",
       "pro_team": "WSH",
-      "projected_points": 6.53,
-      "sleeper_adds_24h": 115052
+      "projected_points": 6.54,
+      "sleeper_adds_24h": 134764
     },
     {
       "name": "Tyler Higbee",
       "position": "TE",
       "pro_team": "LAR",
       "projected_points": 8.58,
-      "sleeper_adds_24h": 111150
+      "sleeper_adds_24h": 134730
     },
     {
       "name": "Tyreek Hill",
       "position": "WR",
       "pro_team": "None",
       "projected_points": 0,
-      "sleeper_adds_24h": 67344
+      "sleeper_adds_24h": 64168
+    },
+    {
+      "name": "Mack Hollins",
+      "position": "WR",
+      "pro_team": "NE",
+      "projected_points": 11.03,
+      "sleeper_adds_24h": 54642
     }
   ],
   "trade_reviews": []
