@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T23:49:04.869620+00:00",
+  "generated_at": "2026-10-06T05:13:57.323760+00:00",
   "week": 4,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "Tokyo 5XL returns (BA)",
@@ -43,7 +43,7 @@
       "urgent": false,
       "impact": 0.5,
       "headline": "Tyreek Hill (WR) is trending on Sleeper",
-      "detail": "536,832 adds in the last 24h - possibly worth a speculative add.",
+      "detail": "568,504 adds in the last 24h - possibly worth a speculative add.",
       "ref_id": null
     },
     {
@@ -70,7 +70,7 @@
         "name": "Isaiah Davis",
         "pro_team": "NYJ",
         "projected_points": 10.38,
-        "percent_owned": 8.43,
+        "percent_owned": 8.42,
         "beats_your_weakest_by": 5.1,
         "weakest_player": "Keaton Mitchell",
         "would_start_this_week": false,
@@ -111,7 +111,7 @@
         "name": "Malik Washington",
         "pro_team": "MIA",
         "projected_points": 11.41,
-        "percent_owned": 28.28,
+        "percent_owned": 28.27,
         "beats_your_weakest_by": 3.5,
         "weakest_player": "Cooper Kupp",
         "would_start_this_week": false,
@@ -139,7 +139,7 @@
         "name": "Mack Hollins",
         "pro_team": "NE",
         "projected_points": 11.04,
-        "percent_owned": 13.66,
+        "percent_owned": 13.65,
         "beats_your_weakest_by": 3.2,
         "weakest_player": "Cooper Kupp",
         "would_start_this_week": false,
@@ -155,7 +155,7 @@
         "name": "Darren Waller",
         "pro_team": "CAR",
         "projected_points": 11.83,
-        "percent_owned": 35.23,
+        "percent_owned": 35.21,
         "beats_your_weakest_by": 3.7,
         "weakest_player": "Kyle Pitts Sr.",
         "would_start_this_week": false,
@@ -169,7 +169,7 @@
         "name": "Kenyon Sadiq",
         "pro_team": "NYJ",
         "projected_points": 11.1,
-        "percent_owned": 58.21,
+        "percent_owned": 58.19,
         "beats_your_weakest_by": 3.0,
         "weakest_player": "Kyle Pitts Sr.",
         "would_start_this_week": false,
@@ -199,7 +199,7 @@
         "name": "Bears D/ST",
         "pro_team": "CHI",
         "projected_points": 17.13,
-        "percent_owned": 38.18,
+        "percent_owned": 38.16,
         "beats_your_weakest_by": 3.8,
         "weakest_player": "Eagles D/ST",
         "would_start_this_week": true,
@@ -210,7 +210,7 @@
         "name": "Buccaneers D/ST",
         "pro_team": "TB",
         "projected_points": 16.86,
-        "percent_owned": 20.3,
+        "percent_owned": 20.29,
         "beats_your_weakest_by": 3.5,
         "weakest_player": "Eagles D/ST",
         "would_start_this_week": true,
@@ -221,7 +221,7 @@
         "name": "Packers D/ST",
         "pro_team": "GB",
         "projected_points": 16.75,
-        "percent_owned": 30.08,
+        "percent_owned": 30.07,
         "beats_your_weakest_by": 3.4,
         "weakest_player": "Eagles D/ST",
         "would_start_this_week": true,
@@ -234,7 +234,7 @@
         "name": "Will Reichard",
         "pro_team": "MIN",
         "projected_points": 16.04,
-        "percent_owned": 40.37,
+        "percent_owned": 40.38,
         "beats_your_weakest_by": 0.3,
         "weakest_player": "Harrison Butker",
         "would_start_this_week": true,
@@ -245,7 +245,7 @@
         "name": "Spencer Shrader",
         "pro_team": "IND",
         "projected_points": 15.81,
-        "percent_owned": 30.68,
+        "percent_owned": 30.69,
         "beats_your_weakest_by": 0.1,
         "weakest_player": "Harrison Butker",
         "would_start_this_week": true,
@@ -260,49 +260,49 @@
       "position": "WR",
       "pro_team": "None",
       "projected_points": 0,
-      "sleeper_adds_24h": 536832
-    },
-    {
-      "name": "Kirk Cousins",
-      "position": "QB",
-      "pro_team": "LV",
-      "projected_points": 30.27,
-      "sleeper_adds_24h": 229200
+      "sleeper_adds_24h": 568504
     },
     {
       "name": "Joe Mixon",
       "position": "RB",
       "pro_team": "None",
       "projected_points": 0,
-      "sleeper_adds_24h": 180361
+      "sleeper_adds_24h": 258425
     },
     {
-      "name": "Tyler Higbee",
-      "position": "TE",
-      "pro_team": "LAR",
-      "projected_points": 8.58,
-      "sleeper_adds_24h": 72567
-    },
-    {
-      "name": "Deshaun Watson",
+      "name": "Kirk Cousins",
       "position": "QB",
-      "pro_team": "CLE",
-      "projected_points": 28.24,
-      "sleeper_adds_24h": 71016
+      "pro_team": "LV",
+      "projected_points": 30.27,
+      "sleeper_adds_24h": 256968
     },
     {
       "name": "Mike Gesicki",
       "position": "TE",
       "pro_team": "CIN",
       "projected_points": 8.74,
-      "sleeper_adds_24h": 67020
+      "sleeper_adds_24h": 96392
+    },
+    {
+      "name": "Tyler Higbee",
+      "position": "TE",
+      "pro_team": "LAR",
+      "projected_points": 8.58,
+      "sleeper_adds_24h": 81216
     },
     {
       "name": "Matt Gay",
       "position": "K",
       "pro_team": "LV",
       "projected_points": 14.33,
-      "sleeper_adds_24h": 64890
+      "sleeper_adds_24h": 75025
+    },
+    {
+      "name": "Deshaun Watson",
+      "position": "QB",
+      "pro_team": "CLE",
+      "projected_points": 28.24,
+      "sleeper_adds_24h": 65520
     }
   ],
   "trade_reviews": []
