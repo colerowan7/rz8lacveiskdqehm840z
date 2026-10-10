@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T22:21:35.193142+00:00",
+  "generated_at": "2026-10-10T04:41:10.167763+00:00",
   "week": 5,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "Coroebus of Elis (KC)",
@@ -43,7 +43,7 @@
       "urgent": false,
       "impact": 0.5,
       "headline": "Tyler Higbee (TE) is trending on Sleeper",
-      "detail": "236,295 adds in the last 24h - possibly worth a speculative add.",
+      "detail": "123,795 adds in the last 24h - possibly worth a speculative add.",
       "ref_id": null
     },
     {
@@ -70,7 +70,7 @@
         "name": "Jacoby Brissett",
         "pro_team": "ARI",
         "projected_points": 36.65,
-        "percent_owned": 45.02,
+        "percent_owned": 45.68,
         "beats_your_weakest_by": 36.6,
         "weakest_player": "Lamar Jackson",
         "would_start_this_week": false,
@@ -84,7 +84,7 @@
         "name": "Deshaun Watson",
         "pro_team": "CLE",
         "projected_points": 32.55,
-        "percent_owned": 18.34,
+        "percent_owned": 18.54,
         "beats_your_weakest_by": 32.5,
         "weakest_player": "Lamar Jackson",
         "would_start_this_week": false,
@@ -98,7 +98,7 @@
         "name": "Aaron Rodgers",
         "pro_team": "PIT",
         "projected_points": 32.11,
-        "percent_owned": 17.82,
+        "percent_owned": 18.0,
         "beats_your_weakest_by": 32.1,
         "weakest_player": "Lamar Jackson",
         "would_start_this_week": false,
@@ -114,7 +114,7 @@
         "name": "Isaiah Davis",
         "pro_team": "NYJ",
         "projected_points": 8.85,
-        "percent_owned": 4.34,
+        "percent_owned": 4.33,
         "beats_your_weakest_by": 8.8,
         "weakest_player": "Saquon Barkley",
         "would_start_this_week": false,
@@ -125,7 +125,7 @@
         "name": "Jaylen Wright",
         "pro_team": "MIA",
         "projected_points": 8.63,
-        "percent_owned": 14.54,
+        "percent_owned": 14.34,
         "beats_your_weakest_by": 8.6,
         "weakest_player": "Saquon Barkley",
         "would_start_this_week": false,
@@ -136,15 +136,18 @@
         }
       },
       {
-        "name": "Dameon Pierce",
-        "pro_team": "PHI",
-        "projected_points": 8.2,
-        "percent_owned": 1.89,
-        "beats_your_weakest_by": 8.2,
+        "name": "Roschon Johnson",
+        "pro_team": "CHI",
+        "projected_points": 8.29,
+        "percent_owned": 1.95,
+        "beats_your_weakest_by": 8.3,
         "weakest_player": "Saquon Barkley",
         "would_start_this_week": false,
-        "reason": "Projected for 8.2 pts this week - +8.2 more than your weakest rostered RB, Saquon Barkley (0.0 proj). Note: that's still below your starting RB Jacory Croskey-Merritt (10.4 proj), so they'd sit on your bench scoring nothing unless something changes - this is a depth add / stash, not an immediate lineup upgrade.",
-        "recent_form": null
+        "reason": "Projected for 8.3 pts this week - +8.3 more than your weakest rostered RB, Saquon Barkley (0.0 proj). Actually averaged 3.3 ppg over their last 1 games, for context. Note: that's still below your starting RB Jacory Croskey-Merritt (10.4 proj), so they'd sit on your bench scoring nothing unless something changes - this is a depth add / stash, not an immediate lineup upgrade.",
+        "recent_form": {
+          "avg_fantasy_points_ppr": 3.3,
+          "games_sample": 1
+        }
       }
     ],
     "WR": [
@@ -152,7 +155,7 @@
         "name": "Keon Coleman",
         "pro_team": "BUF",
         "projected_points": 12.34,
-        "percent_owned": 34.57,
+        "percent_owned": 35.39,
         "beats_your_weakest_by": 12.3,
         "weakest_player": "Xavier Worthy",
         "would_start_this_week": true,
@@ -166,7 +169,7 @@
         "name": "Antonio Williams",
         "pro_team": "WSH",
         "projected_points": 11.31,
-        "percent_owned": 6.86,
+        "percent_owned": 7.37,
         "beats_your_weakest_by": 11.3,
         "weakest_player": "Xavier Worthy",
         "would_start_this_week": true,
@@ -180,7 +183,7 @@
         "name": "Darius Cooper",
         "pro_team": "PHI",
         "projected_points": 10.51,
-        "percent_owned": 8.01,
+        "percent_owned": 8.16,
         "beats_your_weakest_by": 10.5,
         "weakest_player": "Xavier Worthy",
         "would_start_this_week": true,
@@ -196,7 +199,7 @@
         "name": "Kenyon Sadiq",
         "pro_team": "NYJ",
         "projected_points": 10.75,
-        "percent_owned": 50.68,
+        "percent_owned": 50.54,
         "beats_your_weakest_by": 10.8,
         "weakest_player": "Travis Kelce",
         "would_start_this_week": false,
@@ -210,7 +213,7 @@
         "name": "Pat Freiermuth",
         "pro_team": "PIT",
         "projected_points": 9.55,
-        "percent_owned": 20.37,
+        "percent_owned": 20.34,
         "beats_your_weakest_by": 9.6,
         "weakest_player": "Travis Kelce",
         "would_start_this_week": false,
@@ -224,7 +227,7 @@
         "name": "AJ Barner",
         "pro_team": "SEA",
         "projected_points": 9.41,
-        "percent_owned": 6.84,
+        "percent_owned": 6.81,
         "beats_your_weakest_by": 9.4,
         "weakest_player": "Travis Kelce",
         "would_start_this_week": false,
@@ -240,7 +243,7 @@
         "name": "Jets D/ST",
         "pro_team": "NYJ",
         "projected_points": 18.72,
-        "percent_owned": 30.9,
+        "percent_owned": 31.35,
         "beats_your_weakest_by": 0.1,
         "weakest_player": "Jaguars D/ST",
         "would_start_this_week": true,
@@ -253,7 +256,7 @@
         "name": "Will Reichard",
         "pro_team": "MIN",
         "projected_points": 16.52,
-        "percent_owned": 69.8,
+        "percent_owned": 70.16,
         "beats_your_weakest_by": 16.5,
         "weakest_player": "Harrison Butker",
         "would_start_this_week": false,
@@ -264,7 +267,7 @@
         "name": "Chad Ryland",
         "pro_team": "ARI",
         "projected_points": 15.96,
-        "percent_owned": 7.01,
+        "percent_owned": 7.15,
         "beats_your_weakest_by": 16.0,
         "weakest_player": "Harrison Butker",
         "would_start_this_week": false,
@@ -275,7 +278,7 @@
         "name": "Nick Folk",
         "pro_team": "ATL",
         "projected_points": 15.52,
-        "percent_owned": 4.53,
+        "percent_owned": 4.56,
         "beats_your_weakest_by": 15.5,
         "weakest_player": "Harrison Butker",
         "would_start_this_week": false,
@@ -290,42 +293,28 @@
       "position": "TE",
       "pro_team": "LAR",
       "projected_points": 3.86,
-      "sleeper_adds_24h": 236295
+      "sleeper_adds_24h": 123795
     },
     {
       "name": "Kirk Cousins",
       "position": "QB",
       "pro_team": "LV",
       "projected_points": 30.57,
-      "sleeper_adds_24h": 197200
-    },
-    {
-      "name": "Matt Gay",
-      "position": "K",
-      "pro_team": "LV",
-      "projected_points": 13.96,
-      "sleeper_adds_24h": 106270
+      "sleeper_adds_24h": 106032
     },
     {
       "name": "Aaron Rodgers",
       "position": "QB",
       "pro_team": "PIT",
       "projected_points": 32.11,
-      "sleeper_adds_24h": 103972
-    },
-    {
-      "name": "Deshaun Watson",
-      "position": "QB",
-      "pro_team": "CLE",
-      "projected_points": 32.55,
-      "sleeper_adds_24h": 83760
+      "sleeper_adds_24h": 56472
     },
     {
       "name": "Mike Gesicki",
       "position": "TE",
       "pro_team": "CIN",
       "projected_points": 8.81,
-      "sleeper_adds_24h": 78780
+      "sleeper_adds_24h": 48992
     }
   ],
   "trade_reviews": []
