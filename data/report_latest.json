@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T21:35:12.525424+00:00",
+  "generated_at": "2026-10-12T04:41:53.770480+00:00",
   "week": 5,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "Coroebus of Elis (KC)",
@@ -35,7 +35,7 @@
       "urgent": false,
       "impact": 0.5,
       "headline": "Tyler Higbee (TE) is trending on Sleeper",
-      "detail": "253,791 adds in the last 24h - possibly worth a speculative add.",
+      "detail": "301,311 adds in the last 24h - possibly worth a speculative add.",
       "ref_id": null
     }
   ],
@@ -47,7 +47,7 @@
         "name": "Jacoby Brissett",
         "pro_team": "ARI",
         "projected_points": 36.65,
-        "percent_owned": 50.19,
+        "percent_owned": 50.16,
         "beats_your_weakest_by": 36.6,
         "weakest_player": "Lamar Jackson",
         "would_start_this_week": false,
@@ -61,7 +61,7 @@
         "name": "Deshaun Watson",
         "pro_team": "CLE",
         "projected_points": 32.56,
-        "percent_owned": 19.79,
+        "percent_owned": 19.78,
         "beats_your_weakest_by": 32.6,
         "weakest_player": "Lamar Jackson",
         "would_start_this_week": false,
@@ -75,7 +75,7 @@
         "name": "Aaron Rodgers",
         "pro_team": "PIT",
         "projected_points": 32.11,
-        "percent_owned": 19.32,
+        "percent_owned": 19.31,
         "beats_your_weakest_by": 32.1,
         "weakest_player": "Lamar Jackson",
         "would_start_this_week": false,
@@ -102,7 +102,7 @@
         "name": "Kendre Miller",
         "pro_team": "NO",
         "projected_points": 8.73,
-        "percent_owned": 11.8,
+        "percent_owned": 11.79,
         "beats_your_weakest_by": 8.7,
         "weakest_player": "Saquon Barkley",
         "would_start_this_week": false,
@@ -116,7 +116,7 @@
         "name": "Jaylen Wright",
         "pro_team": "MIA",
         "projected_points": 8.64,
-        "percent_owned": 13.31,
+        "percent_owned": 13.3,
         "beats_your_weakest_by": 8.6,
         "weakest_player": "Saquon Barkley",
         "would_start_this_week": false,
@@ -132,7 +132,7 @@
         "name": "Antonio Williams",
         "pro_team": "WSH",
         "projected_points": 11.32,
-        "percent_owned": 10.15,
+        "percent_owned": 10.14,
         "beats_your_weakest_by": 11.3,
         "weakest_player": "Xavier Worthy",
         "would_start_this_week": true,
@@ -176,7 +176,7 @@
         "name": "Kenyon Sadiq",
         "pro_team": "NYJ",
         "projected_points": 10.66,
-        "percent_owned": 49.94,
+        "percent_owned": 49.9,
         "beats_your_weakest_by": 10.7,
         "weakest_player": "Travis Kelce",
         "would_start_this_week": false,
@@ -190,7 +190,7 @@
         "name": "Pat Freiermuth",
         "pro_team": "PIT",
         "projected_points": 9.5,
-        "percent_owned": 20.34,
+        "percent_owned": 20.33,
         "beats_your_weakest_by": 9.5,
         "weakest_player": "Travis Kelce",
         "would_start_this_week": false,
@@ -231,7 +231,7 @@
         "name": "Nick Folk",
         "pro_team": "ATL",
         "projected_points": 15.52,
-        "percent_owned": 4.96,
+        "percent_owned": 5.14,
         "beats_your_weakest_by": 15.5,
         "weakest_player": "Harrison Butker",
         "would_start_this_week": false,
@@ -242,7 +242,7 @@
         "name": "Spencer Shrader",
         "pro_team": "IND",
         "projected_points": 15.39,
-        "percent_owned": 53.86,
+        "percent_owned": 53.85,
         "beats_your_weakest_by": 15.4,
         "weakest_player": "Harrison Butker",
         "would_start_this_week": false,
@@ -257,21 +257,21 @@
       "position": "TE",
       "pro_team": "LAR",
       "projected_points": 3.86,
-      "sleeper_adds_24h": 253791
+      "sleeper_adds_24h": 301311
     },
     {
       "name": "Kirk Cousins",
       "position": "QB",
       "pro_team": "LV",
       "projected_points": 30.59,
-      "sleeper_adds_24h": 112864
+      "sleeper_adds_24h": 101344
     },
     {
       "name": "Aaron Rodgers",
       "position": "QB",
       "pro_team": "PIT",
       "projected_points": 32.11,
-      "sleeper_adds_24h": 73260
+      "sleeper_adds_24h": 87408
     }
   ],
   "trade_reviews": []
