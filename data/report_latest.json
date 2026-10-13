@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T13:42:03.083880+00:00",
+  "generated_at": "2026-10-13T22:22:06.269801+00:00",
   "week": 6,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "The Advisors (MW)",
@@ -17,9 +17,9 @@
     "ir_eligible_on_bench": []
   },
   "matchup_projection": {
-    "my_projected": 103.0,
-    "opponent_projected": 98.0,
-    "margin": 5.0
+    "my_projected": 89.7,
+    "opponent_projected": 149.2,
+    "margin": -59.4
   },
   "top_actions": [
     {
@@ -39,12 +39,28 @@
       "ref_id": "swap_0"
     },
     {
+      "category": "waiver",
+      "urgent": false,
+      "impact": 19.1,
+      "headline": "Add Dominic Zvada (K) - would start immediately",
+      "detail": "Projected for 19.1 pts this week - +19.1 more than your weakest rostered K, Harrison Mevis (0.0 proj). This would actually start over your starting K Harrison Mevis (0.0 proj) - real points, not just bench depth.",
+      "ref_id": "waiver_K_0"
+    },
+    {
+      "category": "start_sit",
+      "urgent": false,
+      "impact": 17.0,
+      "headline": "Start Harrison Butker over Harrison Mevis",
+      "detail": "+17.0 projected pts",
+      "ref_id": "swap_1"
+    },
+    {
       "category": "start_sit",
       "urgent": false,
       "impact": 16.0,
       "headline": "Start Saquon Barkley over Malik Washington",
       "detail": "Malik Washington is on bye",
-      "ref_id": "swap_1"
+      "ref_id": "swap_2"
     },
     {
       "category": "waiver",
@@ -53,22 +69,6 @@
       "headline": "Add Adonai Mitchell (WR) - would start immediately",
       "detail": "Projected for 10.6 pts this week - +10.6 more than your weakest rostered WR, Malik Washington (0.0 proj). This would actually start over your starting WR Malik Washington (0.0 proj) - real points, not just bench depth.",
       "ref_id": "waiver_WR_0"
-    },
-    {
-      "category": "waiver",
-      "urgent": false,
-      "impact": 2.3,
-      "headline": "Add Kendre Miller (RB) - would start immediately",
-      "detail": "Projected for 10.3 pts this week - +2.3 more than your weakest rostered RB, Jacory Croskey-Merritt (8.0 proj). Actually averaged 4.9 ppg over their last 3 games, for context. This would actually start over Malik Washington (WR), currently in your RB/WR/TE flex spot (0.0 proj) - real points, not just bench depth.",
-      "ref_id": "waiver_RB_0"
-    },
-    {
-      "category": "waiver",
-      "urgent": false,
-      "impact": 2.2,
-      "headline": "Add Pat Freiermuth (TE) - would start immediately",
-      "detail": "Projected for 11.8 pts this week - +2.2 more than your weakest rostered TE, Kyle Pitts Sr. (9.5 proj). Actually averaged 12.4 ppg over their last 3 games, for context. This would actually start over Malik Washington (WR), currently in your RB/WR/TE flex spot (0.0 proj) - real points, not just bench depth.",
-      "ref_id": "waiver_TE_0"
     }
   ],
   "injury_flags": [
@@ -95,6 +95,14 @@
       "reason": "Joe Burrow is on bye"
     },
     {
+      "slot": "K",
+      "sit": "Harrison Mevis",
+      "sit_projected": 0,
+      "start": "Harrison Butker",
+      "start_projected": 17.04,
+      "reason": "+17.0 projected pts"
+    },
+    {
       "slot": "RB/WR/TE",
       "sit": "Malik Washington",
       "sit_projected": 0,
@@ -108,8 +116,8 @@
       {
         "name": "Kirk Cousins",
         "pro_team": "LV",
-        "projected_points": 37.48,
-        "percent_owned": 36.12,
+        "projected_points": 37.45,
+        "percent_owned": 35.91,
         "beats_your_weakest_by": 37.5,
         "weakest_player": "Joe Burrow",
         "would_start_this_week": true,
@@ -123,7 +131,7 @@
         "name": "Jameis Winston",
         "pro_team": "NYG",
         "projected_points": 33.79,
-        "percent_owned": 3.98,
+        "percent_owned": 4.02,
         "beats_your_weakest_by": 33.8,
         "weakest_player": "Joe Burrow",
         "would_start_this_week": true,
@@ -137,7 +145,7 @@
         "name": "Deshaun Watson",
         "pro_team": "CLE",
         "projected_points": 31.96,
-        "percent_owned": 19.58,
+        "percent_owned": 19.33,
         "beats_your_weakest_by": 32.0,
         "weakest_player": "Joe Burrow",
         "would_start_this_week": true,
@@ -153,7 +161,7 @@
         "name": "Kendre Miller",
         "pro_team": "NO",
         "projected_points": 10.3,
-        "percent_owned": 11.76,
+        "percent_owned": 11.77,
         "beats_your_weakest_by": 2.3,
         "weakest_player": "Jacory Croskey-Merritt",
         "would_start_this_week": true,
@@ -169,7 +177,7 @@
         "name": "Adonai Mitchell",
         "pro_team": "NYJ",
         "projected_points": 10.55,
-        "percent_owned": 21.57,
+        "percent_owned": 21.49,
         "beats_your_weakest_by": 10.6,
         "weakest_player": "Malik Washington",
         "would_start_this_week": true,
@@ -180,7 +188,7 @@
         "name": "Keon Coleman",
         "pro_team": "BUF",
         "projected_points": 8.39,
-        "percent_owned": 39.24,
+        "percent_owned": 38.95,
         "beats_your_weakest_by": 8.4,
         "weakest_player": "Malik Washington",
         "would_start_this_week": true,
@@ -194,7 +202,7 @@
         "name": "Malachi Fields",
         "pro_team": "NYG",
         "projected_points": 7.8,
-        "percent_owned": 6.98,
+        "percent_owned": 6.95,
         "beats_your_weakest_by": 7.8,
         "weakest_player": "Malik Washington",
         "would_start_this_week": true,
@@ -209,12 +217,12 @@
       {
         "name": "Pat Freiermuth",
         "pro_team": "PIT",
-        "projected_points": 11.76,
-        "percent_owned": 20.35,
-        "beats_your_weakest_by": 2.2,
+        "projected_points": 11.82,
+        "percent_owned": 20.42,
+        "beats_your_weakest_by": 2.3,
         "weakest_player": "Kyle Pitts Sr.",
         "would_start_this_week": true,
-        "reason": "Projected for 11.8 pts this week - +2.2 more than your weakest rostered TE, Kyle Pitts Sr. (9.5 proj). Actually averaged 12.4 ppg over their last 3 games, for context. This would actually start over Malik Washington (WR), currently in your RB/WR/TE flex spot (0.0 proj) - real points, not just bench depth.",
+        "reason": "Projected for 11.8 pts this week - +2.3 more than your weakest rostered TE, Kyle Pitts Sr. (9.5 proj). Actually averaged 12.4 ppg over their last 3 games, for context. This would actually start over Malik Washington (WR), currently in your RB/WR/TE flex spot (0.0 proj) - real points, not just bench depth.",
         "recent_form": {
           "avg_fantasy_points_ppr": 12.43,
           "games_sample": 3
@@ -226,33 +234,33 @@
         "name": "Dominic Zvada",
         "pro_team": "NYG",
         "projected_points": 19.15,
-        "percent_owned": 4.11,
-        "beats_your_weakest_by": 2.1,
-        "weakest_player": "Harrison Butker",
+        "percent_owned": 4.2,
+        "beats_your_weakest_by": 19.1,
+        "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
-        "reason": "Projected for 19.1 pts this week - +2.1 more than your weakest rostered K, Harrison Butker (17.0 proj). This would actually start over your starting K Harrison Mevis (17.6 proj) - real points, not just bench depth.",
+        "reason": "Projected for 19.1 pts this week - +19.1 more than your weakest rostered K, Harrison Mevis (0.0 proj). This would actually start over your starting K Harrison Mevis (0.0 proj) - real points, not just bench depth.",
         "recent_form": null
       },
       {
         "name": "Spencer Shrader",
         "pro_team": "IND",
         "projected_points": 18.98,
-        "percent_owned": 53.93,
-        "beats_your_weakest_by": 1.9,
-        "weakest_player": "Harrison Butker",
+        "percent_owned": 54.02,
+        "beats_your_weakest_by": 19.0,
+        "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
-        "reason": "Projected for 19.0 pts this week - +1.9 more than your weakest rostered K, Harrison Butker (17.0 proj). This would actually start over your starting K Harrison Mevis (17.6 proj) - real points, not just bench depth.",
+        "reason": "Projected for 19.0 pts this week - +19.0 more than your weakest rostered K, Harrison Mevis (0.0 proj). This would actually start over your starting K Harrison Mevis (0.0 proj) - real points, not just bench depth.",
         "recent_form": null
       },
       {
         "name": "Matt Gay",
         "pro_team": "LV",
         "projected_points": 18.86,
-        "percent_owned": 7.73,
-        "beats_your_weakest_by": 1.8,
-        "weakest_player": "Harrison Butker",
+        "percent_owned": 7.74,
+        "beats_your_weakest_by": 18.9,
+        "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
-        "reason": "Projected for 18.9 pts this week - +1.8 more than your weakest rostered K, Harrison Butker (17.0 proj). This would actually start over your starting K Harrison Mevis (17.6 proj) - real points, not just bench depth.",
+        "reason": "Projected for 18.9 pts this week - +18.9 more than your weakest rostered K, Harrison Mevis (0.0 proj). This would actually start over your starting K Harrison Mevis (0.0 proj) - real points, not just bench depth.",
         "recent_form": null
       }
     ]
@@ -263,28 +271,35 @@
       "position": "TE",
       "pro_team": "LAR",
       "projected_points": 8.21,
-      "sleeper_adds_24h": 309762
+      "sleeper_adds_24h": 439281
     },
     {
       "name": "Nick Folk",
       "position": "K",
       "pro_team": "ATL",
       "projected_points": 16.75,
-      "sleeper_adds_24h": 128022
+      "sleeper_adds_24h": 284166
     },
     {
       "name": "Aaron Rodgers",
       "position": "QB",
       "pro_team": "PIT",
       "projected_points": 30.71,
-      "sleeper_adds_24h": 123432
+      "sleeper_adds_24h": 211008
     },
     {
       "name": "Matt Gay",
       "position": "K",
       "pro_team": "LV",
       "projected_points": 18.86,
-      "sleeper_adds_24h": 75290
+      "sleeper_adds_24h": 175905
+    },
+    {
+      "name": "Kirk Cousins",
+      "position": "QB",
+      "pro_team": "LV",
+      "projected_points": 37.45,
+      "sleeper_adds_24h": 170784
     }
   ],
   "trade_reviews": []
