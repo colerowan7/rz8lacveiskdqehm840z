@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T22:22:06.269801+00:00",
+  "generated_at": "2026-10-14T03:50:15.314385+00:00",
   "week": 6,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "The Advisors (MW)",
@@ -51,7 +51,7 @@
       "urgent": false,
       "impact": 17.0,
       "headline": "Start Harrison Butker over Harrison Mevis",
-      "detail": "+17.0 projected pts",
+      "detail": "Harrison Mevis is on bye",
       "ref_id": "swap_1"
     },
     {
@@ -79,6 +79,12 @@
       "detail": null
     },
     {
+      "player": "Harrison Mevis",
+      "slot": "K",
+      "reason": "BYE_WEEK",
+      "detail": null
+    },
+    {
       "player": "Malik Washington",
       "slot": "RB/WR/TE",
       "reason": "BYE_WEEK",
@@ -100,7 +106,7 @@
       "sit_projected": 0,
       "start": "Harrison Butker",
       "start_projected": 17.04,
-      "reason": "+17.0 projected pts"
+      "reason": "Harrison Mevis is on bye"
     },
     {
       "slot": "RB/WR/TE",
@@ -117,7 +123,7 @@
         "name": "Kirk Cousins",
         "pro_team": "LV",
         "projected_points": 37.45,
-        "percent_owned": 35.91,
+        "percent_owned": 35.8,
         "beats_your_weakest_by": 37.5,
         "weakest_player": "Joe Burrow",
         "would_start_this_week": true,
@@ -145,7 +151,7 @@
         "name": "Deshaun Watson",
         "pro_team": "CLE",
         "projected_points": 31.96,
-        "percent_owned": 19.33,
+        "percent_owned": 19.2,
         "beats_your_weakest_by": 32.0,
         "weakest_player": "Joe Burrow",
         "would_start_this_week": true,
@@ -177,7 +183,7 @@
         "name": "Adonai Mitchell",
         "pro_team": "NYJ",
         "projected_points": 10.55,
-        "percent_owned": 21.49,
+        "percent_owned": 21.45,
         "beats_your_weakest_by": 10.6,
         "weakest_player": "Malik Washington",
         "would_start_this_week": true,
@@ -188,7 +194,7 @@
         "name": "Keon Coleman",
         "pro_team": "BUF",
         "projected_points": 8.39,
-        "percent_owned": 38.95,
+        "percent_owned": 38.78,
         "beats_your_weakest_by": 8.4,
         "weakest_player": "Malik Washington",
         "would_start_this_week": true,
@@ -202,7 +208,7 @@
         "name": "Malachi Fields",
         "pro_team": "NYG",
         "projected_points": 7.8,
-        "percent_owned": 6.95,
+        "percent_owned": 6.93,
         "beats_your_weakest_by": 7.8,
         "weakest_player": "Malik Washington",
         "would_start_this_week": true,
@@ -218,7 +224,7 @@
         "name": "Pat Freiermuth",
         "pro_team": "PIT",
         "projected_points": 11.82,
-        "percent_owned": 20.42,
+        "percent_owned": 20.44,
         "beats_your_weakest_by": 2.3,
         "weakest_player": "Kyle Pitts Sr.",
         "would_start_this_week": true,
@@ -234,7 +240,7 @@
         "name": "Dominic Zvada",
         "pro_team": "NYG",
         "projected_points": 19.15,
-        "percent_owned": 4.2,
+        "percent_owned": 4.24,
         "beats_your_weakest_by": 19.1,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
@@ -245,7 +251,7 @@
         "name": "Spencer Shrader",
         "pro_team": "IND",
         "projected_points": 18.98,
-        "percent_owned": 54.02,
+        "percent_owned": 54.06,
         "beats_your_weakest_by": 19.0,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
@@ -271,35 +277,35 @@
       "position": "TE",
       "pro_team": "LAR",
       "projected_points": 8.21,
-      "sleeper_adds_24h": 439281
+      "sleeper_adds_24h": 426546
     },
     {
       "name": "Nick Folk",
       "position": "K",
       "pro_team": "ATL",
       "projected_points": 16.75,
-      "sleeper_adds_24h": 284166
+      "sleeper_adds_24h": 355560
     },
     {
       "name": "Aaron Rodgers",
       "position": "QB",
       "pro_team": "PIT",
       "projected_points": 30.71,
-      "sleeper_adds_24h": 211008
-    },
-    {
-      "name": "Matt Gay",
-      "position": "K",
-      "pro_team": "LV",
-      "projected_points": 18.86,
-      "sleeper_adds_24h": 175905
+      "sleeper_adds_24h": 253168
     },
     {
       "name": "Kirk Cousins",
       "position": "QB",
       "pro_team": "LV",
       "projected_points": 37.45,
-      "sleeper_adds_24h": 170784
+      "sleeper_adds_24h": 237960
+    },
+    {
+      "name": "Matt Gay",
+      "position": "K",
+      "pro_team": "LV",
+      "projected_points": 18.86,
+      "sleeper_adds_24h": 226300
     }
   ],
   "trade_reviews": []
