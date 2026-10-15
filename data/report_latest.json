@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T21:20:43.840093+00:00",
+  "generated_at": "2026-10-15T03:32:00.006394+00:00",
   "week": 6,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "The Advisors (MW)",
@@ -33,7 +33,7 @@
     {
       "category": "start_sit",
       "urgent": false,
-      "impact": 33.2,
+      "impact": 33.3,
       "headline": "Start Lamar Jackson over Joe Burrow",
       "detail": "Joe Burrow is on bye",
       "ref_id": "swap_0"
@@ -97,7 +97,7 @@
       "sit": "Joe Burrow",
       "sit_projected": 0,
       "start": "Lamar Jackson",
-      "start_projected": 33.25,
+      "start_projected": 33.28,
       "reason": "Joe Burrow is on bye"
     },
     {
@@ -123,7 +123,7 @@
         "name": "Jameis Winston",
         "pro_team": "NYG",
         "projected_points": 33.79,
-        "percent_owned": 14.65,
+        "percent_owned": 16.24,
         "beats_your_weakest_by": 33.8,
         "weakest_player": "Joe Burrow",
         "would_start_this_week": true,
@@ -137,7 +137,7 @@
         "name": "Deshaun Watson",
         "pro_team": "CLE",
         "projected_points": 31.99,
-        "percent_owned": 17.32,
+        "percent_owned": 17.1,
         "beats_your_weakest_by": 32.0,
         "weakest_player": "Joe Burrow",
         "would_start_this_week": true,
@@ -151,7 +151,7 @@
         "name": "Jacoby Brissett",
         "pro_team": "ARI",
         "projected_points": 31.88,
-        "percent_owned": 36.83,
+        "percent_owned": 35.67,
         "beats_your_weakest_by": 31.9,
         "weakest_player": "Joe Burrow",
         "would_start_this_week": true,
@@ -167,7 +167,7 @@
         "name": "Kendre Miller",
         "pro_team": "NO",
         "projected_points": 10.35,
-        "percent_owned": 22.51,
+        "percent_owned": 24.99,
         "beats_your_weakest_by": 2.3,
         "weakest_player": "Jacory Croskey-Merritt",
         "would_start_this_week": true,
@@ -181,7 +181,7 @@
         "name": "Blake Corum",
         "pro_team": "LAR",
         "projected_points": 10.32,
-        "percent_owned": 66.65,
+        "percent_owned": 66.89,
         "beats_your_weakest_by": 2.3,
         "weakest_player": "Jacory Croskey-Merritt",
         "would_start_this_week": true,
@@ -190,6 +190,20 @@
           "avg_fantasy_points_ppr": 7.6,
           "games_sample": 3
         }
+      },
+      {
+        "name": "Pierre Strong Jr.",
+        "pro_team": "GB",
+        "projected_points": 9.42,
+        "percent_owned": 3.97,
+        "beats_your_weakest_by": 1.4,
+        "weakest_player": "Jacory Croskey-Merritt",
+        "would_start_this_week": true,
+        "reason": "Projected for 9.4 pts this week - +1.4 more than your weakest rostered RB, Jacory Croskey-Merritt (8.0 proj). Actually averaged 4.8 ppg over their last 1 games, for context. This would actually start over Malik Washington (WR), currently in your RB/WR/TE flex spot (0.0 proj) - real points, not just bench depth.",
+        "recent_form": {
+          "avg_fantasy_points_ppr": 4.8,
+          "games_sample": 1
+        }
       }
     ],
     "WR": [
@@ -197,7 +211,7 @@
         "name": "Germie Bernard",
         "pro_team": "PIT",
         "projected_points": 12.12,
-        "percent_owned": 33.55,
+        "percent_owned": 36.72,
         "beats_your_weakest_by": 12.1,
         "weakest_player": "Malik Washington",
         "would_start_this_week": true,
@@ -208,27 +222,30 @@
         }
       },
       {
-        "name": "Adonai Mitchell",
-        "pro_team": "NYJ",
-        "projected_points": 10.68,
-        "percent_owned": 21.17,
-        "beats_your_weakest_by": 10.7,
-        "weakest_player": "Malik Washington",
-        "would_start_this_week": true,
-        "reason": "Projected for 10.7 pts this week - +10.7 more than your weakest rostered WR, Malik Washington (0.0 proj). This would actually start over your starting WR Malik Washington (0.0 proj) - real points, not just bench depth.",
-        "recent_form": null
-      },
-      {
         "name": "DeMario Douglas",
         "pro_team": "NE",
-        "projected_points": 10.48,
-        "percent_owned": 8.83,
+        "projected_points": 10.47,
+        "percent_owned": 10.09,
         "beats_your_weakest_by": 10.5,
         "weakest_player": "Malik Washington",
         "would_start_this_week": true,
         "reason": "Projected for 10.5 pts this week - +10.5 more than your weakest rostered WR, Malik Washington (0.0 proj). Actually averaged 10.3 ppg over their last 3 games, for context. This would actually start over your starting WR Malik Washington (0.0 proj) - real points, not just bench depth.",
         "recent_form": {
           "avg_fantasy_points_ppr": 10.27,
+          "games_sample": 3
+        }
+      },
+      {
+        "name": "Keon Coleman",
+        "pro_team": "BUF",
+        "projected_points": 8.39,
+        "percent_owned": 34.44,
+        "beats_your_weakest_by": 8.4,
+        "weakest_player": "Malik Washington",
+        "would_start_this_week": true,
+        "reason": "Projected for 8.4 pts this week - +8.4 more than your weakest rostered WR, Malik Washington (0.0 proj). Actually averaged 12.0 ppg over their last 3 games, for context. This would actually start over your starting WR Malik Washington (0.0 proj) - real points, not just bench depth.",
+        "recent_form": {
+          "avg_fantasy_points_ppr": 12.0,
           "games_sample": 3
         }
       }
@@ -238,7 +255,7 @@
         "name": "Pat Freiermuth",
         "pro_team": "PIT",
         "projected_points": 11.78,
-        "percent_owned": 43.11,
+        "percent_owned": 45.81,
         "beats_your_weakest_by": 2.2,
         "weakest_player": "Kyle Pitts Sr.",
         "would_start_this_week": true,
@@ -254,7 +271,7 @@
         "name": "Matt Gay",
         "pro_team": "LV",
         "projected_points": 18.86,
-        "percent_owned": 21.62,
+        "percent_owned": 24.85,
         "beats_your_weakest_by": 18.9,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
@@ -265,7 +282,7 @@
         "name": "Blake Grupe",
         "pro_team": "LAR",
         "projected_points": 17.72,
-        "percent_owned": 3.57,
+        "percent_owned": 4.64,
         "beats_your_weakest_by": 17.7,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
@@ -276,7 +293,7 @@
         "name": "Nick Folk",
         "pro_team": "ATL",
         "projected_points": 16.75,
-        "percent_owned": 6.44,
+        "percent_owned": 6.75,
         "beats_your_weakest_by": 16.8,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
@@ -291,35 +308,35 @@
       "position": "K",
       "pro_team": "ATL",
       "projected_points": 16.75,
-      "sleeper_adds_24h": 536562
+      "sleeper_adds_24h": 558402
     },
     {
       "name": "Tyler Higbee",
       "position": "TE",
       "pro_team": "LAR",
       "projected_points": 8.21,
-      "sleeper_adds_24h": 410013
-    },
-    {
-      "name": "Kendrick Bourne",
-      "position": "WR",
-      "pro_team": "ARI",
-      "projected_points": 6.76,
-      "sleeper_adds_24h": 377127
+      "sleeper_adds_24h": 334089
     },
     {
       "name": "Matt Gay",
       "position": "K",
       "pro_team": "LV",
       "projected_points": 18.86,
-      "sleeper_adds_24h": 302360
+      "sleeper_adds_24h": 278145
+    },
+    {
+      "name": "Kendrick Bourne",
+      "position": "WR",
+      "pro_team": "ARI",
+      "projected_points": 6.76,
+      "sleeper_adds_24h": 253524
     },
     {
       "name": "Aaron Rodgers",
       "position": "QB",
       "pro_team": "PIT",
       "projected_points": 30.71,
-      "sleeper_adds_24h": 235196
+      "sleeper_adds_24h": 193184
     }
   ],
   "trade_reviews": []
