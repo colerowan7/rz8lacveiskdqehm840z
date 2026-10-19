@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T03:34:56.458458+00:00",
+  "generated_at": "2026-10-19T12:21:17.737119+00:00",
   "week": 6,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "The Advisors (MW)",
@@ -59,7 +59,7 @@
       "urgent": false,
       "impact": 0.5,
       "headline": "Tyler Higbee (TE) is trending on Sleeper",
-      "detail": "939,168 adds in the last 24h - possibly worth a speculative add.",
+      "detail": "841,833 adds in the last 24h - possibly worth a speculative add.",
       "ref_id": null
     },
     {
@@ -289,7 +289,7 @@
         "name": "Eddy Pineiro",
         "pro_team": "SF",
         "projected_points": 16.14,
-        "percent_owned": 68.84,
+        "percent_owned": 68.9,
         "beats_your_weakest_by": 16.1,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": false,
@@ -304,21 +304,21 @@
       "position": "TE",
       "pro_team": "LAR",
       "projected_points": 8.05,
-      "sleeper_adds_24h": 939168
+      "sleeper_adds_24h": 841833
     },
     {
       "name": "Darren Waller",
       "position": "TE",
       "pro_team": "CAR",
       "projected_points": 8.04,
-      "sleeper_adds_24h": 208377
+      "sleeper_adds_24h": 198297
     },
     {
       "name": "Austin Ekeler",
       "position": "RB",
       "pro_team": "WSH",
       "projected_points": 8.41,
-      "sleeper_adds_24h": 119500
+      "sleeper_adds_24h": 110280
     }
   ],
   "trade_reviews": []
