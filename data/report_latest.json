@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T11:00:57.464563+00:00",
+  "generated_at": "2026-10-20T16:27:24.337571+00:00",
   "week": 7,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "Where is Nas",
@@ -19,9 +19,9 @@
     ]
   },
   "matchup_projection": {
-    "my_projected": 125.3,
+    "my_projected": 128.0,
     "opponent_projected": 141.6,
-    "margin": -16.3
+    "margin": -13.6
   },
   "top_actions": [
     {
@@ -110,12 +110,12 @@
       {
         "name": "Aaron Rodgers",
         "pro_team": "PIT",
-        "projected_points": 37.58,
-        "percent_owned": 26.1,
-        "beats_your_weakest_by": 2.4,
+        "projected_points": 37.59,
+        "percent_owned": 26.04,
+        "beats_your_weakest_by": 2.5,
         "weakest_player": "Lamar Jackson",
         "would_start_this_week": false,
-        "reason": "Projected for 37.6 pts this week - +2.4 more than your weakest rostered QB, Lamar Jackson (35.1 proj). Actually averaged 20.0 ppg over their last 3 games, for context. Note: that's still below your starting QB Joe Burrow (39.9 proj), so they'd sit on your bench scoring nothing unless something changes - this is a depth add / stash, not an immediate lineup upgrade.",
+        "reason": "Projected for 37.6 pts this week - +2.5 more than your weakest rostered QB, Lamar Jackson (35.1 proj). Actually averaged 20.0 ppg over their last 3 games, for context. Note: that's still below your starting QB Joe Burrow (39.9 proj), so they'd sit on your bench scoring nothing unless something changes - this is a depth add / stash, not an immediate lineup upgrade.",
         "recent_form": {
           "avg_fantasy_points_ppr": 19.99,
           "games_sample": 3
@@ -127,7 +127,7 @@
         "name": "Kendre Miller",
         "pro_team": "NO",
         "projected_points": 10.78,
-        "percent_owned": 33.14,
+        "percent_owned": 33.07,
         "beats_your_weakest_by": 10.8,
         "weakest_player": "Jacory Croskey-Merritt",
         "would_start_this_week": true,
@@ -138,10 +138,24 @@
         }
       },
       {
+        "name": "Kaelon Black",
+        "pro_team": "SF",
+        "projected_points": 7.33,
+        "percent_owned": 21.45,
+        "beats_your_weakest_by": 7.3,
+        "weakest_player": "Jacory Croskey-Merritt",
+        "would_start_this_week": true,
+        "reason": "Projected for 7.3 pts this week - +7.3 more than your weakest rostered RB, Jacory Croskey-Merritt (0.0 proj). Actually averaged 2.5 ppg over their last 3 games, for context. This would actually start over your starting RB Keaton Mitchell (0.0 proj) - real points, not just bench depth.",
+        "recent_form": {
+          "avg_fantasy_points_ppr": 2.53,
+          "games_sample": 3
+        }
+      },
+      {
         "name": "Dameon Pierce",
         "pro_team": "PHI",
         "projected_points": 7.08,
-        "percent_owned": 55.56,
+        "percent_owned": 55.24,
         "beats_your_weakest_by": 7.1,
         "weakest_player": "Jacory Croskey-Merritt",
         "would_start_this_week": true,
@@ -150,20 +164,6 @@
           "avg_fantasy_points_ppr": 9.1,
           "games_sample": 2
         }
-      },
-      {
-        "name": "Justice Hill",
-        "pro_team": "BAL",
-        "projected_points": 6.84,
-        "percent_owned": 8.59,
-        "beats_your_weakest_by": 6.8,
-        "weakest_player": "Jacory Croskey-Merritt",
-        "would_start_this_week": true,
-        "reason": "Projected for 6.8 pts this week - +6.8 more than your weakest rostered RB, Jacory Croskey-Merritt (0.0 proj). Actually averaged 6.1 ppg over their last 3 games, for context. This would actually start over your starting RB Keaton Mitchell (0.0 proj) - real points, not just bench depth.",
-        "recent_form": {
-          "avg_fantasy_points_ppr": 6.07,
-          "games_sample": 3
-        }
       }
     ],
     "WR": [
@@ -171,7 +171,7 @@
         "name": "DeMario Douglas",
         "pro_team": "NE",
         "projected_points": 12.36,
-        "percent_owned": 13.79,
+        "percent_owned": 13.86,
         "beats_your_weakest_by": 1.8,
         "weakest_player": "Xavier Worthy",
         "would_start_this_week": true,
@@ -186,8 +186,8 @@
       {
         "name": "Pat Freiermuth",
         "pro_team": "PIT",
-        "projected_points": 12.05,
-        "percent_owned": 57.77,
+        "projected_points": 12.06,
+        "percent_owned": 57.49,
         "beats_your_weakest_by": 1.0,
         "weakest_player": "Travis Kelce",
         "would_start_this_week": true,
@@ -203,7 +203,7 @@
         "name": "Vikings D/ST",
         "pro_team": "MIN",
         "projected_points": 19.47,
-        "percent_owned": 73.79,
+        "percent_owned": 73.85,
         "beats_your_weakest_by": 19.5,
         "weakest_player": "Jaguars D/ST",
         "would_start_this_week": true,
@@ -214,7 +214,7 @@
         "name": "Jets D/ST",
         "pro_team": "NYJ",
         "projected_points": 18.61,
-        "percent_owned": 23.04,
+        "percent_owned": 23.08,
         "beats_your_weakest_by": 18.6,
         "weakest_player": "Jaguars D/ST",
         "would_start_this_week": true,
@@ -224,8 +224,8 @@
       {
         "name": "Cowboys D/ST",
         "pro_team": "DAL",
-        "projected_points": 16.69,
-        "percent_owned": 11.5,
+        "projected_points": 16.71,
+        "percent_owned": 11.47,
         "beats_your_weakest_by": 16.7,
         "weakest_player": "Jaguars D/ST",
         "would_start_this_week": true,
@@ -238,7 +238,7 @@
         "name": "Will Reichard",
         "pro_team": "MIN",
         "projected_points": 19.87,
-        "percent_owned": 52.61,
+        "percent_owned": 52.7,
         "beats_your_weakest_by": 19.9,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
@@ -248,23 +248,23 @@
       {
         "name": "Chris Boswell",
         "pro_team": "PIT",
-        "projected_points": 19.84,
-        "percent_owned": 30.44,
-        "beats_your_weakest_by": 19.8,
+        "projected_points": 19.85,
+        "percent_owned": 30.43,
+        "beats_your_weakest_by": 19.9,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
-        "reason": "Projected for 19.8 pts this week - +19.8 more than your weakest rostered K, Harrison Mevis (0.0 proj). This would actually start over your starting K Harrison Butker (18.1 proj) - real points, not just bench depth.",
+        "reason": "Projected for 19.9 pts this week - +19.9 more than your weakest rostered K, Harrison Mevis (0.0 proj). This would actually start over your starting K Harrison Butker (18.1 proj) - real points, not just bench depth.",
         "recent_form": null
       },
       {
         "name": "Ryan Fitzgerald",
         "pro_team": "CAR",
-        "projected_points": 16.54,
-        "percent_owned": 3.41,
-        "beats_your_weakest_by": 16.5,
+        "projected_points": 16.55,
+        "percent_owned": 3.37,
+        "beats_your_weakest_by": 16.6,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": false,
-        "reason": "Projected for 16.5 pts this week - +16.5 more than your weakest rostered K, Harrison Mevis (0.0 proj). Note: that's still below your starting K Harrison Butker (18.1 proj), so they'd sit on your bench scoring nothing unless something changes - this is a depth add / stash, not an immediate lineup upgrade.",
+        "reason": "Projected for 16.6 pts this week - +16.6 more than your weakest rostered K, Harrison Mevis (0.0 proj). Note: that's still below your starting K Harrison Butker (18.1 proj), so they'd sit on your bench scoring nothing unless something changes - this is a depth add / stash, not an immediate lineup upgrade.",
         "recent_form": null
       }
     ]
@@ -274,15 +274,8 @@
       "name": "Chase McLaughlin",
       "position": "K",
       "pro_team": "TB",
-      "projected_points": 14.89,
-      "sleeper_adds_24h": 151544
-    },
-    {
-      "name": "Austin Ekeler",
-      "position": "RB",
-      "pro_team": "WSH",
-      "projected_points": 0,
-      "sleeper_adds_24h": 84900
+      "projected_points": 14.9,
+      "sleeper_adds_24h": 318016
     }
   ],
   "trade_reviews": []
