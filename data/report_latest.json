@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T21:20:02.549901+00:00",
+  "generated_at": "2026-10-22T03:36:11.244271+00:00",
   "week": 7,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "Where is Nas",
@@ -30,23 +30,23 @@
       "impact": 3,
       "headline": "Jaguars D/ST (D/ST): BYE_WEEK",
       "detail": "No clear bench replacement was found - worth checking before kickoff.",
-      "ref_id": "injury_1"
+      "ref_id": "injury_2"
     },
     {
       "category": "waiver",
       "urgent": false,
-      "impact": 19.9,
-      "headline": "Add Chris Boswell (K) - would start immediately",
-      "detail": "Projected for 19.9 pts this week - +19.9 more than your weakest rostered K, Harrison Mevis (0.0 proj). This would actually start over your starting K Harrison Butker (18.1 proj) - real points, not just bench depth.",
-      "ref_id": "waiver_K_0"
-    },
-    {
-      "category": "waiver",
-      "urgent": false,
-      "impact": 19.5,
-      "headline": "Add Vikings D/ST (D/ST) - would start immediately",
-      "detail": "Projected for 19.5 pts this week - +19.5 more than your weakest rostered D/ST, Jaguars D/ST (0.0 proj). This would actually start over your starting D/ST Jaguars D/ST (0.0 proj) - real points, not just bench depth.",
+      "impact": 18.8,
+      "headline": "Add Jets D/ST (D/ST) - would start immediately",
+      "detail": "Projected for 18.8 pts this week - +18.8 more than your weakest rostered D/ST, Jaguars D/ST (0.0 proj). This would actually start over your starting D/ST Jaguars D/ST (0.0 proj) - real points, not just bench depth.",
       "ref_id": "waiver_D/ST_0"
+    },
+    {
+      "category": "waiver",
+      "urgent": false,
+      "impact": 18.8,
+      "headline": "Add Dominic Zvada (K) - would start immediately",
+      "detail": "Projected for 18.8 pts this week - +18.8 more than your weakest rostered K, Harrison Mevis (0.0 proj). This would actually start over your starting K Harrison Butker (18.1 proj) - real points, not just bench depth.",
+      "ref_id": "waiver_K_0"
     },
     {
       "category": "start_sit",
@@ -65,15 +65,21 @@
       "ref_id": "waiver_RB_0"
     },
     {
-      "category": "waiver",
+      "category": "injury_watch",
       "urgent": false,
-      "impact": 0.8,
-      "headline": "Add Pat Freiermuth (TE) - would start immediately",
-      "detail": "Projected for 12.1 pts this week - +0.8 more than your weakest rostered TE, Travis Kelce (11.2 proj). Actually averaged 11.8 ppg over their last 3 games, for context. This would actually start over your starting TE Travis Kelce (11.2 proj) - real points, not just bench depth.",
-      "ref_id": "waiver_TE_0"
+      "impact": 3,
+      "headline": "Travis Kelce (TE): QUESTIONABLE",
+      "detail": "Ankle",
+      "ref_id": "injury_0"
     }
   ],
   "injury_flags": [
+    {
+      "player": "Travis Kelce",
+      "slot": "TE",
+      "reason": "QUESTIONABLE",
+      "detail": "Ankle"
+    },
     {
       "player": "Keaton Mitchell",
       "slot": "RB",
@@ -103,7 +109,7 @@
         "name": "Aaron Rodgers",
         "pro_team": "PIT",
         "projected_points": 37.59,
-        "percent_owned": 42.05,
+        "percent_owned": 44.91,
         "beats_your_weakest_by": 37.6,
         "weakest_player": "Lamar Jackson",
         "would_start_this_week": false,
@@ -117,7 +123,7 @@
         "name": "J.J. McCarthy",
         "pro_team": "NYG",
         "projected_points": 32.29,
-        "percent_owned": 11.76,
+        "percent_owned": 13.83,
         "beats_your_weakest_by": 32.3,
         "weakest_player": "Lamar Jackson",
         "would_start_this_week": false,
@@ -131,7 +137,7 @@
         "name": "Tanner McKee",
         "pro_team": "PHI",
         "projected_points": 32.21,
-        "percent_owned": 4.11,
+        "percent_owned": 4.36,
         "beats_your_weakest_by": 32.2,
         "weakest_player": "Lamar Jackson",
         "would_start_this_week": false,
@@ -147,7 +153,7 @@
         "name": "Kendre Miller",
         "pro_team": "NO",
         "projected_points": 10.78,
-        "percent_owned": 38.18,
+        "percent_owned": 39.07,
         "beats_your_weakest_by": 10.8,
         "weakest_player": "Jacory Croskey-Merritt",
         "would_start_this_week": true,
@@ -161,7 +167,7 @@
         "name": "Roschon Johnson",
         "pro_team": "CHI",
         "projected_points": 10.54,
-        "percent_owned": 5.83,
+        "percent_owned": 11.09,
         "beats_your_weakest_by": 10.5,
         "weakest_player": "Jacory Croskey-Merritt",
         "would_start_this_week": true,
@@ -175,7 +181,7 @@
         "name": "Kaelon Black",
         "pro_team": "SF",
         "projected_points": 7.33,
-        "percent_owned": 21.95,
+        "percent_owned": 21.97,
         "beats_your_weakest_by": 7.3,
         "weakest_player": "Jacory Croskey-Merritt",
         "would_start_this_week": true,
@@ -191,7 +197,7 @@
         "name": "Pat Freiermuth",
         "pro_team": "PIT",
         "projected_points": 12.06,
-        "percent_owned": 55.88,
+        "percent_owned": 56.2,
         "beats_your_weakest_by": 0.8,
         "weakest_player": "Travis Kelce",
         "would_start_this_week": true,
@@ -204,21 +210,10 @@
     ],
     "D/ST": [
       {
-        "name": "Vikings D/ST",
-        "pro_team": "MIN",
-        "projected_points": 19.47,
-        "percent_owned": 88.4,
-        "beats_your_weakest_by": 19.5,
-        "weakest_player": "Jaguars D/ST",
-        "would_start_this_week": true,
-        "reason": "Projected for 19.5 pts this week - +19.5 more than your weakest rostered D/ST, Jaguars D/ST (0.0 proj). This would actually start over your starting D/ST Jaguars D/ST (0.0 proj) - real points, not just bench depth.",
-        "recent_form": null
-      },
-      {
         "name": "Jets D/ST",
         "pro_team": "NYJ",
         "projected_points": 18.8,
-        "percent_owned": 52.53,
+        "percent_owned": 55.98,
         "beats_your_weakest_by": 18.8,
         "weakest_player": "Jaguars D/ST",
         "would_start_this_week": true,
@@ -229,31 +224,31 @@
         "name": "Titans D/ST",
         "pro_team": "TEN",
         "projected_points": 18.61,
-        "percent_owned": 16.01,
+        "percent_owned": 19.14,
         "beats_your_weakest_by": 18.6,
         "weakest_player": "Jaguars D/ST",
         "would_start_this_week": true,
         "reason": "Projected for 18.6 pts this week - +18.6 more than your weakest rostered D/ST, Jaguars D/ST (0.0 proj). This would actually start over your starting D/ST Jaguars D/ST (0.0 proj) - real points, not just bench depth.",
         "recent_form": null
+      },
+      {
+        "name": "Cowboys D/ST",
+        "pro_team": "DAL",
+        "projected_points": 16.71,
+        "percent_owned": 13.63,
+        "beats_your_weakest_by": 16.7,
+        "weakest_player": "Jaguars D/ST",
+        "would_start_this_week": true,
+        "reason": "Projected for 16.7 pts this week - +16.7 more than your weakest rostered D/ST, Jaguars D/ST (0.0 proj). This would actually start over your starting D/ST Jaguars D/ST (0.0 proj) - real points, not just bench depth.",
+        "recent_form": null
       }
     ],
     "K": [
       {
-        "name": "Chris Boswell",
-        "pro_team": "PIT",
-        "projected_points": 19.85,
-        "percent_owned": 51.42,
-        "beats_your_weakest_by": 19.9,
-        "weakest_player": "Harrison Mevis",
-        "would_start_this_week": true,
-        "reason": "Projected for 19.9 pts this week - +19.9 more than your weakest rostered K, Harrison Mevis (0.0 proj). This would actually start over your starting K Harrison Butker (18.1 proj) - real points, not just bench depth.",
-        "recent_form": null
-      },
-      {
         "name": "Dominic Zvada",
         "pro_team": "NYG",
         "projected_points": 18.76,
-        "percent_owned": 52.05,
+        "percent_owned": 51.83,
         "beats_your_weakest_by": 18.8,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
@@ -264,11 +259,22 @@
         "name": "Ryan Fitzgerald",
         "pro_team": "CAR",
         "projected_points": 16.55,
-        "percent_owned": 9.23,
+        "percent_owned": 10.6,
         "beats_your_weakest_by": 16.6,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": false,
         "reason": "Projected for 16.6 pts this week - +16.6 more than your weakest rostered K, Harrison Mevis (0.0 proj). Note: that's still below your starting K Harrison Butker (18.1 proj), so they'd sit on your bench scoring nothing unless something changes - this is a depth add / stash, not an immediate lineup upgrade.",
+        "recent_form": null
+      },
+      {
+        "name": "Chad Ryland",
+        "pro_team": "ARI",
+        "projected_points": 16.51,
+        "percent_owned": 6.62,
+        "beats_your_weakest_by": 16.5,
+        "weakest_player": "Harrison Mevis",
+        "would_start_this_week": false,
+        "reason": "Projected for 16.5 pts this week - +16.5 more than your weakest rostered K, Harrison Mevis (0.0 proj). Note: that's still below your starting K Harrison Butker (18.1 proj), so they'd sit on your bench scoring nothing unless something changes - this is a depth add / stash, not an immediate lineup upgrade.",
         "recent_form": null
       }
     ]
@@ -279,14 +285,14 @@
       "position": "K",
       "pro_team": "TB",
       "projected_points": 14.9,
-      "sleeper_adds_24h": 620928
+      "sleeper_adds_24h": 617088
     },
     {
       "name": "Tyler Higbee",
       "position": "TE",
       "pro_team": "LAR",
       "projected_points": 8.13,
-      "sleeper_adds_24h": 401373
+      "sleeper_adds_24h": 392697
     }
   ],
   "trade_reviews": []
