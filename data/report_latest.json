@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T11:08:07.515950+00:00",
+  "generated_at": "2026-10-23T16:35:49.760911+00:00",
   "week": 7,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "Where is Nas",
@@ -68,8 +68,8 @@
       "category": "trending",
       "urgent": false,
       "impact": 0.5,
-      "headline": "Chase McLaughlin (K) is trending on Sleeper",
-      "detail": "384,504 adds in the last 24h - possibly worth a speculative add.",
+      "headline": "Tyler Higbee (TE) is trending on Sleeper",
+      "detail": "352,710 adds in the last 24h - possibly worth a speculative add.",
       "ref_id": null
     }
   ],
@@ -100,7 +100,7 @@
         "name": "Aaron Rodgers",
         "pro_team": "PIT",
         "projected_points": 37.59,
-        "percent_owned": 53.17,
+        "percent_owned": 53.65,
         "beats_your_weakest_by": 2.4,
         "weakest_player": "Lamar Jackson",
         "would_start_this_week": false,
@@ -116,7 +116,7 @@
         "name": "Bam Knight",
         "pro_team": "ARI",
         "projected_points": 7.61,
-        "percent_owned": 4.98,
+        "percent_owned": 5.57,
         "beats_your_weakest_by": 7.6,
         "weakest_player": "Jacory Croskey-Merritt",
         "would_start_this_week": false,
@@ -130,7 +130,7 @@
         "name": "Kenny Gainwell",
         "pro_team": "TB",
         "projected_points": 7.53,
-        "percent_owned": 52.27,
+        "percent_owned": 52.21,
         "beats_your_weakest_by": 7.5,
         "weakest_player": "Jacory Croskey-Merritt",
         "would_start_this_week": false,
@@ -144,7 +144,7 @@
         "name": "Kaelon Black",
         "pro_team": "SF",
         "projected_points": 7.33,
-        "percent_owned": 22.14,
+        "percent_owned": 22.15,
         "beats_your_weakest_by": 7.3,
         "weakest_player": "Jacory Croskey-Merritt",
         "would_start_this_week": false,
@@ -160,7 +160,7 @@
         "name": "Pat Freiermuth",
         "pro_team": "PIT",
         "projected_points": 12.06,
-        "percent_owned": 59.23,
+        "percent_owned": 59.49,
         "beats_your_weakest_by": 0.8,
         "weakest_player": "Travis Kelce",
         "would_start_this_week": false,
@@ -176,7 +176,7 @@
         "name": "Jets D/ST",
         "pro_team": "NYJ",
         "projected_points": 18.66,
-        "percent_owned": 65.33,
+        "percent_owned": 65.8,
         "beats_your_weakest_by": 18.7,
         "weakest_player": "Jaguars D/ST",
         "would_start_this_week": true,
@@ -187,7 +187,7 @@
         "name": "Titans D/ST",
         "pro_team": "TEN",
         "projected_points": 18.61,
-        "percent_owned": 29.22,
+        "percent_owned": 29.85,
         "beats_your_weakest_by": 18.6,
         "weakest_player": "Jaguars D/ST",
         "would_start_this_week": true,
@@ -198,7 +198,7 @@
         "name": "Texans D/ST",
         "pro_team": "HOU",
         "projected_points": 17.1,
-        "percent_owned": 90.73,
+        "percent_owned": 90.81,
         "beats_your_weakest_by": 17.1,
         "weakest_player": "Jaguars D/ST",
         "would_start_this_week": true,
@@ -211,7 +211,7 @@
         "name": "Dominic Zvada",
         "pro_team": "NYG",
         "projected_points": 18.76,
-        "percent_owned": 54.03,
+        "percent_owned": 54.17,
         "beats_your_weakest_by": 18.8,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
@@ -222,7 +222,7 @@
         "name": "Ryan Fitzgerald",
         "pro_team": "CAR",
         "projected_points": 16.55,
-        "percent_owned": 15.43,
+        "percent_owned": 15.74,
         "beats_your_weakest_by": 16.6,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": false,
@@ -233,7 +233,7 @@
         "name": "Chad Ryland",
         "pro_team": "ARI",
         "projected_points": 16.51,
-        "percent_owned": 8.33,
+        "percent_owned": 8.44,
         "beats_your_weakest_by": 16.5,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": false,
@@ -244,25 +244,25 @@
   },
   "trending_adds": [
     {
-      "name": "Chase McLaughlin",
-      "position": "K",
-      "pro_team": "TB",
-      "projected_points": 14.9,
-      "sleeper_adds_24h": 384504
-    },
-    {
       "name": "Tyler Higbee",
       "position": "TE",
       "pro_team": "LAR",
       "projected_points": 8.13,
-      "sleeper_adds_24h": 356256
+      "sleeper_adds_24h": 352710
+    },
+    {
+      "name": "Chase McLaughlin",
+      "position": "K",
+      "pro_team": "TB",
+      "projected_points": 14.9,
+      "sleeper_adds_24h": 349296
     },
     {
       "name": "Aaron Rodgers",
       "position": "QB",
       "pro_team": "PIT",
       "projected_points": 37.59,
-      "sleeper_adds_24h": 91756
+      "sleeper_adds_24h": 84212
     }
   ],
   "trade_reviews": []
