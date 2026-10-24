@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T10:25:09.743781+00:00",
+  "generated_at": "2026-10-24T15:29:55.152094+00:00",
   "week": 7,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "Where is Nas",
@@ -61,7 +61,7 @@
       "urgent": false,
       "impact": 0.5,
       "headline": "Tyler Higbee (TE) is trending on Sleeper",
-      "detail": "307,782 adds in the last 24h - possibly worth a speculative add.",
+      "detail": "303,525 adds in the last 24h - possibly worth a speculative add.",
       "ref_id": null
     }
   ],
@@ -86,7 +86,7 @@
         "name": "Aaron Rodgers",
         "pro_team": "PIT",
         "projected_points": 37.59,
-        "percent_owned": 54.42,
+        "percent_owned": 54.57,
         "beats_your_weakest_by": 2.4,
         "weakest_player": "Lamar Jackson",
         "would_start_this_week": false,
@@ -102,7 +102,7 @@
         "name": "Bam Knight",
         "pro_team": "ARI",
         "projected_points": 9.1,
-        "percent_owned": 8.33,
+        "percent_owned": 8.82,
         "beats_your_weakest_by": 9.1,
         "weakest_player": "Jacory Croskey-Merritt",
         "would_start_this_week": false,
@@ -116,7 +116,7 @@
         "name": "Kenny Gainwell",
         "pro_team": "TB",
         "projected_points": 7.55,
-        "percent_owned": 51.94,
+        "percent_owned": 51.91,
         "beats_your_weakest_by": 7.5,
         "weakest_player": "Jacory Croskey-Merritt",
         "would_start_this_week": false,
@@ -130,7 +130,7 @@
         "name": "Kaelon Black",
         "pro_team": "SF",
         "projected_points": 7.33,
-        "percent_owned": 22.08,
+        "percent_owned": 22.07,
         "beats_your_weakest_by": 7.3,
         "weakest_player": "Jacory Croskey-Merritt",
         "would_start_this_week": false,
@@ -146,7 +146,7 @@
         "name": "Darius Cooper",
         "pro_team": "PHI",
         "projected_points": 11.94,
-        "percent_owned": 8.08,
+        "percent_owned": 8.28,
         "beats_your_weakest_by": 0.8,
         "weakest_player": "Malik Washington",
         "would_start_this_week": false,
@@ -155,6 +155,20 @@
           "avg_fantasy_points_ppr": 11.77,
           "games_sample": 3
         }
+      },
+      {
+        "name": "Konata Mumpfield",
+        "pro_team": "LAR",
+        "projected_points": 11.31,
+        "percent_owned": 6.83,
+        "beats_your_weakest_by": 0.2,
+        "weakest_player": "Malik Washington",
+        "would_start_this_week": false,
+        "reason": "Projected for 11.3 pts this week - +0.2 more than your weakest rostered WR, Malik Washington (11.1 proj). Actually averaged 2.6 ppg over their last 2 games, for context. Note: that's still below your starting WR Tre Tucker (12.2 proj), so they'd sit on your bench scoring nothing unless something changes - this is a depth add / stash, not an immediate lineup upgrade.",
+        "recent_form": {
+          "avg_fantasy_points_ppr": 2.6,
+          "games_sample": 2
+        }
       }
     ],
     "TE": [
@@ -162,7 +176,7 @@
         "name": "Pat Freiermuth",
         "pro_team": "PIT",
         "projected_points": 12.04,
-        "percent_owned": 60.07,
+        "percent_owned": 60.16,
         "beats_your_weakest_by": 0.8,
         "weakest_player": "Travis Kelce",
         "would_start_this_week": false,
@@ -176,7 +190,7 @@
         "name": "Colby Parkinson",
         "pro_team": "LAR",
         "projected_points": 11.37,
-        "percent_owned": 5.28,
+        "percent_owned": 5.42,
         "beats_your_weakest_by": 0.1,
         "weakest_player": "Travis Kelce",
         "would_start_this_week": false,
@@ -192,7 +206,7 @@
         "name": "Jets D/ST",
         "pro_team": "NYJ",
         "projected_points": 18.66,
-        "percent_owned": 66.51,
+        "percent_owned": 66.66,
         "beats_your_weakest_by": 18.7,
         "weakest_player": "Jaguars D/ST",
         "would_start_this_week": true,
@@ -203,7 +217,7 @@
         "name": "Titans D/ST",
         "pro_team": "TEN",
         "projected_points": 18.61,
-        "percent_owned": 30.72,
+        "percent_owned": 30.91,
         "beats_your_weakest_by": 18.6,
         "weakest_player": "Jaguars D/ST",
         "would_start_this_week": true,
@@ -214,7 +228,7 @@
         "name": "Cowboys D/ST",
         "pro_team": "DAL",
         "projected_points": 17.17,
-        "percent_owned": 15.87,
+        "percent_owned": 15.93,
         "beats_your_weakest_by": 17.2,
         "weakest_player": "Jaguars D/ST",
         "would_start_this_week": true,
@@ -227,7 +241,7 @@
         "name": "Dominic Zvada",
         "pro_team": "NYG",
         "projected_points": 18.76,
-        "percent_owned": 54.4,
+        "percent_owned": 54.45,
         "beats_your_weakest_by": 18.8,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
@@ -238,7 +252,7 @@
         "name": "Ryan Fitzgerald",
         "pro_team": "CAR",
         "projected_points": 16.55,
-        "percent_owned": 16.13,
+        "percent_owned": 16.22,
         "beats_your_weakest_by": 16.6,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": false,
@@ -249,7 +263,7 @@
         "name": "Chad Ryland",
         "pro_team": "ARI",
         "projected_points": 16.51,
-        "percent_owned": 8.58,
+        "percent_owned": 8.61,
         "beats_your_weakest_by": 16.5,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": false,
@@ -264,21 +278,21 @@
       "position": "TE",
       "pro_team": "LAR",
       "projected_points": 9.27,
-      "sleeper_adds_24h": 307782
+      "sleeper_adds_24h": 303525
     },
     {
       "name": "Chase McLaughlin",
       "position": "K",
       "pro_team": "TB",
       "projected_points": 14.9,
-      "sleeper_adds_24h": 75144
+      "sleeper_adds_24h": 66344
     },
     {
       "name": "Colby Parkinson",
       "position": "TE",
       "pro_team": "LAR",
       "projected_points": 11.37,
-      "sleeper_adds_24h": 59328
+      "sleeper_adds_24h": 59988
     }
   ],
   "trade_reviews": []
