@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T03:34:27.076100+00:00",
+  "generated_at": "2026-10-26T12:23:19.593928+00:00",
   "week": 7,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "Where is Nas",
@@ -61,7 +61,7 @@
       "urgent": false,
       "impact": 0.5,
       "headline": "Tyler Higbee (TE) is trending on Sleeper",
-      "detail": "229,311 adds in the last 24h - possibly worth a speculative add.",
+      "detail": "179,190 adds in the last 24h - possibly worth a speculative add.",
       "ref_id": null
     }
   ],
@@ -114,7 +114,7 @@
         "name": "Tanner McKee",
         "pro_team": "PHI",
         "projected_points": 31.13,
-        "percent_owned": 5.76,
+        "percent_owned": 5.82,
         "beats_your_weakest_by": 31.1,
         "weakest_player": "Lamar Jackson",
         "would_start_this_week": false,
@@ -217,7 +217,7 @@
         "name": "Jets D/ST",
         "pro_team": "NYJ",
         "projected_points": 18.44,
-        "percent_owned": 68.76,
+        "percent_owned": 68.75,
         "beats_your_weakest_by": 18.4,
         "weakest_player": "Jaguars D/ST",
         "would_start_this_week": true,
@@ -228,7 +228,7 @@
         "name": "Cowboys D/ST",
         "pro_team": "DAL",
         "projected_points": 17.13,
-        "percent_owned": 18.17,
+        "percent_owned": 18.21,
         "beats_your_weakest_by": 17.1,
         "weakest_player": "Jaguars D/ST",
         "would_start_this_week": true,
@@ -278,21 +278,21 @@
       "position": "TE",
       "pro_team": "LAR",
       "projected_points": 8.19,
-      "sleeper_adds_24h": 229311
+      "sleeper_adds_24h": 179190
     },
     {
       "name": "Justice Hill",
       "position": "RB",
       "pro_team": "BAL",
       "projected_points": 6.46,
-      "sleeper_adds_24h": 143379
+      "sleeper_adds_24h": 132147
     },
     {
       "name": "Chase McLaughlin",
       "position": "K",
       "pro_team": "TB",
       "projected_points": 14.9,
-      "sleeper_adds_24h": 125952
+      "sleeper_adds_24h": 117712
     }
   ],
   "trade_reviews": []
