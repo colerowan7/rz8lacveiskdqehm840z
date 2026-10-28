@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T04:23:31.022687+00:00",
+  "generated_at": "2026-10-28T12:14:54.940422+00:00",
   "week": 8,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "Ben's Brilliant Team (BC)",
@@ -27,9 +27,9 @@
     {
       "category": "waiver",
       "urgent": false,
-      "impact": 16.8,
-      "headline": "Add Chad Ryland (K) - would start immediately",
-      "detail": "Projected for 16.8 pts this week - +16.8 more than your weakest rostered K, Harrison Mevis (0.0 proj). This would actually start over your starting K Harrison Butker (15.8 proj) - real points, not just bench depth.",
+      "impact": 16.7,
+      "headline": "Add Chase McLaughlin (K) - would start immediately",
+      "detail": "Projected for 16.7 pts this week - +16.7 more than your weakest rostered K, Harrison Mevis (0.0 proj). This would actually start over your starting K Harrison Butker (15.8 proj) - real points, not just bench depth.",
       "ref_id": "waiver_K_0"
     },
     {
@@ -43,9 +43,9 @@
     {
       "category": "waiver",
       "urgent": false,
-      "impact": 10.3,
-      "headline": "Add Colby Parkinson (TE) - would start immediately",
-      "detail": "Projected for 10.3 pts this week - +10.3 more than your weakest rostered TE, George Kittle (0.0 proj). Actually averaged 8.4 ppg over their last 3 games, for context. This would actually start over your starting TE George Kittle (0.0 proj) - real points, not just bench depth.",
+      "impact": 10.5,
+      "headline": "Add Mason Taylor (TE) - would start immediately",
+      "detail": "Projected for 10.5 pts this week - +10.5 more than your weakest rostered TE, George Kittle (0.0 proj). Actually averaged 12.6 ppg over their last 3 games, for context. This would actually start over your starting TE George Kittle (0.0 proj) - real points, not just bench depth.",
       "ref_id": "waiver_TE_0"
     },
     {
@@ -111,7 +111,7 @@
         "name": "Kenny Gainwell",
         "pro_team": "TB",
         "projected_points": 8.81,
-        "percent_owned": 51.01,
+        "percent_owned": 51.1,
         "beats_your_weakest_by": 8.8,
         "weakest_player": "Jacory Croskey-Merritt",
         "would_start_this_week": false,
@@ -125,7 +125,7 @@
         "name": "Kimani Vidal",
         "pro_team": "LAC",
         "projected_points": 8.75,
-        "percent_owned": 5.58,
+        "percent_owned": 7.27,
         "beats_your_weakest_by": 8.8,
         "weakest_player": "Jacory Croskey-Merritt",
         "would_start_this_week": false,
@@ -139,7 +139,7 @@
         "name": "Justice Hill",
         "pro_team": "BAL",
         "projected_points": 7.4,
-        "percent_owned": 8.07,
+        "percent_owned": 7.97,
         "beats_your_weakest_by": 7.4,
         "weakest_player": "Jacory Croskey-Merritt",
         "would_start_this_week": false,
@@ -155,7 +155,7 @@
         "name": "Ryan Flournoy",
         "pro_team": "DAL",
         "projected_points": 10.59,
-        "percent_owned": 15.84,
+        "percent_owned": 17.23,
         "beats_your_weakest_by": 1.7,
         "weakest_player": "Xavier Worthy",
         "would_start_this_week": true,
@@ -169,7 +169,7 @@
         "name": "Ja'Kobi Lane",
         "pro_team": "BAL",
         "projected_points": 9.57,
-        "percent_owned": 11.76,
+        "percent_owned": 12.07,
         "beats_your_weakest_by": 0.6,
         "weakest_player": "Xavier Worthy",
         "would_start_this_week": true,
@@ -183,7 +183,7 @@
         "name": "Antonio Williams",
         "pro_team": "WSH",
         "projected_points": 9.47,
-        "percent_owned": 7.07,
+        "percent_owned": 10.76,
         "beats_your_weakest_by": 0.5,
         "weakest_player": "Xavier Worthy",
         "would_start_this_week": true,
@@ -196,10 +196,24 @@
     ],
     "TE": [
       {
+        "name": "Mason Taylor",
+        "pro_team": "NYJ",
+        "projected_points": 10.48,
+        "percent_owned": 4.02,
+        "beats_your_weakest_by": 10.5,
+        "weakest_player": "George Kittle",
+        "would_start_this_week": true,
+        "reason": "Projected for 10.5 pts this week - +10.5 more than your weakest rostered TE, George Kittle (0.0 proj). Actually averaged 12.6 ppg over their last 3 games, for context. This would actually start over your starting TE George Kittle (0.0 proj) - real points, not just bench depth.",
+        "recent_form": {
+          "avg_fantasy_points_ppr": 12.63,
+          "games_sample": 3
+        }
+      },
+      {
         "name": "Colby Parkinson",
         "pro_team": "LAR",
         "projected_points": 10.33,
-        "percent_owned": 6.43,
+        "percent_owned": 6.78,
         "beats_your_weakest_by": 10.3,
         "weakest_player": "George Kittle",
         "would_start_this_week": true,
@@ -213,7 +227,7 @@
         "name": "Pat Freiermuth",
         "pro_team": "PIT",
         "projected_points": 9.94,
-        "percent_owned": 59.52,
+        "percent_owned": 54.73,
         "beats_your_weakest_by": 9.9,
         "weakest_player": "George Kittle",
         "would_start_this_week": true,
@@ -222,39 +236,14 @@
           "avg_fantasy_points_ppr": 9.53,
           "games_sample": 3
         }
-      },
-      {
-        "name": "AJ Barner",
-        "pro_team": "SEA",
-        "projected_points": 9.74,
-        "percent_owned": 6.14,
-        "beats_your_weakest_by": 9.7,
-        "weakest_player": "George Kittle",
-        "would_start_this_week": true,
-        "reason": "Projected for 9.7 pts this week - +9.7 more than your weakest rostered TE, George Kittle (0.0 proj). Actually averaged 6.1 ppg over their last 3 games, for context. This would actually start over your starting TE George Kittle (0.0 proj) - real points, not just bench depth.",
-        "recent_form": {
-          "avg_fantasy_points_ppr": 6.07,
-          "games_sample": 3
-        }
       }
     ],
     "K": [
       {
-        "name": "Chad Ryland",
-        "pro_team": "ARI",
-        "projected_points": 16.82,
-        "percent_owned": 9.4,
-        "beats_your_weakest_by": 16.8,
-        "weakest_player": "Harrison Mevis",
-        "would_start_this_week": true,
-        "reason": "Projected for 16.8 pts this week - +16.8 more than your weakest rostered K, Harrison Mevis (0.0 proj). This would actually start over your starting K Harrison Butker (15.8 proj) - real points, not just bench depth.",
-        "recent_form": null
-      },
-      {
         "name": "Chase McLaughlin",
         "pro_team": "TB",
         "projected_points": 16.69,
-        "percent_owned": 25.09,
+        "percent_owned": 31.08,
         "beats_your_weakest_by": 16.7,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
@@ -265,11 +254,22 @@
         "name": "Jason Sanders",
         "pro_team": "NYJ",
         "projected_points": 16.61,
-        "percent_owned": 1.09,
+        "percent_owned": 1.17,
         "beats_your_weakest_by": 16.6,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
         "reason": "Projected for 16.6 pts this week - +16.6 more than your weakest rostered K, Harrison Mevis (0.0 proj). This would actually start over your starting K Harrison Butker (15.8 proj) - real points, not just bench depth.",
+        "recent_form": null
+      },
+      {
+        "name": "Tyler Loop",
+        "pro_team": "BAL",
+        "projected_points": 15.95,
+        "percent_owned": 59.79,
+        "beats_your_weakest_by": 15.9,
+        "weakest_player": "Harrison Mevis",
+        "would_start_this_week": true,
+        "reason": "Projected for 15.9 pts this week - +15.9 more than your weakest rostered K, Harrison Mevis (0.0 proj). This would actually start over your starting K Harrison Butker (15.8 proj) - real points, not just bench depth.",
         "recent_form": null
       }
     ]
@@ -280,7 +280,7 @@
       "position": "K",
       "pro_team": "TB",
       "projected_points": 16.69,
-      "sleeper_adds_24h": 314200
+      "sleeper_adds_24h": 352376
     }
   ],
   "trade_reviews": []
