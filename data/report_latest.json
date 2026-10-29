@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T22:17:03.949938+00:00",
+  "generated_at": "2026-10-29T04:42:30.194128+00:00",
   "week": 8,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "Ben's Brilliant Team (BC)",
@@ -20,16 +20,16 @@
   },
   "matchup_projection": {
     "my_projected": 146.0,
-    "opponent_projected": 155.5,
-    "margin": -9.5
+    "opponent_projected": 166.5,
+    "margin": -20.5
   },
   "top_actions": [
     {
       "category": "waiver",
       "urgent": false,
-      "impact": 16.7,
-      "headline": "Add Chase McLaughlin (K) - would start immediately",
-      "detail": "Projected for 16.7 pts this week - +16.7 more than your weakest rostered K, Harrison Mevis (0.0 proj). This would actually start over your starting K Harrison Butker (15.8 proj) - real points, not just bench depth.",
+      "impact": 16.8,
+      "headline": "Add Chad Ryland (K) - would start immediately",
+      "detail": "Projected for 16.8 pts this week - +16.8 more than your weakest rostered K, Harrison Mevis (0.0 proj). This would actually start over your starting K Harrison Butker (15.8 proj) - real points, not just bench depth.",
       "ref_id": "waiver_K_0"
     },
     {
@@ -57,20 +57,20 @@
       "ref_id": "injury_0"
     },
     {
+      "category": "injury_watch",
+      "urgent": false,
+      "impact": 3,
+      "headline": "George Pickens (RB/WR/TE): QUESTIONABLE",
+      "detail": "No clear bench replacement was found - worth checking before kickoff.",
+      "ref_id": "injury_1"
+    },
+    {
       "category": "start_sit",
       "urgent": false,
       "impact": 2.5,
       "headline": "Start Malik Washington over Xavier Worthy",
       "detail": "+2.5 projected pts",
       "ref_id": "swap_1"
-    },
-    {
-      "category": "waiver",
-      "urgent": false,
-      "impact": 1.7,
-      "headline": "Add Ryan Flournoy (WR) - would start immediately",
-      "detail": "Projected for 10.6 pts this week - +1.7 more than your weakest rostered WR, Xavier Worthy (8.9 proj). Actually averaged 13.3 ppg over their last 3 games, for context. This would actually start over your starting WR Xavier Worthy (8.9 proj) - real points, not just bench depth.",
-      "ref_id": "waiver_WR_0"
     }
   ],
   "injury_flags": [
@@ -79,6 +79,12 @@
       "slot": "RB",
       "reason": "QUESTIONABLE",
       "detail": "Back"
+    },
+    {
+      "player": "George Pickens",
+      "slot": "RB/WR/TE",
+      "reason": "QUESTIONABLE",
+      "detail": null
     },
     {
       "player": "George Kittle",
@@ -111,7 +117,7 @@
         "name": "Kenny Gainwell",
         "pro_team": "TB",
         "projected_points": 8.81,
-        "percent_owned": 51.23,
+        "percent_owned": 51.08,
         "beats_your_weakest_by": 8.8,
         "weakest_player": "Jacory Croskey-Merritt",
         "would_start_this_week": false,
@@ -125,7 +131,7 @@
         "name": "Kimani Vidal",
         "pro_team": "LAC",
         "projected_points": 8.75,
-        "percent_owned": 8.45,
+        "percent_owned": 9.38,
         "beats_your_weakest_by": 8.8,
         "weakest_player": "Jacory Croskey-Merritt",
         "would_start_this_week": false,
@@ -139,7 +145,7 @@
         "name": "Justice Hill",
         "pro_team": "BAL",
         "projected_points": 7.4,
-        "percent_owned": 7.92,
+        "percent_owned": 7.9,
         "beats_your_weakest_by": 7.4,
         "weakest_player": "Jacory Croskey-Merritt",
         "would_start_this_week": false,
@@ -155,7 +161,7 @@
         "name": "Ryan Flournoy",
         "pro_team": "DAL",
         "projected_points": 10.59,
-        "percent_owned": 18.12,
+        "percent_owned": 18.73,
         "beats_your_weakest_by": 1.7,
         "weakest_player": "Xavier Worthy",
         "would_start_this_week": true,
@@ -169,7 +175,7 @@
         "name": "Ja'Kobi Lane",
         "pro_team": "BAL",
         "projected_points": 9.57,
-        "percent_owned": 12.26,
+        "percent_owned": 12.44,
         "beats_your_weakest_by": 0.6,
         "weakest_player": "Xavier Worthy",
         "would_start_this_week": true,
@@ -183,7 +189,7 @@
         "name": "Antonio Williams",
         "pro_team": "WSH",
         "projected_points": 9.47,
-        "percent_owned": 12.13,
+        "percent_owned": 12.8,
         "beats_your_weakest_by": 0.5,
         "weakest_player": "Xavier Worthy",
         "would_start_this_week": true,
@@ -199,7 +205,7 @@
         "name": "Mason Taylor",
         "pro_team": "NYJ",
         "projected_points": 10.48,
-        "percent_owned": 5.92,
+        "percent_owned": 6.86,
         "beats_your_weakest_by": 10.5,
         "weakest_player": "George Kittle",
         "would_start_this_week": true,
@@ -213,7 +219,7 @@
         "name": "Colby Parkinson",
         "pro_team": "LAR",
         "projected_points": 10.33,
-        "percent_owned": 7.14,
+        "percent_owned": 7.1,
         "beats_your_weakest_by": 10.3,
         "weakest_player": "George Kittle",
         "would_start_this_week": true,
@@ -227,7 +233,7 @@
         "name": "Pat Freiermuth",
         "pro_team": "PIT",
         "projected_points": 9.94,
-        "percent_owned": 52.81,
+        "percent_owned": 52.01,
         "beats_your_weakest_by": 9.9,
         "weakest_player": "George Kittle",
         "would_start_this_week": true,
@@ -240,21 +246,21 @@
     ],
     "K": [
       {
-        "name": "Chase McLaughlin",
-        "pro_team": "TB",
-        "projected_points": 16.69,
-        "percent_owned": 34.05,
-        "beats_your_weakest_by": 16.7,
+        "name": "Chad Ryland",
+        "pro_team": "ARI",
+        "projected_points": 16.83,
+        "percent_owned": 17.62,
+        "beats_your_weakest_by": 16.8,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
-        "reason": "Projected for 16.7 pts this week - +16.7 more than your weakest rostered K, Harrison Mevis (0.0 proj). This would actually start over your starting K Harrison Butker (15.8 proj) - real points, not just bench depth.",
+        "reason": "Projected for 16.8 pts this week - +16.8 more than your weakest rostered K, Harrison Mevis (0.0 proj). This would actually start over your starting K Harrison Butker (15.8 proj) - real points, not just bench depth.",
         "recent_form": null
       },
       {
         "name": "Jason Sanders",
         "pro_team": "NYJ",
         "projected_points": 16.61,
-        "percent_owned": 1.49,
+        "percent_owned": 1.69,
         "beats_your_weakest_by": 16.6,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
@@ -265,7 +271,7 @@
         "name": "Tyler Loop",
         "pro_team": "BAL",
         "projected_points": 15.95,
-        "percent_owned": 59.18,
+        "percent_owned": 58.89,
         "beats_your_weakest_by": 15.9,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
@@ -274,14 +280,6 @@
       }
     ]
   },
-  "trending_adds": [
-    {
-      "name": "Chase McLaughlin",
-      "position": "K",
-      "pro_team": "TB",
-      "projected_points": 16.69,
-      "sleeper_adds_24h": 324696
-    }
-  ],
+  "trending_adds": [],
   "trade_reviews": []
 }
