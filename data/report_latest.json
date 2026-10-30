@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T22:29:59.890393+00:00",
+  "generated_at": "2026-10-30T04:41:59.536393+00:00",
   "week": 8,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "Ben's Brilliant Team (BC)",
@@ -55,6 +55,14 @@
       "headline": "Malik Washington (RB/WR/TE): QUESTIONABLE",
       "detail": "No clear bench replacement was found - worth checking before kickoff.",
       "ref_id": "injury_2"
+    },
+    {
+      "category": "trending",
+      "urgent": false,
+      "impact": 0.5,
+      "headline": "Devin Singletary (RB) is trending on Sleeper",
+      "detail": "304,191 adds in the last 24h - possibly worth a speculative add.",
+      "ref_id": null
     }
   ],
   "injury_flags": [
@@ -84,7 +92,7 @@
         "name": "Kenny Gainwell",
         "pro_team": "TB",
         "projected_points": 8.81,
-        "percent_owned": 50.91,
+        "percent_owned": 50.61,
         "beats_your_weakest_by": 8.8,
         "weakest_player": "Jacory Croskey-Merritt",
         "would_start_this_week": false,
@@ -98,7 +106,7 @@
         "name": "Kimani Vidal",
         "pro_team": "LAC",
         "projected_points": 8.75,
-        "percent_owned": 11.2,
+        "percent_owned": 12.9,
         "beats_your_weakest_by": 8.8,
         "weakest_player": "Jacory Croskey-Merritt",
         "would_start_this_week": false,
@@ -112,7 +120,7 @@
         "name": "Justice Hill",
         "pro_team": "BAL",
         "projected_points": 7.4,
-        "percent_owned": 7.87,
+        "percent_owned": 7.84,
         "beats_your_weakest_by": 7.4,
         "weakest_player": "Jacory Croskey-Merritt",
         "would_start_this_week": false,
@@ -128,7 +136,7 @@
         "name": "Treylon Burks",
         "pro_team": "WSH",
         "projected_points": 10.78,
-        "percent_owned": 6.08,
+        "percent_owned": 6.56,
         "beats_your_weakest_by": 1.8,
         "weakest_player": "Xavier Worthy",
         "would_start_this_week": false,
@@ -142,7 +150,7 @@
         "name": "Ryan Flournoy",
         "pro_team": "DAL",
         "projected_points": 10.59,
-        "percent_owned": 19.88,
+        "percent_owned": 20.76,
         "beats_your_weakest_by": 1.7,
         "weakest_player": "Xavier Worthy",
         "would_start_this_week": false,
@@ -156,7 +164,7 @@
         "name": "Ja'Kobi Lane",
         "pro_team": "BAL",
         "projected_points": 9.57,
-        "percent_owned": 12.78,
+        "percent_owned": 12.97,
         "beats_your_weakest_by": 0.6,
         "weakest_player": "Xavier Worthy",
         "would_start_this_week": false,
@@ -172,7 +180,7 @@
         "name": "Mason Taylor",
         "pro_team": "NYJ",
         "projected_points": 10.48,
-        "percent_owned": 8.66,
+        "percent_owned": 10.35,
         "beats_your_weakest_by": 10.5,
         "weakest_player": "George Kittle",
         "would_start_this_week": false,
@@ -186,7 +194,7 @@
         "name": "Colby Parkinson",
         "pro_team": "LAR",
         "projected_points": 10.33,
-        "percent_owned": 6.99,
+        "percent_owned": 6.86,
         "beats_your_weakest_by": 10.3,
         "weakest_player": "George Kittle",
         "would_start_this_week": false,
@@ -200,7 +208,7 @@
         "name": "Mike Gesicki",
         "pro_team": "CIN",
         "projected_points": 10.03,
-        "percent_owned": 14.3,
+        "percent_owned": 14.71,
         "beats_your_weakest_by": 10.0,
         "weakest_player": "George Kittle",
         "would_start_this_week": false,
@@ -216,7 +224,7 @@
         "name": "Chad Ryland",
         "pro_team": "ARI",
         "projected_points": 16.83,
-        "percent_owned": 20.51,
+        "percent_owned": 23.87,
         "beats_your_weakest_by": 16.8,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
@@ -227,7 +235,7 @@
         "name": "Jason Sanders",
         "pro_team": "NYJ",
         "projected_points": 16.61,
-        "percent_owned": 2.11,
+        "percent_owned": 2.71,
         "beats_your_weakest_by": 16.6,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
@@ -238,7 +246,7 @@
         "name": "Tyler Loop",
         "pro_team": "BAL",
         "projected_points": 15.95,
-        "percent_owned": 58.43,
+        "percent_owned": 58.15,
         "beats_your_weakest_by": 15.9,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
@@ -247,6 +255,14 @@
       }
     ]
   },
-  "trending_adds": [],
+  "trending_adds": [
+    {
+      "name": "Devin Singletary",
+      "position": "RB",
+      "pro_team": "NYG",
+      "projected_points": 0,
+      "sleeper_adds_24h": 304191
+    }
+  ],
   "trade_reviews": []
 }
