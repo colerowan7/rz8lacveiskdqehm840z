@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T11:48:07.629411+00:00",
+  "generated_at": "2026-10-31T16:55:02.310641+00:00",
   "week": 8,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "Ben's Brilliant Team (BC)",
@@ -27,9 +27,9 @@
     {
       "category": "waiver",
       "urgent": false,
-      "impact": 16.8,
-      "headline": "Add Chad Ryland (K) - would start immediately",
-      "detail": "Projected for 16.8 pts this week - +16.8 more than your weakest rostered K, Harrison Mevis (0.0 proj). This would actually start over your starting K Harrison Butker (15.8 proj) - real points, not just bench depth.",
+      "impact": 16.6,
+      "headline": "Add Jason Sanders (K) - would start immediately",
+      "detail": "Projected for 16.6 pts this week - +16.6 more than your weakest rostered K, Harrison Mevis (0.0 proj). This would actually start over your starting K Harrison Butker (15.8 proj) - real points, not just bench depth.",
       "ref_id": "waiver_K_0"
     },
     {
@@ -45,7 +45,7 @@
       "urgent": false,
       "impact": 0.5,
       "headline": "Devin Singletary (RB) is trending on Sleeper",
-      "detail": "132,633 adds in the last 24h - possibly worth a speculative add.",
+      "detail": "146,457 adds in the last 24h - possibly worth a speculative add.",
       "ref_id": null
     }
   ],
@@ -64,7 +64,7 @@
         "name": "Kenny Gainwell",
         "pro_team": "TB",
         "projected_points": 8.93,
-        "percent_owned": 50.39,
+        "percent_owned": 50.36,
         "beats_your_weakest_by": 8.9,
         "weakest_player": "Jacory Croskey-Merritt",
         "would_start_this_week": false,
@@ -78,7 +78,7 @@
         "name": "Kimani Vidal",
         "pro_team": "LAC",
         "projected_points": 8.75,
-        "percent_owned": 14.01,
+        "percent_owned": 14.19,
         "beats_your_weakest_by": 8.8,
         "weakest_player": "Jacory Croskey-Merritt",
         "would_start_this_week": false,
@@ -92,7 +92,7 @@
         "name": "Roschon Johnson",
         "pro_team": "CHI",
         "projected_points": 7.77,
-        "percent_owned": 10.73,
+        "percent_owned": 10.68,
         "beats_your_weakest_by": 7.8,
         "weakest_player": "Jacory Croskey-Merritt",
         "would_start_this_week": false,
@@ -108,7 +108,7 @@
         "name": "Darius Cooper",
         "pro_team": "PHI",
         "projected_points": 10.89,
-        "percent_owned": 10.05,
+        "percent_owned": 10.08,
         "beats_your_weakest_by": 1.9,
         "weakest_player": "Xavier Worthy",
         "would_start_this_week": false,
@@ -122,7 +122,7 @@
         "name": "Treylon Burks",
         "pro_team": "WSH",
         "projected_points": 10.78,
-        "percent_owned": 6.61,
+        "percent_owned": 6.59,
         "beats_your_weakest_by": 1.8,
         "weakest_player": "Xavier Worthy",
         "would_start_this_week": false,
@@ -136,7 +136,7 @@
         "name": "Ryan Flournoy",
         "pro_team": "DAL",
         "projected_points": 10.64,
-        "percent_owned": 21.38,
+        "percent_owned": 21.45,
         "beats_your_weakest_by": 1.7,
         "weakest_player": "Xavier Worthy",
         "would_start_this_week": false,
@@ -152,7 +152,7 @@
         "name": "Mason Taylor",
         "pro_team": "NYJ",
         "projected_points": 10.48,
-        "percent_owned": 11.15,
+        "percent_owned": 11.3,
         "beats_your_weakest_by": 10.5,
         "weakest_player": "George Kittle",
         "would_start_this_week": false,
@@ -166,7 +166,7 @@
         "name": "Colby Parkinson",
         "pro_team": "LAR",
         "projected_points": 10.33,
-        "percent_owned": 6.6,
+        "percent_owned": 6.55,
         "beats_your_weakest_by": 10.3,
         "weakest_player": "George Kittle",
         "would_start_this_week": false,
@@ -180,7 +180,7 @@
         "name": "Mike Gesicki",
         "pro_team": "CIN",
         "projected_points": 10.03,
-        "percent_owned": 14.88,
+        "percent_owned": 14.9,
         "beats_your_weakest_by": 10.0,
         "weakest_player": "George Kittle",
         "would_start_this_week": false,
@@ -193,21 +193,10 @@
     ],
     "K": [
       {
-        "name": "Chad Ryland",
-        "pro_team": "ARI",
-        "projected_points": 16.83,
-        "percent_owned": 25.17,
-        "beats_your_weakest_by": 16.8,
-        "weakest_player": "Harrison Mevis",
-        "would_start_this_week": true,
-        "reason": "Projected for 16.8 pts this week - +16.8 more than your weakest rostered K, Harrison Mevis (0.0 proj). This would actually start over your starting K Harrison Butker (15.8 proj) - real points, not just bench depth.",
-        "recent_form": null
-      },
-      {
         "name": "Jason Sanders",
         "pro_team": "NYJ",
         "projected_points": 16.61,
-        "percent_owned": 2.91,
+        "percent_owned": 2.95,
         "beats_your_weakest_by": 16.6,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
@@ -218,11 +207,22 @@
         "name": "Tyler Loop",
         "pro_team": "BAL",
         "projected_points": 15.95,
-        "percent_owned": 57.86,
+        "percent_owned": 57.82,
         "beats_your_weakest_by": 15.9,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
         "reason": "Projected for 15.9 pts this week - +15.9 more than your weakest rostered K, Harrison Mevis (0.0 proj). This would actually start over your starting K Harrison Butker (15.8 proj) - real points, not just bench depth.",
+        "recent_form": null
+      },
+      {
+        "name": "Drew Stevens",
+        "pro_team": "WSH",
+        "projected_points": 15.42,
+        "percent_owned": 0.95,
+        "beats_your_weakest_by": 15.4,
+        "weakest_player": "Harrison Mevis",
+        "would_start_this_week": false,
+        "reason": "Projected for 15.4 pts this week - +15.4 more than your weakest rostered K, Harrison Mevis (0.0 proj). Note: that's still below your starting K Harrison Butker (15.8 proj), so they'd sit on your bench scoring nothing unless something changes - this is a depth add / stash, not an immediate lineup upgrade.",
         "recent_form": null
       }
     ]
@@ -233,7 +233,7 @@
       "position": "RB",
       "pro_team": "NYG",
       "projected_points": 0,
-      "sleeper_adds_24h": 132633
+      "sleeper_adds_24h": 146457
     }
   ],
   "trade_reviews": []
