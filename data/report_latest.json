@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T21:05:42.108226+00:00",
+  "generated_at": "2026-11-01T04:45:38.723112+00:00",
   "week": 8,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "Ben's Brilliant Team (BC)",
@@ -19,9 +19,9 @@
     ]
   },
   "matchup_projection": {
-    "my_projected": 164.8,
+    "my_projected": 164.9,
     "opponent_projected": 169.2,
-    "margin": -4.4
+    "margin": -4.2
   },
   "top_actions": [
     {
@@ -45,7 +45,7 @@
       "urgent": false,
       "impact": 0.5,
       "headline": "Devin Singletary (RB) is trending on Sleeper",
-      "detail": "191,016 adds in the last 24h - possibly worth a speculative add.",
+      "detail": "212,049 adds in the last 24h - possibly worth a speculative add.",
       "ref_id": null
     }
   ],
@@ -64,7 +64,7 @@
         "name": "Kenny Gainwell",
         "pro_team": "TB",
         "projected_points": 8.93,
-        "percent_owned": 50.32,
+        "percent_owned": 50.24,
         "beats_your_weakest_by": 8.9,
         "weakest_player": "Jacory Croskey-Merritt",
         "would_start_this_week": false,
@@ -78,7 +78,7 @@
         "name": "Kimani Vidal",
         "pro_team": "LAC",
         "projected_points": 8.75,
-        "percent_owned": 14.43,
+        "percent_owned": 14.56,
         "beats_your_weakest_by": 8.8,
         "weakest_player": "Jacory Croskey-Merritt",
         "would_start_this_week": false,
@@ -92,7 +92,7 @@
         "name": "Roschon Johnson",
         "pro_team": "CHI",
         "projected_points": 7.77,
-        "percent_owned": 10.67,
+        "percent_owned": 10.59,
         "beats_your_weakest_by": 7.8,
         "weakest_player": "Jacory Croskey-Merritt",
         "would_start_this_week": false,
@@ -108,7 +108,7 @@
         "name": "Darius Cooper",
         "pro_team": "PHI",
         "projected_points": 10.89,
-        "percent_owned": 10.12,
+        "percent_owned": 10.16,
         "beats_your_weakest_by": 1.9,
         "weakest_player": "Xavier Worthy",
         "would_start_this_week": false,
@@ -122,7 +122,7 @@
         "name": "Treylon Burks",
         "pro_team": "WSH",
         "projected_points": 10.78,
-        "percent_owned": 6.56,
+        "percent_owned": 6.51,
         "beats_your_weakest_by": 1.8,
         "weakest_player": "Xavier Worthy",
         "would_start_this_week": false,
@@ -136,7 +136,7 @@
         "name": "Ryan Flournoy",
         "pro_team": "DAL",
         "projected_points": 10.64,
-        "percent_owned": 21.61,
+        "percent_owned": 21.74,
         "beats_your_weakest_by": 1.7,
         "weakest_player": "Xavier Worthy",
         "would_start_this_week": false,
@@ -149,24 +149,10 @@
     ],
     "TE": [
       {
-        "name": "Mason Taylor",
-        "pro_team": "NYJ",
-        "projected_points": 10.48,
-        "percent_owned": 11.44,
-        "beats_your_weakest_by": 10.5,
-        "weakest_player": "George Kittle",
-        "would_start_this_week": false,
-        "reason": "Projected for 10.5 pts this week - +10.5 more than your weakest rostered TE, George Kittle (0.0 proj). Actually averaged 12.6 ppg over their last 3 games, for context. Note: that's still below Malik Washington (WR), currently in your RB/WR/TE flex spot (11.4 proj), so they'd sit on your bench scoring nothing unless something changes - this is a depth add / stash, not an immediate lineup upgrade.",
-        "recent_form": {
-          "avg_fantasy_points_ppr": 12.63,
-          "games_sample": 3
-        }
-      },
-      {
         "name": "Mike Gesicki",
         "pro_team": "CIN",
-        "projected_points": 10.03,
-        "percent_owned": 14.92,
+        "projected_points": 10.02,
+        "percent_owned": 14.95,
         "beats_your_weakest_by": 10.0,
         "weakest_player": "George Kittle",
         "would_start_this_week": false,
@@ -180,13 +166,27 @@
         "name": "Pat Freiermuth",
         "pro_team": "PIT",
         "projected_points": 9.94,
-        "percent_owned": 48.93,
+        "percent_owned": 48.73,
         "beats_your_weakest_by": 9.9,
         "weakest_player": "George Kittle",
         "would_start_this_week": false,
         "reason": "Projected for 9.9 pts this week - +9.9 more than your weakest rostered TE, George Kittle (0.0 proj). Actually averaged 9.5 ppg over their last 3 games, for context. Note: that's still below Malik Washington (WR), currently in your RB/WR/TE flex spot (11.4 proj), so they'd sit on your bench scoring nothing unless something changes - this is a depth add / stash, not an immediate lineup upgrade.",
         "recent_form": {
           "avg_fantasy_points_ppr": 9.53,
+          "games_sample": 3
+        }
+      },
+      {
+        "name": "Tyler Higbee",
+        "pro_team": "LAR",
+        "projected_points": 9.84,
+        "percent_owned": 12.88,
+        "beats_your_weakest_by": 9.8,
+        "weakest_player": "George Kittle",
+        "would_start_this_week": false,
+        "reason": "Projected for 9.8 pts this week - +9.8 more than your weakest rostered TE, George Kittle (0.0 proj). Actually averaged 7.0 ppg over their last 3 games, for context. Note: that's still below Malik Washington (WR), currently in your RB/WR/TE flex spot (11.4 proj), so they'd sit on your bench scoring nothing unless something changes - this is a depth add / stash, not an immediate lineup upgrade.",
+        "recent_form": {
+          "avg_fantasy_points_ppr": 6.97,
           "games_sample": 3
         }
       }
@@ -196,7 +196,7 @@
         "name": "Jason Sanders",
         "pro_team": "NYJ",
         "projected_points": 16.61,
-        "percent_owned": 2.99,
+        "percent_owned": 3.04,
         "beats_your_weakest_by": 16.6,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
@@ -207,7 +207,7 @@
         "name": "Tyler Loop",
         "pro_team": "BAL",
         "projected_points": 15.95,
-        "percent_owned": 57.77,
+        "percent_owned": 57.7,
         "beats_your_weakest_by": 15.9,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
@@ -218,7 +218,7 @@
         "name": "Drew Stevens",
         "pro_team": "WSH",
         "projected_points": 15.42,
-        "percent_owned": 0.95,
+        "percent_owned": 0.96,
         "beats_your_weakest_by": 15.4,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": false,
@@ -233,7 +233,7 @@
       "position": "RB",
       "pro_team": "NYG",
       "projected_points": 0,
-      "sleeper_adds_24h": 191016
+      "sleeper_adds_24h": 212049
     }
   ],
   "trade_reviews": []
