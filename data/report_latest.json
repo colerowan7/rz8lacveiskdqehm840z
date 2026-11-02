@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T04:47:23.004669+00:00",
+  "generated_at": "2026-11-02T14:56:10.473824+00:00",
   "week": 8,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "Ben's Brilliant Team (BC)",
@@ -45,7 +45,7 @@
       "urgent": false,
       "impact": 0.5,
       "headline": "Cooper Kupp (WR) is trending on Sleeper",
-      "detail": "91,830 adds in the last 24h - possibly worth a speculative add.",
+      "detail": "87,978 adds in the last 24h - possibly worth a speculative add.",
       "ref_id": null
     }
   ],
@@ -57,7 +57,7 @@
         "name": "Corey Kiner",
         "pro_team": "NE",
         "projected_points": 10.39,
-        "percent_owned": 9.43,
+        "percent_owned": 9.63,
         "beats_your_weakest_by": 10.4,
         "weakest_player": "Jacory Croskey-Merritt",
         "would_start_this_week": false,
@@ -71,7 +71,7 @@
         "name": "Kenny Gainwell",
         "pro_team": "TB",
         "projected_points": 8.84,
-        "percent_owned": 50.17,
+        "percent_owned": 50.15,
         "beats_your_weakest_by": 8.8,
         "weakest_player": "Jacory Croskey-Merritt",
         "would_start_this_week": false,
@@ -85,7 +85,7 @@
         "name": "Kimani Vidal",
         "pro_team": "LAC",
         "projected_points": 8.75,
-        "percent_owned": 15.5,
+        "percent_owned": 15.51,
         "beats_your_weakest_by": 8.8,
         "weakest_player": "Jacory Croskey-Merritt",
         "would_start_this_week": false,
@@ -101,7 +101,7 @@
         "name": "Tez Johnson",
         "pro_team": "TB",
         "projected_points": 12.03,
-        "percent_owned": 8.07,
+        "percent_owned": 8.18,
         "beats_your_weakest_by": 3.1,
         "weakest_player": "Xavier Worthy",
         "would_start_this_week": true,
@@ -159,7 +159,7 @@
         "name": "Pat Freiermuth",
         "pro_team": "PIT",
         "projected_points": 9.94,
-        "percent_owned": 47.94,
+        "percent_owned": 47.88,
         "beats_your_weakest_by": 9.9,
         "weakest_player": "George Kittle",
         "would_start_this_week": false,
@@ -173,7 +173,7 @@
         "name": "Tyler Higbee",
         "pro_team": "LAR",
         "projected_points": 9.84,
-        "percent_owned": 14.02,
+        "percent_owned": 14.03,
         "beats_your_weakest_by": 9.8,
         "weakest_player": "George Kittle",
         "would_start_this_week": false,
@@ -189,7 +189,7 @@
         "name": "Jason Sanders",
         "pro_team": "NYJ",
         "projected_points": 16.61,
-        "percent_owned": 3.4,
+        "percent_owned": 3.41,
         "beats_your_weakest_by": 16.6,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
@@ -200,7 +200,7 @@
         "name": "Tyler Loop",
         "pro_team": "BAL",
         "projected_points": 15.95,
-        "percent_owned": 57.46,
+        "percent_owned": 57.42,
         "beats_your_weakest_by": 15.9,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
@@ -226,14 +226,14 @@
       "position": "WR",
       "pro_team": "SEA",
       "projected_points": 9.06,
-      "sleeper_adds_24h": 91830
+      "sleeper_adds_24h": 87978
     },
     {
       "name": "Tyler Higbee",
       "position": "TE",
       "pro_team": "LAR",
       "projected_points": 9.84,
-      "sleeper_adds_24h": 84519
+      "sleeper_adds_24h": 74952
     }
   ],
   "trade_reviews": []
