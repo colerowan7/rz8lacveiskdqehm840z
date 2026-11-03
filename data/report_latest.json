@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T14:56:10.473824+00:00",
+  "generated_at": "2026-11-03T00:38:24.137642+00:00",
   "week": 8,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "Ben's Brilliant Team (BC)",
@@ -44,8 +44,8 @@
       "category": "trending",
       "urgent": false,
       "impact": 0.5,
-      "headline": "Cooper Kupp (WR) is trending on Sleeper",
-      "detail": "87,978 adds in the last 24h - possibly worth a speculative add.",
+      "headline": "Mike Gesicki (TE) is trending on Sleeper",
+      "detail": "49,728 adds in the last 24h - possibly worth a speculative add.",
       "ref_id": null
     }
   ],
@@ -71,7 +71,7 @@
         "name": "Kenny Gainwell",
         "pro_team": "TB",
         "projected_points": 8.84,
-        "percent_owned": 50.15,
+        "percent_owned": 50.16,
         "beats_your_weakest_by": 8.8,
         "weakest_player": "Jacory Croskey-Merritt",
         "would_start_this_week": false,
@@ -115,7 +115,7 @@
         "name": "Darius Cooper",
         "pro_team": "PHI",
         "projected_points": 10.89,
-        "percent_owned": 10.92,
+        "percent_owned": 10.91,
         "beats_your_weakest_by": 1.9,
         "weakest_player": "Xavier Worthy",
         "would_start_this_week": false,
@@ -145,7 +145,7 @@
         "name": "Mike Gesicki",
         "pro_team": "CIN",
         "projected_points": 10.04,
-        "percent_owned": 15.1,
+        "percent_owned": 15.09,
         "beats_your_weakest_by": 10.0,
         "weakest_player": "George Kittle",
         "would_start_this_week": false,
@@ -159,7 +159,7 @@
         "name": "Pat Freiermuth",
         "pro_team": "PIT",
         "projected_points": 9.94,
-        "percent_owned": 47.88,
+        "percent_owned": 47.87,
         "beats_your_weakest_by": 9.9,
         "weakest_player": "George Kittle",
         "would_start_this_week": false,
@@ -173,7 +173,7 @@
         "name": "Tyler Higbee",
         "pro_team": "LAR",
         "projected_points": 9.84,
-        "percent_owned": 14.03,
+        "percent_owned": 14.02,
         "beats_your_weakest_by": 9.8,
         "weakest_player": "George Kittle",
         "would_start_this_week": false,
@@ -200,7 +200,7 @@
         "name": "Tyler Loop",
         "pro_team": "BAL",
         "projected_points": 15.95,
-        "percent_owned": 57.42,
+        "percent_owned": 57.41,
         "beats_your_weakest_by": 15.9,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
@@ -222,18 +222,18 @@
   },
   "trending_adds": [
     {
+      "name": "Mike Gesicki",
+      "position": "TE",
+      "pro_team": "CIN",
+      "projected_points": 10.04,
+      "sleeper_adds_24h": 49728
+    },
+    {
       "name": "Cooper Kupp",
       "position": "WR",
       "pro_team": "SEA",
       "projected_points": 9.06,
-      "sleeper_adds_24h": 87978
-    },
-    {
-      "name": "Tyler Higbee",
-      "position": "TE",
-      "pro_team": "LAR",
-      "projected_points": 9.84,
-      "sleeper_adds_24h": 74952
+      "sleeper_adds_24h": 32034
     }
   ],
   "trade_reviews": []
