@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T22:46:36.348679+00:00",
+  "generated_at": "2026-11-07T04:56:13.368062+00:00",
   "week": 9,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "British Outlaws (MW)",
@@ -62,7 +62,7 @@
       "urgent": false,
       "impact": 0.5,
       "headline": "Devin Singletary (RB) is trending on Sleeper",
-      "detail": "638,784 adds in the last 24h - possibly worth a speculative add.",
+      "detail": "690,813 adds in the last 24h - possibly worth a speculative add.",
       "ref_id": null
     }
   ],
@@ -81,7 +81,7 @@
         "name": "J.J. McCarthy",
         "pro_team": "NYG",
         "projected_points": 32.09,
-        "percent_owned": 31.94,
+        "percent_owned": 32.13,
         "beats_your_weakest_by": 32.1,
         "weakest_player": "Lamar Jackson",
         "would_start_this_week": false,
@@ -95,7 +95,7 @@
         "name": "Drew Lock",
         "pro_team": "SEA",
         "projected_points": 31.67,
-        "percent_owned": 5.6,
+        "percent_owned": 5.82,
         "beats_your_weakest_by": 31.7,
         "weakest_player": "Lamar Jackson",
         "would_start_this_week": false,
@@ -106,7 +106,7 @@
         "name": "Michael Penix Jr.",
         "pro_team": "ATL",
         "projected_points": 31.22,
-        "percent_owned": 15.71,
+        "percent_owned": 15.68,
         "beats_your_weakest_by": 31.2,
         "weakest_player": "Lamar Jackson",
         "would_start_this_week": false,
@@ -122,7 +122,7 @@
         "name": "Devin Singletary",
         "pro_team": "NYG",
         "projected_points": 15.61,
-        "percent_owned": 20.47,
+        "percent_owned": 25.19,
         "beats_your_weakest_by": 15.6,
         "weakest_player": "Jacory Croskey-Merritt",
         "would_start_this_week": true,
@@ -136,7 +136,7 @@
         "name": "Kimani Vidal",
         "pro_team": "LAC",
         "projected_points": 9.92,
-        "percent_owned": 13.38,
+        "percent_owned": 13.34,
         "beats_your_weakest_by": 9.9,
         "weakest_player": "Jacory Croskey-Merritt",
         "would_start_this_week": false,
@@ -150,7 +150,7 @@
         "name": "Kendre Miller",
         "pro_team": "NO",
         "projected_points": 9.88,
-        "percent_owned": 26.98,
+        "percent_owned": 26.91,
         "beats_your_weakest_by": 9.9,
         "weakest_player": "Jacory Croskey-Merritt",
         "would_start_this_week": false,
@@ -166,7 +166,7 @@
         "name": "Adonai Mitchell",
         "pro_team": "NYJ",
         "projected_points": 12.96,
-        "percent_owned": 36.14,
+        "percent_owned": 37.12,
         "beats_your_weakest_by": 2.4,
         "weakest_player": "Tre Tucker",
         "would_start_this_week": true,
@@ -180,7 +180,7 @@
         "name": "Devaughn Vele",
         "pro_team": "NO",
         "projected_points": 11.45,
-        "percent_owned": 59.11,
+        "percent_owned": 59.08,
         "beats_your_weakest_by": 0.9,
         "weakest_player": "Tre Tucker",
         "would_start_this_week": true,
@@ -194,7 +194,7 @@
         "name": "Antonio Williams",
         "pro_team": "WSH",
         "projected_points": 11.39,
-        "percent_owned": 19.29,
+        "percent_owned": 19.58,
         "beats_your_weakest_by": 0.9,
         "weakest_player": "Tre Tucker",
         "would_start_this_week": true,
@@ -210,7 +210,7 @@
         "name": "Dominic Zvada",
         "pro_team": "NYG",
         "projected_points": 18.52,
-        "percent_owned": 35.36,
+        "percent_owned": 35.52,
         "beats_your_weakest_by": 18.5,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
@@ -221,7 +221,7 @@
         "name": "Cairo Santos",
         "pro_team": "CHI",
         "projected_points": 16.54,
-        "percent_owned": 37.88,
+        "percent_owned": 37.95,
         "beats_your_weakest_by": 16.5,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
@@ -232,7 +232,7 @@
         "name": "Andre Szmyt",
         "pro_team": "CLE",
         "projected_points": 15.77,
-        "percent_owned": 3.76,
+        "percent_owned": 3.78,
         "beats_your_weakest_by": 15.8,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": false,
@@ -247,28 +247,28 @@
       "position": "RB",
       "pro_team": "NYG",
       "projected_points": 15.61,
-      "sleeper_adds_24h": 638784
+      "sleeper_adds_24h": 690813
     },
     {
       "name": "Carson Wentz",
       "position": "QB",
       "pro_team": "MIN",
       "projected_points": 31.18,
-      "sleeper_adds_24h": 292902
+      "sleeper_adds_24h": 139212
     },
     {
       "name": "Cairo Santos",
       "position": "K",
       "pro_team": "CHI",
       "projected_points": 16.54,
-      "sleeper_adds_24h": 210357
+      "sleeper_adds_24h": 62517
     },
     {
       "name": "Mike Gesicki",
       "position": "TE",
       "pro_team": "CIN",
       "projected_points": 9.99,
-      "sleeper_adds_24h": 103628
+      "sleeper_adds_24h": 60384
     }
   ],
   "trade_reviews": []
