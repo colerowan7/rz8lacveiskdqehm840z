@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T04:57:44.818586+00:00",
+  "generated_at": "2026-11-09T15:25:05.483795+00:00",
   "week": 9,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "British Outlaws (MW)",
@@ -62,7 +62,7 @@
       "urgent": false,
       "impact": 0.5,
       "headline": "Demarcus Robinson (WR) is trending on Sleeper",
-      "detail": "448,776 adds in the last 24h - possibly worth a speculative add.",
+      "detail": "302,556 adds in the last 24h - possibly worth a speculative add.",
       "ref_id": null
     }
   ],
@@ -96,7 +96,7 @@
         "name": "J.J. McCarthy",
         "pro_team": "NYG",
         "projected_points": 31.97,
-        "percent_owned": 33.93,
+        "percent_owned": 33.96,
         "beats_your_weakest_by": 32.0,
         "weakest_player": "Lamar Jackson",
         "would_start_this_week": false,
@@ -110,7 +110,7 @@
         "name": "Drew Lock",
         "pro_team": "SEA",
         "projected_points": 31.68,
-        "percent_owned": 7.92,
+        "percent_owned": 7.96,
         "beats_your_weakest_by": 31.7,
         "weakest_player": "Lamar Jackson",
         "would_start_this_week": false,
@@ -137,7 +137,7 @@
         "name": "Audric Estime",
         "pro_team": "NO",
         "projected_points": 13.09,
-        "percent_owned": 8.82,
+        "percent_owned": 9.19,
         "beats_your_weakest_by": 13.1,
         "weakest_player": "Jacory Croskey-Merritt",
         "would_start_this_week": false,
@@ -148,7 +148,7 @@
         "name": "Kimani Vidal",
         "pro_team": "LAC",
         "projected_points": 9.92,
-        "percent_owned": 13.4,
+        "percent_owned": 13.39,
         "beats_your_weakest_by": 9.9,
         "weakest_player": "Jacory Croskey-Merritt",
         "would_start_this_week": false,
@@ -162,7 +162,7 @@
         "name": "Elijah Mitchell",
         "pro_team": "PHI",
         "projected_points": 9.88,
-        "percent_owned": 13.0,
+        "percent_owned": 12.98,
         "beats_your_weakest_by": 9.9,
         "weakest_player": "Jacory Croskey-Merritt",
         "would_start_this_week": false,
@@ -192,7 +192,7 @@
         "name": "Adonai Mitchell",
         "pro_team": "NYJ",
         "projected_points": 12.95,
-        "percent_owned": 42.89,
+        "percent_owned": 43.0,
         "beats_your_weakest_by": 12.9,
         "weakest_player": "George Pickens",
         "would_start_this_week": true,
@@ -206,7 +206,7 @@
         "name": "Demarcus Robinson",
         "pro_team": "SF",
         "projected_points": 11.84,
-        "percent_owned": 10.05,
+        "percent_owned": 10.18,
         "beats_your_weakest_by": 11.8,
         "weakest_player": "George Pickens",
         "would_start_this_week": true,
@@ -219,7 +219,7 @@
         "name": "Dominic Zvada",
         "pro_team": "NYG",
         "projected_points": 18.52,
-        "percent_owned": 37.23,
+        "percent_owned": 37.26,
         "beats_your_weakest_by": 18.5,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
@@ -230,7 +230,7 @@
         "name": "Cairo Santos",
         "pro_team": "CHI",
         "projected_points": 16.54,
-        "percent_owned": 39.25,
+        "percent_owned": 39.26,
         "beats_your_weakest_by": 16.5,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
@@ -241,7 +241,7 @@
         "name": "Andre Szmyt",
         "pro_team": "CLE",
         "projected_points": 15.77,
-        "percent_owned": 3.97,
+        "percent_owned": 3.98,
         "beats_your_weakest_by": 15.8,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": false,
@@ -256,28 +256,28 @@
       "position": "WR",
       "pro_team": "SF",
       "projected_points": 11.84,
-      "sleeper_adds_24h": 448776
+      "sleeper_adds_24h": 302556
     },
     {
       "name": "Carson Wentz",
       "position": "QB",
       "pro_team": "MIN",
       "projected_points": 31.18,
-      "sleeper_adds_24h": 119682
-    },
-    {
-      "name": "Cairo Santos",
-      "position": "K",
-      "pro_team": "CHI",
-      "projected_points": 16.54,
-      "sleeper_adds_24h": 103831
+      "sleeper_adds_24h": 99378
     },
     {
       "name": "Darren Waller",
       "position": "TE",
       "pro_team": "CAR",
       "projected_points": 6.65,
-      "sleeper_adds_24h": 59454
+      "sleeper_adds_24h": 87030
+    },
+    {
+      "name": "Cairo Santos",
+      "position": "K",
+      "pro_team": "CHI",
+      "projected_points": 16.54,
+      "sleeper_adds_24h": 79450
     }
   ],
   "trade_reviews": []
