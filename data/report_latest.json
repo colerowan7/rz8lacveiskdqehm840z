@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T15:25:05.483795+00:00",
+  "generated_at": "2026-11-10T01:14:49.605752+00:00",
   "week": 9,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "British Outlaws (MW)",
@@ -61,8 +61,8 @@
       "category": "trending",
       "urgent": false,
       "impact": 0.5,
-      "headline": "Demarcus Robinson (WR) is trending on Sleeper",
-      "detail": "302,556 adds in the last 24h - possibly worth a speculative add.",
+      "headline": "Darren Waller (TE) is trending on Sleeper",
+      "detail": "128,394 adds in the last 24h - possibly worth a speculative add.",
       "ref_id": null
     }
   ],
@@ -96,7 +96,7 @@
         "name": "J.J. McCarthy",
         "pro_team": "NYG",
         "projected_points": 31.97,
-        "percent_owned": 33.96,
+        "percent_owned": 33.95,
         "beats_your_weakest_by": 32.0,
         "weakest_player": "Lamar Jackson",
         "would_start_this_week": false,
@@ -121,7 +121,7 @@
         "name": "Michael Penix Jr.",
         "pro_team": "ATL",
         "projected_points": 31.21,
-        "percent_owned": 15.53,
+        "percent_owned": 15.52,
         "beats_your_weakest_by": 31.2,
         "weakest_player": "Lamar Jackson",
         "would_start_this_week": false,
@@ -148,7 +148,7 @@
         "name": "Kimani Vidal",
         "pro_team": "LAC",
         "projected_points": 9.92,
-        "percent_owned": 13.39,
+        "percent_owned": 13.38,
         "beats_your_weakest_by": 9.9,
         "weakest_player": "Jacory Croskey-Merritt",
         "would_start_this_week": false,
@@ -162,7 +162,7 @@
         "name": "Elijah Mitchell",
         "pro_team": "PHI",
         "projected_points": 9.88,
-        "percent_owned": 12.98,
+        "percent_owned": 12.97,
         "beats_your_weakest_by": 9.9,
         "weakest_player": "Jacory Croskey-Merritt",
         "would_start_this_week": false,
@@ -192,7 +192,7 @@
         "name": "Adonai Mitchell",
         "pro_team": "NYJ",
         "projected_points": 12.95,
-        "percent_owned": 43.0,
+        "percent_owned": 42.99,
         "beats_your_weakest_by": 12.9,
         "weakest_player": "George Pickens",
         "would_start_this_week": true,
@@ -219,7 +219,7 @@
         "name": "Dominic Zvada",
         "pro_team": "NYG",
         "projected_points": 18.52,
-        "percent_owned": 37.26,
+        "percent_owned": 37.25,
         "beats_your_weakest_by": 18.5,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
@@ -230,7 +230,7 @@
         "name": "Cairo Santos",
         "pro_team": "CHI",
         "projected_points": 16.54,
-        "percent_owned": 39.26,
+        "percent_owned": 39.25,
         "beats_your_weakest_by": 16.5,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
@@ -241,7 +241,7 @@
         "name": "Andre Szmyt",
         "pro_team": "CLE",
         "projected_points": 15.77,
-        "percent_owned": 3.98,
+        "percent_owned": 3.97,
         "beats_your_weakest_by": 15.8,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": false,
@@ -252,32 +252,25 @@
   },
   "trending_adds": [
     {
-      "name": "Demarcus Robinson",
-      "position": "WR",
-      "pro_team": "SF",
-      "projected_points": 11.84,
-      "sleeper_adds_24h": 302556
+      "name": "Darren Waller",
+      "position": "TE",
+      "pro_team": "CAR",
+      "projected_points": 6.65,
+      "sleeper_adds_24h": 128394
+    },
+    {
+      "name": "Justice Hill",
+      "position": "RB",
+      "pro_team": "BAL",
+      "projected_points": 6.27,
+      "sleeper_adds_24h": 55332
     },
     {
       "name": "Carson Wentz",
       "position": "QB",
       "pro_team": "MIN",
       "projected_points": 31.18,
-      "sleeper_adds_24h": 99378
-    },
-    {
-      "name": "Darren Waller",
-      "position": "TE",
-      "pro_team": "CAR",
-      "projected_points": 6.65,
-      "sleeper_adds_24h": 87030
-    },
-    {
-      "name": "Cairo Santos",
-      "position": "K",
-      "pro_team": "CHI",
-      "projected_points": 16.54,
-      "sleeper_adds_24h": 79450
+      "sleeper_adds_24h": 49428
     }
   ],
   "trade_reviews": []
