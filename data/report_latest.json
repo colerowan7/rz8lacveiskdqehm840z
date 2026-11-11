@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T22:54:56.762742+00:00",
+  "generated_at": "2026-11-11T04:59:12.236760+00:00",
   "week": 10,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "The Zandwagon (ZM)",
@@ -118,7 +118,7 @@
         "name": "Drew Lock",
         "pro_team": "SEA",
         "projected_points": 33.07,
-        "percent_owned": 7.83,
+        "percent_owned": 7.8,
         "beats_your_weakest_by": 33.1,
         "weakest_player": "Lamar Jackson",
         "would_start_this_week": false,
@@ -132,7 +132,7 @@
         "name": "J.J. McCarthy",
         "pro_team": "NYG",
         "projected_points": 30.55,
-        "percent_owned": 33.34,
+        "percent_owned": 33.18,
         "beats_your_weakest_by": 30.6,
         "weakest_player": "Lamar Jackson",
         "would_start_this_week": false,
@@ -146,7 +146,7 @@
         "name": "Aaron Rodgers",
         "pro_team": "PIT",
         "projected_points": 30.22,
-        "percent_owned": 32.83,
+        "percent_owned": 32.79,
         "beats_your_weakest_by": 30.2,
         "weakest_player": "Lamar Jackson",
         "would_start_this_week": false,
@@ -162,7 +162,7 @@
         "name": "Audric Estime",
         "pro_team": "NO",
         "projected_points": 12.06,
-        "percent_owned": 9.41,
+        "percent_owned": 9.44,
         "beats_your_weakest_by": 12.1,
         "weakest_player": "Saquon Barkley",
         "would_start_this_week": true,
@@ -173,7 +173,7 @@
         "name": "Corey Kiner",
         "pro_team": "NE",
         "projected_points": 11.94,
-        "percent_owned": 5.49,
+        "percent_owned": 5.52,
         "beats_your_weakest_by": 11.9,
         "weakest_player": "Saquon Barkley",
         "would_start_this_week": true,
@@ -187,7 +187,7 @@
         "name": "Dylan Sampson",
         "pro_team": "CLE",
         "projected_points": 9.67,
-        "percent_owned": 18.55,
+        "percent_owned": 18.51,
         "beats_your_weakest_by": 9.7,
         "weakest_player": "Saquon Barkley",
         "would_start_this_week": true,
@@ -203,7 +203,7 @@
         "name": "Adonai Mitchell",
         "pro_team": "NYJ",
         "projected_points": 12.32,
-        "percent_owned": 42.32,
+        "percent_owned": 42.13,
         "beats_your_weakest_by": 2.9,
         "weakest_player": "Tre Tucker",
         "would_start_this_week": true,
@@ -217,7 +217,7 @@
         "name": "Treylon Burks",
         "pro_team": "WSH",
         "projected_points": 10.96,
-        "percent_owned": 9.42,
+        "percent_owned": 9.39,
         "beats_your_weakest_by": 1.6,
         "weakest_player": "Tre Tucker",
         "would_start_this_week": true,
@@ -231,7 +231,7 @@
         "name": "Josh Downs",
         "pro_team": "KC",
         "projected_points": 10.5,
-        "percent_owned": 61.37,
+        "percent_owned": 61.38,
         "beats_your_weakest_by": 1.1,
         "weakest_player": "Tre Tucker",
         "would_start_this_week": true,
@@ -247,7 +247,7 @@
         "name": "Eli Raridon",
         "pro_team": "NE",
         "projected_points": 10.93,
-        "percent_owned": 4.31,
+        "percent_owned": 4.3,
         "beats_your_weakest_by": 0.5,
         "weakest_player": "Kyle Pitts Sr.",
         "would_start_this_week": false,
@@ -263,7 +263,7 @@
         "name": "Dominic Zvada",
         "pro_team": "NYG",
         "projected_points": 18.89,
-        "percent_owned": 37.15,
+        "percent_owned": 37.11,
         "beats_your_weakest_by": 18.9,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
@@ -274,7 +274,7 @@
         "name": "Chris Boswell",
         "pro_team": "PIT",
         "projected_points": 18.18,
-        "percent_owned": 42.95,
+        "percent_owned": 42.9,
         "beats_your_weakest_by": 18.2,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
@@ -300,35 +300,35 @@
       "position": "TE",
       "pro_team": "CAR",
       "projected_points": 9.82,
-      "sleeper_adds_24h": 593460
-    },
-    {
-      "name": "Justice Hill",
-      "position": "RB",
-      "pro_team": "BAL",
-      "projected_points": 8.26,
-      "sleeper_adds_24h": 256815
+      "sleeper_adds_24h": 803799
     },
     {
       "name": "Tyler Higbee",
       "position": "TE",
       "pro_team": "LAR",
       "projected_points": 7.89,
-      "sleeper_adds_24h": 214029
+      "sleeper_adds_24h": 322110
+    },
+    {
+      "name": "Justice Hill",
+      "position": "RB",
+      "pro_team": "BAL",
+      "projected_points": 8.26,
+      "sleeper_adds_24h": 314955
     },
     {
       "name": "Aaron Rodgers",
       "position": "QB",
       "pro_team": "PIT",
       "projected_points": 30.22,
-      "sleeper_adds_24h": 175488
+      "sleeper_adds_24h": 246612
     },
     {
       "name": "Demarcus Robinson",
       "position": "WR",
       "pro_team": "SF",
       "projected_points": 7.64,
-      "sleeper_adds_24h": 169758
+      "sleeper_adds_24h": 241176
     }
   ],
   "trade_reviews": []
