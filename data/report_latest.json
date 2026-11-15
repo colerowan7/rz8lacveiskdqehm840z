@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T22:01:54.679308+00:00",
+  "generated_at": "2026-11-15T05:10:40.045344+00:00",
   "week": 10,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "The Zandwagon (ZM)",
@@ -68,9 +68,9 @@
     {
       "category": "start_sit",
       "urgent": false,
-      "impact": 1.3,
+      "impact": 1.4,
       "headline": "Start Xavier Worthy over Malik Washington",
-      "detail": "+1.3 projected pts",
+      "detail": "+1.4 projected pts",
       "ref_id": "swap_1"
     }
   ],
@@ -100,10 +100,10 @@
     {
       "slot": "WR",
       "sit": "Malik Washington",
-      "sit_projected": 9.81,
+      "sit_projected": 9.79,
       "start": "Xavier Worthy",
       "start_projected": 11.14,
-      "reason": "+1.3 projected pts"
+      "reason": "+1.4 projected pts"
     }
   ],
   "waiver_targets": {
@@ -112,7 +112,7 @@
         "name": "Drew Lock",
         "pro_team": "SEA",
         "projected_points": 33.07,
-        "percent_owned": 17.56,
+        "percent_owned": 17.94,
         "beats_your_weakest_by": 33.1,
         "weakest_player": "Lamar Jackson",
         "would_start_this_week": false,
@@ -126,7 +126,7 @@
         "name": "Aaron Rodgers",
         "pro_team": "PIT",
         "projected_points": 30.22,
-        "percent_owned": 37.21,
+        "percent_owned": 37.15,
         "beats_your_weakest_by": 30.2,
         "weakest_player": "Lamar Jackson",
         "would_start_this_week": false,
@@ -156,7 +156,7 @@
         "name": "Emmett Johnson",
         "pro_team": "KC",
         "projected_points": 19.13,
-        "percent_owned": 56.01,
+        "percent_owned": 63.9,
         "beats_your_weakest_by": 19.1,
         "weakest_player": "Saquon Barkley",
         "would_start_this_week": true,
@@ -170,7 +170,7 @@
         "name": "Corey Kiner",
         "pro_team": "NE",
         "projected_points": 11.8,
-        "percent_owned": 42.32,
+        "percent_owned": 43.18,
         "beats_your_weakest_by": 11.8,
         "weakest_player": "Saquon Barkley",
         "would_start_this_week": true,
@@ -184,7 +184,7 @@
         "name": "Dylan Sampson",
         "pro_team": "CLE",
         "projected_points": 9.69,
-        "percent_owned": 23.95,
+        "percent_owned": 24.35,
         "beats_your_weakest_by": 9.7,
         "weakest_player": "Saquon Barkley",
         "would_start_this_week": true,
@@ -200,7 +200,7 @@
         "name": "Adonai Mitchell",
         "pro_team": "NYJ",
         "projected_points": 12.32,
-        "percent_owned": 38.96,
+        "percent_owned": 38.73,
         "beats_your_weakest_by": 2.9,
         "weakest_player": "Tre Tucker",
         "would_start_this_week": true,
@@ -214,7 +214,7 @@
         "name": "Mack Hollins",
         "pro_team": "NE",
         "projected_points": 11.16,
-        "percent_owned": 25.3,
+        "percent_owned": 25.27,
         "beats_your_weakest_by": 1.8,
         "weakest_player": "Tre Tucker",
         "would_start_this_week": true,
@@ -244,7 +244,7 @@
         "name": "Chris Boswell",
         "pro_team": "PIT",
         "projected_points": 18.18,
-        "percent_owned": 58.35,
+        "percent_owned": 58.64,
         "beats_your_weakest_by": 18.2,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
@@ -255,7 +255,7 @@
         "name": "Jason Sanders",
         "pro_team": "NYJ",
         "projected_points": 17.14,
-        "percent_owned": 15.09,
+        "percent_owned": 15.4,
         "beats_your_weakest_by": 17.1,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
@@ -266,7 +266,7 @@
         "name": "Andre Szmyt",
         "pro_team": "CLE",
         "projected_points": 16.5,
-        "percent_owned": 7.95,
+        "percent_owned": 8.06,
         "beats_your_weakest_by": 16.5,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": false,
@@ -280,29 +280,29 @@
       "name": "Darren Waller",
       "position": "TE",
       "pro_team": "CAR",
-      "projected_points": 9.82,
-      "sleeper_adds_24h": 241722
+      "projected_points": 9.77,
+      "sleeper_adds_24h": 192798
     },
     {
       "name": "Justice Hill",
       "position": "RB",
       "pro_team": "BAL",
       "projected_points": 8.25,
-      "sleeper_adds_24h": 151839
+      "sleeper_adds_24h": 185895
     },
     {
       "name": "Tyler Higbee",
       "position": "TE",
       "pro_team": "LAR",
       "projected_points": 8.49,
-      "sleeper_adds_24h": 113202
+      "sleeper_adds_24h": 114768
     },
     {
       "name": "Mike Gesicki",
       "position": "TE",
       "pro_team": "CIN",
       "projected_points": 9.16,
-      "sleeper_adds_24h": 54420
+      "sleeper_adds_24h": 49872
     }
   ],
   "trade_reviews": []
