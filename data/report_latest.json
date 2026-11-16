@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T22:33:01.163476+00:00",
+  "generated_at": "2026-11-16T05:07:55.001294+00:00",
   "week": 10,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "The Zandwagon (ZM)",
@@ -70,7 +70,7 @@
       "urgent": false,
       "impact": 0.5,
       "headline": "Justice Hill (RB) is trending on Sleeper",
-      "detail": "399,771 adds in the last 24h - possibly worth a speculative add.",
+      "detail": "434,025 adds in the last 24h - possibly worth a speculative add.",
       "ref_id": null
     }
   ],
@@ -106,7 +106,7 @@
         "name": "Drew Lock",
         "pro_team": "SEA",
         "projected_points": 33.07,
-        "percent_owned": 19.96,
+        "percent_owned": 19.95,
         "beats_your_weakest_by": 33.1,
         "weakest_player": "Lamar Jackson",
         "would_start_this_week": false,
@@ -120,7 +120,7 @@
         "name": "Aaron Rodgers",
         "pro_team": "PIT",
         "projected_points": 30.22,
-        "percent_owned": 37.19,
+        "percent_owned": 37.25,
         "beats_your_weakest_by": 30.2,
         "weakest_player": "Lamar Jackson",
         "would_start_this_week": false,
@@ -134,7 +134,7 @@
         "name": "J.J. McCarthy",
         "pro_team": "NYG",
         "projected_points": 29.77,
-        "percent_owned": 27.56,
+        "percent_owned": 27.55,
         "beats_your_weakest_by": 29.8,
         "weakest_player": "Lamar Jackson",
         "would_start_this_week": false,
@@ -150,7 +150,7 @@
         "name": "Dylan Sampson",
         "pro_team": "CLE",
         "projected_points": 9.69,
-        "percent_owned": 26.32,
+        "percent_owned": 26.31,
         "beats_your_weakest_by": 9.7,
         "weakest_player": "Saquon Barkley",
         "would_start_this_week": true,
@@ -178,7 +178,7 @@
         "name": "Kimani Vidal",
         "pro_team": "LAC",
         "projected_points": 8.66,
-        "percent_owned": 11.72,
+        "percent_owned": 11.8,
         "beats_your_weakest_by": 8.7,
         "weakest_player": "Saquon Barkley",
         "would_start_this_week": true,
@@ -194,7 +194,7 @@
         "name": "Adonai Mitchell",
         "pro_team": "NYJ",
         "projected_points": 12.32,
-        "percent_owned": 38.59,
+        "percent_owned": 38.58,
         "beats_your_weakest_by": 2.9,
         "weakest_player": "Tre Tucker",
         "would_start_this_week": true,
@@ -238,7 +238,7 @@
         "name": "Chris Boswell",
         "pro_team": "PIT",
         "projected_points": 18.18,
-        "percent_owned": 60.41,
+        "percent_owned": 60.54,
         "beats_your_weakest_by": 18.2,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
@@ -260,7 +260,7 @@
         "name": "Andre Szmyt",
         "pro_team": "CLE",
         "projected_points": 16.5,
-        "percent_owned": 8.76,
+        "percent_owned": 8.75,
         "beats_your_weakest_by": 16.5,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": false,
@@ -275,28 +275,28 @@
       "position": "RB",
       "pro_team": "BAL",
       "projected_points": 8.25,
-      "sleeper_adds_24h": 399771
+      "sleeper_adds_24h": 434025
     },
     {
       "name": "Darren Waller",
       "position": "TE",
       "pro_team": "CAR",
       "projected_points": 9.77,
-      "sleeper_adds_24h": 277614
+      "sleeper_adds_24h": 238653
     },
     {
       "name": "Tyler Higbee",
       "position": "TE",
       "pro_team": "LAR",
       "projected_points": 8.49,
-      "sleeper_adds_24h": 211770
+      "sleeper_adds_24h": 188334
     },
     {
       "name": "Mike Gesicki",
       "position": "TE",
       "pro_team": "CIN",
       "projected_points": 9.16,
-      "sleeper_adds_24h": 98816
+      "sleeper_adds_24h": 107348
     }
   ],
   "trade_reviews": []
