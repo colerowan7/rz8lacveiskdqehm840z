@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T15:00:04.983884+00:00",
+  "generated_at": "2026-11-17T01:40:16.140428+00:00",
   "week": 10,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "The Zandwagon (ZM)",
@@ -20,9 +20,9 @@
     ]
   },
   "matchup_projection": {
-    "my_projected": 144.7,
+    "my_projected": 152.2,
     "opponent_projected": 119.4,
-    "margin": 25.3
+    "margin": 32.8
   },
   "top_actions": [
     {
@@ -38,16 +38,8 @@
       "urgent": false,
       "impact": 9.7,
       "headline": "Add Dylan Sampson (RB) - would start immediately",
-      "detail": "Projected for 9.7 pts this week - +9.7 more than your weakest rostered RB, Saquon Barkley (0.0 proj). Actually averaged 10.5 ppg over their last 3 games, for context. This would actually start over your starting RB Saquon Barkley (0.0 proj) - real points, not just bench depth.",
+      "detail": "Projected for 9.7 pts this week - +9.7 more than your weakest rostered RB, Saquon Barkley (0.0 proj). Actually averaged 10.5 ppg over their last 3 games, for context. This would actually start over your starting RB Keaton Mitchell (7.5 proj) - real points, not just bench depth.",
       "ref_id": "waiver_RB_0"
-    },
-    {
-      "category": "start_sit",
-      "urgent": false,
-      "impact": 7.5,
-      "headline": "Start Keaton Mitchell over Saquon Barkley",
-      "detail": "Saquon Barkley is on bye",
-      "ref_id": "swap_0"
     },
     {
       "category": "waiver",
@@ -63,34 +55,19 @@
       "impact": 1.8,
       "headline": "Start Xavier Worthy over Malik Washington",
       "detail": "+1.8 projected pts",
-      "ref_id": "swap_1"
+      "ref_id": "swap_0"
     },
     {
       "category": "trending",
       "urgent": false,
       "impact": 0.5,
       "headline": "Justice Hill (RB) is trending on Sleeper",
-      "detail": "381,600 adds in the last 24h - possibly worth a speculative add.",
+      "detail": "156,285 adds in the last 24h - possibly worth a speculative add.",
       "ref_id": null
     }
   ],
-  "injury_flags": [
-    {
-      "player": "Saquon Barkley",
-      "slot": "RB",
-      "reason": "BYE_WEEK",
-      "detail": null
-    }
-  ],
+  "injury_flags": [],
   "start_sit": [
-    {
-      "slot": "RB",
-      "sit": "Saquon Barkley",
-      "sit_projected": 0,
-      "start": "Keaton Mitchell",
-      "start_projected": 7.47,
-      "reason": "Saquon Barkley is on bye"
-    },
     {
       "slot": "WR",
       "sit": "Malik Washington",
@@ -120,7 +97,7 @@
         "name": "Aaron Rodgers",
         "pro_team": "PIT",
         "projected_points": 30.22,
-        "percent_owned": 37.18,
+        "percent_owned": 37.17,
         "beats_your_weakest_by": 30.2,
         "weakest_player": "Lamar Jackson",
         "would_start_this_week": false,
@@ -134,7 +111,7 @@
         "name": "J.J. McCarthy",
         "pro_team": "NYG",
         "projected_points": 29.77,
-        "percent_owned": 27.5,
+        "percent_owned": 27.49,
         "beats_your_weakest_by": 29.8,
         "weakest_player": "Lamar Jackson",
         "would_start_this_week": false,
@@ -150,11 +127,11 @@
         "name": "Dylan Sampson",
         "pro_team": "CLE",
         "projected_points": 9.69,
-        "percent_owned": 26.32,
+        "percent_owned": 26.31,
         "beats_your_weakest_by": 9.7,
         "weakest_player": "Saquon Barkley",
         "would_start_this_week": true,
-        "reason": "Projected for 9.7 pts this week - +9.7 more than your weakest rostered RB, Saquon Barkley (0.0 proj). Actually averaged 10.5 ppg over their last 3 games, for context. This would actually start over your starting RB Saquon Barkley (0.0 proj) - real points, not just bench depth.",
+        "reason": "Projected for 9.7 pts this week - +9.7 more than your weakest rostered RB, Saquon Barkley (0.0 proj). Actually averaged 10.5 ppg over their last 3 games, for context. This would actually start over your starting RB Keaton Mitchell (7.5 proj) - real points, not just bench depth.",
         "recent_form": {
           "avg_fantasy_points_ppr": 10.47,
           "games_sample": 3
@@ -164,11 +141,11 @@
         "name": "Austin Ekeler",
         "pro_team": "WSH",
         "projected_points": 9.33,
-        "percent_owned": 7.07,
+        "percent_owned": 7.06,
         "beats_your_weakest_by": 9.3,
         "weakest_player": "Saquon Barkley",
         "would_start_this_week": true,
-        "reason": "Projected for 9.3 pts this week - +9.3 more than your weakest rostered RB, Saquon Barkley (0.0 proj). Actually averaged 5.5 ppg over their last 2 games, for context. This would actually start over your starting RB Saquon Barkley (0.0 proj) - real points, not just bench depth.",
+        "reason": "Projected for 9.3 pts this week - +9.3 more than your weakest rostered RB, Saquon Barkley (0.0 proj). Actually averaged 5.5 ppg over their last 2 games, for context. This would actually start over your starting RB Keaton Mitchell (7.5 proj) - real points, not just bench depth.",
         "recent_form": {
           "avg_fantasy_points_ppr": 5.5,
           "games_sample": 2
@@ -178,11 +155,11 @@
         "name": "Kimani Vidal",
         "pro_team": "LAC",
         "projected_points": 8.66,
-        "percent_owned": 11.81,
+        "percent_owned": 11.84,
         "beats_your_weakest_by": 8.7,
         "weakest_player": "Saquon Barkley",
         "would_start_this_week": true,
-        "reason": "Projected for 8.7 pts this week - +8.7 more than your weakest rostered RB, Saquon Barkley (0.0 proj). Actually averaged 4.8 ppg over their last 2 games, for context. This would actually start over your starting RB Saquon Barkley (0.0 proj) - real points, not just bench depth.",
+        "reason": "Projected for 8.7 pts this week - +8.7 more than your weakest rostered RB, Saquon Barkley (0.0 proj). Actually averaged 4.8 ppg over their last 2 games, for context. This would actually start over your starting RB Keaton Mitchell (7.5 proj) - real points, not just bench depth.",
         "recent_form": {
           "avg_fantasy_points_ppr": 4.8,
           "games_sample": 2
@@ -194,7 +171,7 @@
         "name": "Adonai Mitchell",
         "pro_team": "NYJ",
         "projected_points": 12.32,
-        "percent_owned": 38.49,
+        "percent_owned": 38.47,
         "beats_your_weakest_by": 2.9,
         "weakest_player": "Tre Tucker",
         "would_start_this_week": true,
@@ -208,7 +185,7 @@
         "name": "Mack Hollins",
         "pro_team": "NE",
         "projected_points": 11.16,
-        "percent_owned": 25.0,
+        "percent_owned": 24.99,
         "beats_your_weakest_by": 1.8,
         "weakest_player": "Tre Tucker",
         "would_start_this_week": true,
@@ -238,7 +215,7 @@
         "name": "Chris Boswell",
         "pro_team": "PIT",
         "projected_points": 18.18,
-        "percent_owned": 60.49,
+        "percent_owned": 60.48,
         "beats_your_weakest_by": 18.2,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
@@ -275,28 +252,14 @@
       "position": "RB",
       "pro_team": "BAL",
       "projected_points": 8.25,
-      "sleeper_adds_24h": 381600
+      "sleeper_adds_24h": 156285
     },
     {
       "name": "Darren Waller",
       "position": "TE",
       "pro_team": "CAR",
       "projected_points": 9.77,
-      "sleeper_adds_24h": 169947
-    },
-    {
-      "name": "Tyler Higbee",
-      "position": "TE",
-      "pro_team": "LAR",
-      "projected_points": 8.49,
-      "sleeper_adds_24h": 139923
-    },
-    {
-      "name": "Mike Gesicki",
-      "position": "TE",
-      "pro_team": "CIN",
-      "projected_points": 9.16,
-      "sleeper_adds_24h": 90620
+      "sleeper_adds_24h": 40806
     }
   ],
   "trade_reviews": []
