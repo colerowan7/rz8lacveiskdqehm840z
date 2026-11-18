@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T15:36:19.625534+00:00",
+  "generated_at": "2026-11-18T00:38:22.673491+00:00",
   "week": 11,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "Isabout to Win (IP)",
@@ -21,7 +21,7 @@
   },
   "matchup_projection": {
     "my_projected": 143.6,
-    "opponent_projected": 141.5,
+    "opponent_projected": 141.6,
     "margin": 2.0
   },
   "top_actions": [
@@ -63,15 +63,15 @@
       "impact": 0.8,
       "headline": "Start Tre Tucker over Malik Washington",
       "detail": "+0.8 projected pts",
-      "ref_id": "swap_1"
+      "ref_id": "swap_2"
     },
     {
-      "category": "waiver",
+      "category": "start_sit",
       "urgent": false,
-      "impact": 0.6,
-      "headline": "Add Bills D/ST (D/ST) - would start immediately",
-      "detail": "Projected for 18.0 pts this week - +0.6 more than your weakest rostered D/ST, Jaguars D/ST (17.4 proj). This would actually start over your starting D/ST Jaguars D/ST (17.4 proj) - real points, not just bench depth.",
-      "ref_id": "waiver_D/ST_0"
+      "impact": 0.7,
+      "headline": "Start Jacory Croskey-Merritt over Keaton Mitchell",
+      "detail": "+0.7 projected pts",
+      "ref_id": "swap_1"
     }
   ],
   "injury_flags": [
@@ -92,6 +92,14 @@
       "reason": "Rhamondre Stevenson is on bye"
     },
     {
+      "slot": "RB",
+      "sit": "Keaton Mitchell",
+      "sit_projected": 7.85,
+      "start": "Jacory Croskey-Merritt",
+      "start_projected": 8.54,
+      "reason": "+0.7 projected pts"
+    },
+    {
       "slot": "WR",
       "sit": "Malik Washington",
       "sit_projected": 8.27,
@@ -106,7 +114,7 @@
         "name": "Cam Ward",
         "pro_team": "TEN",
         "projected_points": 33.38,
-        "percent_owned": 4.53,
+        "percent_owned": 4.59,
         "beats_your_weakest_by": 33.4,
         "weakest_player": "Lamar Jackson",
         "would_start_this_week": false,
@@ -120,7 +128,7 @@
         "name": "Fernando Mendoza",
         "pro_team": "LV",
         "projected_points": 29.61,
-        "percent_owned": 19.38,
+        "percent_owned": 19.3,
         "beats_your_weakest_by": 29.6,
         "weakest_player": "Lamar Jackson",
         "would_start_this_week": false,
@@ -134,7 +142,7 @@
         "name": "Aaron Rodgers",
         "pro_team": "PIT",
         "projected_points": 28.96,
-        "percent_owned": 36.97,
+        "percent_owned": 36.8,
         "beats_your_weakest_by": 29.0,
         "weakest_player": "Lamar Jackson",
         "would_start_this_week": false,
@@ -150,7 +158,7 @@
         "name": "Justice Hill",
         "pro_team": "BAL",
         "projected_points": 9.28,
-        "percent_owned": 14.37,
+        "percent_owned": 14.32,
         "beats_your_weakest_by": 9.3,
         "weakest_player": "Rhamondre Stevenson",
         "would_start_this_week": true,
@@ -161,24 +169,10 @@
         }
       },
       {
-        "name": "Austin Ekeler",
-        "pro_team": "WSH",
-        "projected_points": 9.16,
-        "percent_owned": 7.05,
-        "beats_your_weakest_by": 9.2,
-        "weakest_player": "Rhamondre Stevenson",
-        "would_start_this_week": true,
-        "reason": "Projected for 9.2 pts this week - +9.2 more than your weakest rostered RB, Rhamondre Stevenson (0.0 proj). Actually averaged 6.7 ppg over their last 3 games, for context. This would actually start over your starting RB Rhamondre Stevenson (0.0 proj) - real points, not just bench depth.",
-        "recent_form": {
-          "avg_fantasy_points_ppr": 6.73,
-          "games_sample": 3
-        }
-      },
-      {
         "name": "Tyjae Spears",
         "pro_team": "TEN",
         "projected_points": 8.7,
-        "percent_owned": 18.91,
+        "percent_owned": 18.87,
         "beats_your_weakest_by": 8.7,
         "weakest_player": "Rhamondre Stevenson",
         "would_start_this_week": true,
@@ -187,6 +181,20 @@
           "avg_fantasy_points_ppr": 3.8,
           "games_sample": 1
         }
+      },
+      {
+        "name": "Kimani Vidal",
+        "pro_team": "LAC",
+        "projected_points": 8.47,
+        "percent_owned": 11.7,
+        "beats_your_weakest_by": 8.5,
+        "weakest_player": "Rhamondre Stevenson",
+        "would_start_this_week": true,
+        "reason": "Projected for 8.5 pts this week - +8.5 more than your weakest rostered RB, Rhamondre Stevenson (0.0 proj). Actually averaged 4.3 ppg over their last 3 games, for context. This would actually start over your starting RB Rhamondre Stevenson (0.0 proj) - real points, not just bench depth.",
+        "recent_form": {
+          "avg_fantasy_points_ppr": 4.33,
+          "games_sample": 3
+        }
       }
     ],
     "WR": [
@@ -194,7 +202,7 @@
         "name": "Adonai Mitchell",
         "pro_team": "NYJ",
         "projected_points": 12.23,
-        "percent_owned": 38.36,
+        "percent_owned": 38.26,
         "beats_your_weakest_by": 4.0,
         "weakest_player": "Malik Washington",
         "would_start_this_week": true,
@@ -208,7 +216,7 @@
         "name": "Ryan Flournoy",
         "pro_team": "DAL",
         "projected_points": 11.59,
-        "percent_owned": 25.89,
+        "percent_owned": 25.9,
         "beats_your_weakest_by": 3.3,
         "weakest_player": "Malik Washington",
         "would_start_this_week": true,
@@ -221,8 +229,8 @@
       {
         "name": "Antonio Williams",
         "pro_team": "WSH",
-        "projected_points": 9.97,
-        "percent_owned": 17.61,
+        "projected_points": 10.01,
+        "percent_owned": 17.57,
         "beats_your_weakest_by": 1.7,
         "weakest_player": "Malik Washington",
         "would_start_this_week": true,
@@ -237,8 +245,8 @@
       {
         "name": "Chig Okonkwo",
         "pro_team": "WSH",
-        "projected_points": 10.97,
-        "percent_owned": 16.06,
+        "projected_points": 11.0,
+        "percent_owned": 16.05,
         "beats_your_weakest_by": 11.0,
         "weakest_player": "Kyle Pitts Sr.",
         "would_start_this_week": false,
@@ -251,8 +259,8 @@
       {
         "name": "Dalton Schultz",
         "pro_team": "HOU",
-        "projected_points": 10.12,
-        "percent_owned": 21.9,
+        "projected_points": 10.11,
+        "percent_owned": 21.89,
         "beats_your_weakest_by": 10.1,
         "weakest_player": "Kyle Pitts Sr.",
         "would_start_this_week": false,
@@ -266,7 +274,7 @@
         "name": "Darren Waller",
         "pro_team": "CAR",
         "projected_points": 9.71,
-        "percent_owned": 31.48,
+        "percent_owned": 31.14,
         "beats_your_weakest_by": 9.7,
         "weakest_player": "Kyle Pitts Sr.",
         "would_start_this_week": false,
@@ -282,7 +290,7 @@
         "name": "Bills D/ST",
         "pro_team": "BUF",
         "projected_points": 18.01,
-        "percent_owned": 60.96,
+        "percent_owned": 60.9,
         "beats_your_weakest_by": 0.6,
         "weakest_player": "Jaguars D/ST",
         "would_start_this_week": true,
@@ -295,7 +303,7 @@
         "name": "Wil Lutz",
         "pro_team": "DEN",
         "projected_points": 17.66,
-        "percent_owned": 3.57,
+        "percent_owned": 3.58,
         "beats_your_weakest_by": 17.7,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
@@ -306,7 +314,7 @@
         "name": "Chris Boswell",
         "pro_team": "PIT",
         "projected_points": 17.65,
-        "percent_owned": 60.19,
+        "percent_owned": 59.97,
         "beats_your_weakest_by": 17.6,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
@@ -317,7 +325,7 @@
         "name": "Cairo Santos",
         "pro_team": "CHI",
         "projected_points": 17.56,
-        "percent_owned": 20.67,
+        "percent_owned": 20.64,
         "beats_your_weakest_by": 17.6,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
@@ -328,18 +336,18 @@
   },
   "trending_adds": [
     {
-      "name": "Justice Hill",
-      "position": "RB",
-      "pro_team": "BAL",
-      "projected_points": 9.28,
-      "sleeper_adds_24h": 156330
-    },
-    {
       "name": "Cairo Santos",
       "position": "K",
       "pro_team": "CHI",
       "projected_points": 17.56,
-      "sleeper_adds_24h": 118265
+      "sleeper_adds_24h": 276542
+    },
+    {
+      "name": "Justice Hill",
+      "position": "RB",
+      "pro_team": "BAL",
+      "projected_points": 9.28,
+      "sleeper_adds_24h": 197523
     }
   ],
   "trade_reviews": []
