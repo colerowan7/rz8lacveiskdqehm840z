@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T15:19:14.554947+00:00",
+  "generated_at": "2026-11-20T23:44:19.848008+00:00",
   "week": 11,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "Isabout to Win (IP)",
@@ -20,9 +20,9 @@
     ]
   },
   "matchup_projection": {
-    "my_projected": 144.6,
-    "opponent_projected": 156.8,
-    "margin": -12.2
+    "my_projected": 143.2,
+    "opponent_projected": 155.8,
+    "margin": -12.6
   },
   "top_actions": [
     {
@@ -36,7 +36,7 @@
     {
       "category": "start_sit",
       "urgent": false,
-      "impact": 13.6,
+      "impact": 13.7,
       "headline": "Start Saquon Barkley over Rhamondre Stevenson",
       "detail": "Rhamondre Stevenson is on bye",
       "ref_id": "swap_0"
@@ -88,7 +88,7 @@
       "sit": "Rhamondre Stevenson",
       "sit_projected": 0,
       "start": "Saquon Barkley",
-      "start_projected": 13.62,
+      "start_projected": 13.7,
       "reason": "Rhamondre Stevenson is on bye"
     },
     {
@@ -114,7 +114,7 @@
         "name": "Fernando Mendoza",
         "pro_team": "LV",
         "projected_points": 29.61,
-        "percent_owned": 21.25,
+        "percent_owned": 21.44,
         "beats_your_weakest_by": 29.6,
         "weakest_player": "Lamar Jackson",
         "would_start_this_week": false,
@@ -128,7 +128,7 @@
         "name": "J.J. McCarthy",
         "pro_team": "NYG",
         "projected_points": 28.56,
-        "percent_owned": 25.66,
+        "percent_owned": 25.58,
         "beats_your_weakest_by": 28.6,
         "weakest_player": "Lamar Jackson",
         "would_start_this_week": false,
@@ -142,7 +142,7 @@
         "name": "Joe Milton",
         "pro_team": "PHI",
         "projected_points": 25.52,
-        "percent_owned": 3.25,
+        "percent_owned": 3.33,
         "beats_your_weakest_by": 25.5,
         "weakest_player": "Lamar Jackson",
         "would_start_this_week": false,
@@ -158,7 +158,7 @@
         "name": "Justice Hill",
         "pro_team": "BAL",
         "projected_points": 9.28,
-        "percent_owned": 22.15,
+        "percent_owned": 22.8,
         "beats_your_weakest_by": 9.3,
         "weakest_player": "Rhamondre Stevenson",
         "would_start_this_week": true,
@@ -172,7 +172,7 @@
         "name": "Emari Demercado",
         "pro_team": "HOU",
         "projected_points": 9.22,
-        "percent_owned": 12.7,
+        "percent_owned": 12.69,
         "beats_your_weakest_by": 9.2,
         "weakest_player": "Rhamondre Stevenson",
         "would_start_this_week": true,
@@ -186,7 +186,7 @@
         "name": "Tyjae Spears",
         "pro_team": "TEN",
         "projected_points": 8.69,
-        "percent_owned": 19.13,
+        "percent_owned": 19.15,
         "beats_your_weakest_by": 8.7,
         "weakest_player": "Rhamondre Stevenson",
         "would_start_this_week": true,
@@ -202,7 +202,7 @@
         "name": "Tank Dell",
         "pro_team": "HOU",
         "projected_points": 12.47,
-        "percent_owned": 60.76,
+        "percent_owned": 60.75,
         "beats_your_weakest_by": 4.2,
         "weakest_player": "Malik Washington",
         "would_start_this_week": true,
@@ -216,7 +216,7 @@
         "name": "Elic Ayomanor",
         "pro_team": "TEN",
         "projected_points": 11.22,
-        "percent_owned": 16.15,
+        "percent_owned": 16.96,
         "beats_your_weakest_by": 3.0,
         "weakest_player": "Malik Washington",
         "would_start_this_week": true,
@@ -230,7 +230,7 @@
         "name": "Caleb Douglas",
         "pro_team": "MIA",
         "projected_points": 10.57,
-        "percent_owned": 34.36,
+        "percent_owned": 34.62,
         "beats_your_weakest_by": 2.3,
         "weakest_player": "Malik Washington",
         "would_start_this_week": true,
@@ -246,7 +246,7 @@
         "name": "Chig Okonkwo",
         "pro_team": "WSH",
         "projected_points": 11.0,
-        "percent_owned": 49.63,
+        "percent_owned": 51.54,
         "beats_your_weakest_by": 11.0,
         "weakest_player": "Kyle Pitts Sr.",
         "would_start_this_week": false,
@@ -260,7 +260,7 @@
         "name": "Dalton Schultz",
         "pro_team": "HOU",
         "projected_points": 10.11,
-        "percent_owned": 32.19,
+        "percent_owned": 32.18,
         "beats_your_weakest_by": 10.1,
         "weakest_player": "Kyle Pitts Sr.",
         "would_start_this_week": false,
@@ -274,7 +274,7 @@
         "name": "Darren Waller",
         "pro_team": "CAR",
         "projected_points": 9.71,
-        "percent_owned": 26.97,
+        "percent_owned": 27.01,
         "beats_your_weakest_by": 9.7,
         "weakest_player": "Kyle Pitts Sr.",
         "would_start_this_week": false,
@@ -290,7 +290,7 @@
         "name": "Tyler Bass",
         "pro_team": "BUF",
         "projected_points": 19.35,
-        "percent_owned": 85.16,
+        "percent_owned": 85.31,
         "beats_your_weakest_by": 19.4,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
@@ -301,7 +301,7 @@
         "name": "Chris Boswell",
         "pro_team": "PIT",
         "projected_points": 17.65,
-        "percent_owned": 62.02,
+        "percent_owned": 62.23,
         "beats_your_weakest_by": 17.6,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
@@ -312,7 +312,7 @@
         "name": "Cairo Santos",
         "pro_team": "CHI",
         "projected_points": 17.56,
-        "percent_owned": 29.13,
+        "percent_owned": 29.45,
         "beats_your_weakest_by": 17.6,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
@@ -327,28 +327,21 @@
       "position": "K",
       "pro_team": "CHI",
       "projected_points": 17.56,
-      "sleeper_adds_24h": 401905
+      "sleeper_adds_24h": 294644
     },
     {
       "name": "Justice Hill",
       "position": "RB",
       "pro_team": "BAL",
       "projected_points": 9.28,
-      "sleeper_adds_24h": 203256
+      "sleeper_adds_24h": 204660
     },
     {
-      "name": "Jason Sanders",
-      "position": "K",
-      "pro_team": "NYJ",
-      "projected_points": 16.29,
-      "sleeper_adds_24h": 93300
-    },
-    {
-      "name": "Joey Slye",
-      "position": "K",
-      "pro_team": "TEN",
-      "projected_points": 14.91,
-      "sleeper_adds_24h": 89271
+      "name": "Darren Waller",
+      "position": "TE",
+      "pro_team": "CAR",
+      "projected_points": 9.71,
+      "sleeper_adds_24h": 79299
     }
   ],
   "trade_reviews": []
