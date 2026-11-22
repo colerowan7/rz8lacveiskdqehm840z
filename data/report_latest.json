@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T05:28:20.287159+00:00",
+  "generated_at": "2026-11-22T14:11:16.125644+00:00",
   "week": 11,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "Isabout to Win (IP)",
@@ -114,7 +114,7 @@
         "name": "Fernando Mendoza",
         "pro_team": "LV",
         "projected_points": 29.61,
-        "percent_owned": 21.76,
+        "percent_owned": 21.82,
         "beats_your_weakest_by": 29.6,
         "weakest_player": "Lamar Jackson",
         "would_start_this_week": false,
@@ -128,7 +128,7 @@
         "name": "J.J. McCarthy",
         "pro_team": "NYG",
         "projected_points": 28.56,
-        "percent_owned": 25.37,
+        "percent_owned": 25.32,
         "beats_your_weakest_by": 28.6,
         "weakest_player": "Lamar Jackson",
         "would_start_this_week": false,
@@ -142,7 +142,7 @@
         "name": "Joe Milton",
         "pro_team": "PHI",
         "projected_points": 25.52,
-        "percent_owned": 3.44,
+        "percent_owned": 3.47,
         "beats_your_weakest_by": 25.5,
         "weakest_player": "Lamar Jackson",
         "would_start_this_week": false,
@@ -158,7 +158,7 @@
         "name": "Justice Hill",
         "pro_team": "BAL",
         "projected_points": 9.28,
-        "percent_owned": 23.97,
+        "percent_owned": 24.27,
         "beats_your_weakest_by": 9.3,
         "weakest_player": "Rhamondre Stevenson",
         "would_start_this_week": true,
@@ -172,7 +172,7 @@
         "name": "Emari Demercado",
         "pro_team": "HOU",
         "projected_points": 9.22,
-        "percent_owned": 12.68,
+        "percent_owned": 12.69,
         "beats_your_weakest_by": 9.2,
         "weakest_player": "Rhamondre Stevenson",
         "would_start_this_week": true,
@@ -186,7 +186,7 @@
         "name": "Tyjae Spears",
         "pro_team": "TEN",
         "projected_points": 8.69,
-        "percent_owned": 18.76,
+        "percent_owned": 18.65,
         "beats_your_weakest_by": 8.7,
         "weakest_player": "Rhamondre Stevenson",
         "would_start_this_week": true,
@@ -202,7 +202,7 @@
         "name": "Tank Dell",
         "pro_team": "HOU",
         "projected_points": 12.47,
-        "percent_owned": 60.71,
+        "percent_owned": 60.73,
         "beats_your_weakest_by": 4.2,
         "weakest_player": "Malik Washington",
         "would_start_this_week": true,
@@ -216,7 +216,7 @@
         "name": "Elic Ayomanor",
         "pro_team": "TEN",
         "projected_points": 11.22,
-        "percent_owned": 18.01,
+        "percent_owned": 18.27,
         "beats_your_weakest_by": 3.0,
         "weakest_player": "Malik Washington",
         "would_start_this_week": true,
@@ -230,7 +230,7 @@
         "name": "Caleb Douglas",
         "pro_team": "MIA",
         "projected_points": 10.57,
-        "percent_owned": 35.47,
+        "percent_owned": 35.72,
         "beats_your_weakest_by": 2.3,
         "weakest_player": "Malik Washington",
         "would_start_this_week": true,
@@ -243,24 +243,10 @@
     ],
     "TE": [
       {
-        "name": "Chig Okonkwo",
-        "pro_team": "WSH",
-        "projected_points": 11.0,
-        "percent_owned": 54.31,
-        "beats_your_weakest_by": 11.0,
-        "weakest_player": "Kyle Pitts Sr.",
-        "would_start_this_week": false,
-        "reason": "Projected for 11.0 pts this week - +11.0 more than your weakest rostered TE, Kyle Pitts Sr. (0.0 proj). Actually averaged 7.1 ppg over their last 3 games, for context. Note: that's still below your starting TE Travis Kelce (13.3 proj), so they'd sit on your bench scoring nothing unless something changes - this is a depth add / stash, not an immediate lineup upgrade.",
-        "recent_form": {
-          "avg_fantasy_points_ppr": 7.1,
-          "games_sample": 3
-        }
-      },
-      {
         "name": "Dalton Schultz",
         "pro_team": "HOU",
         "projected_points": 10.11,
-        "percent_owned": 32.16,
+        "percent_owned": 32.17,
         "beats_your_weakest_by": 10.1,
         "weakest_player": "Kyle Pitts Sr.",
         "would_start_this_week": false,
@@ -274,13 +260,27 @@
         "name": "Darren Waller",
         "pro_team": "CAR",
         "projected_points": 9.71,
-        "percent_owned": 26.99,
+        "percent_owned": 26.98,
         "beats_your_weakest_by": 9.7,
         "weakest_player": "Kyle Pitts Sr.",
         "would_start_this_week": false,
         "reason": "Projected for 9.7 pts this week - +9.7 more than your weakest rostered TE, Kyle Pitts Sr. (0.0 proj). Actually averaged 9.8 ppg over their last 3 games, for context. Note: that's still below your starting TE Travis Kelce (13.3 proj), so they'd sit on your bench scoring nothing unless something changes - this is a depth add / stash, not an immediate lineup upgrade.",
         "recent_form": {
           "avg_fantasy_points_ppr": 9.83,
+          "games_sample": 3
+        }
+      },
+      {
+        "name": "Dawson Knox",
+        "pro_team": "BUF",
+        "projected_points": 8.81,
+        "percent_owned": 3.84,
+        "beats_your_weakest_by": 8.8,
+        "weakest_player": "Kyle Pitts Sr.",
+        "would_start_this_week": false,
+        "reason": "Projected for 8.8 pts this week - +8.8 more than your weakest rostered TE, Kyle Pitts Sr. (0.0 proj). Actually averaged 3.7 ppg over their last 3 games, for context. Note: that's still below your starting TE Travis Kelce (13.3 proj), so they'd sit on your bench scoring nothing unless something changes - this is a depth add / stash, not an immediate lineup upgrade.",
+        "recent_form": {
+          "avg_fantasy_points_ppr": 3.67,
           "games_sample": 3
         }
       }
@@ -290,7 +290,7 @@
         "name": "Tyler Bass",
         "pro_team": "BUF",
         "projected_points": 19.35,
-        "percent_owned": 85.63,
+        "percent_owned": 85.74,
         "beats_your_weakest_by": 19.4,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
@@ -301,7 +301,7 @@
         "name": "Chris Boswell",
         "pro_team": "PIT",
         "projected_points": 17.65,
-        "percent_owned": 62.65,
+        "percent_owned": 62.81,
         "beats_your_weakest_by": 17.6,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
@@ -312,7 +312,7 @@
         "name": "Cairo Santos",
         "pro_team": "CHI",
         "projected_points": 17.56,
-        "percent_owned": 30.02,
+        "percent_owned": 30.21,
         "beats_your_weakest_by": 17.6,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
@@ -327,28 +327,35 @@
       "position": "RB",
       "pro_team": "BAL",
       "projected_points": 9.28,
-      "sleeper_adds_24h": 128430
+      "sleeper_adds_24h": 150714
     },
     {
       "name": "Dawson Knox",
       "position": "TE",
       "pro_team": "BUF",
       "projected_points": 8.81,
-      "sleeper_adds_24h": 87822
+      "sleeper_adds_24h": 128622
     },
     {
       "name": "Cairo Santos",
       "position": "K",
       "pro_team": "CHI",
       "projected_points": 17.56,
-      "sleeper_adds_24h": 69818
+      "sleeper_adds_24h": 88557
     },
     {
       "name": "Darren Waller",
       "position": "TE",
       "pro_team": "CAR",
       "projected_points": 9.71,
-      "sleeper_adds_24h": 37908
+      "sleeper_adds_24h": 45594
+    },
+    {
+      "name": "Jason Sanders",
+      "position": "K",
+      "pro_team": "NYJ",
+      "projected_points": 16.29,
+      "sleeper_adds_24h": 35295
     }
   ],
   "trade_reviews": []
