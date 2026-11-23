@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T23:18:33.618776+00:00",
+  "generated_at": "2026-11-23T06:06:27.566368+00:00",
   "week": 11,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "Isabout to Win (IP)",
@@ -133,7 +133,7 @@
         "name": "J.J. McCarthy",
         "pro_team": "NYG",
         "projected_points": 28.56,
-        "percent_owned": 25.01,
+        "percent_owned": 25.0,
         "beats_your_weakest_by": 28.6,
         "weakest_player": "Lamar Jackson",
         "would_start_this_week": false,
@@ -147,7 +147,7 @@
         "name": "Joe Milton",
         "pro_team": "PHI",
         "projected_points": 25.52,
-        "percent_owned": 3.58,
+        "percent_owned": 3.57,
         "beats_your_weakest_by": 25.5,
         "weakest_player": "Lamar Jackson",
         "would_start_this_week": false,
@@ -207,7 +207,7 @@
         "name": "Tank Dell",
         "pro_team": "HOU",
         "projected_points": 12.47,
-        "percent_owned": 60.72,
+        "percent_owned": 60.71,
         "beats_your_weakest_by": 4.2,
         "weakest_player": "Malik Washington",
         "would_start_this_week": true,
@@ -221,7 +221,7 @@
         "name": "Elic Ayomanor",
         "pro_team": "TEN",
         "projected_points": 11.23,
-        "percent_owned": 19.22,
+        "percent_owned": 19.21,
         "beats_your_weakest_by": 3.0,
         "weakest_player": "Malik Washington",
         "would_start_this_week": true,
@@ -235,7 +235,7 @@
         "name": "Caleb Douglas",
         "pro_team": "MIA",
         "projected_points": 10.57,
-        "percent_owned": 36.37,
+        "percent_owned": 36.36,
         "beats_your_weakest_by": 2.3,
         "weakest_player": "Malik Washington",
         "would_start_this_week": true,
@@ -251,7 +251,7 @@
         "name": "Dalton Schultz",
         "pro_team": "HOU",
         "projected_points": 10.11,
-        "percent_owned": 32.16,
+        "percent_owned": 32.15,
         "beats_your_weakest_by": 10.1,
         "weakest_player": "Kyle Pitts Sr.",
         "would_start_this_week": false,
@@ -265,7 +265,7 @@
         "name": "Michael Mayer",
         "pro_team": "LV",
         "projected_points": 9.57,
-        "percent_owned": 36.85,
+        "percent_owned": 36.84,
         "beats_your_weakest_by": 9.6,
         "weakest_player": "Kyle Pitts Sr.",
         "would_start_this_week": false,
@@ -295,7 +295,7 @@
         "name": "Tyler Bass",
         "pro_team": "BUF",
         "projected_points": 19.35,
-        "percent_owned": 86.09,
+        "percent_owned": 86.08,
         "beats_your_weakest_by": 19.4,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
@@ -306,7 +306,7 @@
         "name": "Chris Boswell",
         "pro_team": "PIT",
         "projected_points": 17.65,
-        "percent_owned": 63.53,
+        "percent_owned": 63.52,
         "beats_your_weakest_by": 17.6,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
@@ -332,35 +332,35 @@
       "position": "TE",
       "pro_team": "BUF",
       "projected_points": 8.81,
-      "sleeper_adds_24h": 418842
+      "sleeper_adds_24h": 386580
     },
     {
       "name": "Justice Hill",
       "position": "RB",
       "pro_team": "BAL",
       "projected_points": 9.28,
-      "sleeper_adds_24h": 316836
+      "sleeper_adds_24h": 349146
     },
     {
       "name": "Cairo Santos",
       "position": "K",
       "pro_team": "CHI",
       "projected_points": 17.56,
-      "sleeper_adds_24h": 163107
+      "sleeper_adds_24h": 138495
     },
     {
       "name": "Evan Engram",
       "position": "TE",
       "pro_team": "DEN",
       "projected_points": 7.28,
-      "sleeper_adds_24h": 94008
+      "sleeper_adds_24h": 108496
     },
     {
       "name": "Joey Slye",
       "position": "K",
       "pro_team": "TEN",
       "projected_points": 14.91,
-      "sleeper_adds_24h": 81927
+      "sleeper_adds_24h": 76266
     }
   ],
   "trade_reviews": []
