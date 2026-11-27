@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T07:03:39.891222+00:00",
+  "generated_at": "2026-11-27T20:45:31.248155+00:00",
   "week": 12,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "The Advisors (MW)",
@@ -20,8 +20,8 @@
   },
   "matchup_projection": {
     "my_projected": 167.1,
-    "opponent_projected": 149.4,
-    "margin": 17.7
+    "opponent_projected": 149.2,
+    "margin": 18.0
   },
   "top_actions": [
     {
@@ -51,9 +51,9 @@
     {
       "category": "waiver",
       "urgent": false,
-      "impact": 2.1,
+      "impact": 1.2,
       "headline": "Add Commanders D/ST (D/ST) - would start immediately",
-      "detail": "Projected for 20.7 pts this week - +2.1 more than your weakest rostered D/ST, Jaguars D/ST (18.6 proj). This would actually start over your starting D/ST Jaguars D/ST (18.6 proj) - real points, not just bench depth.",
+      "detail": "Projected for 19.8 pts this week - +1.2 more than your weakest rostered D/ST, Jaguars D/ST (18.6 proj). This would actually start over your starting D/ST Jaguars D/ST (18.6 proj) - real points, not just bench depth.",
       "ref_id": "waiver_D/ST_0"
     },
     {
@@ -61,7 +61,7 @@
       "urgent": false,
       "impact": 0.5,
       "headline": "Evan Engram (TE) is trending on Sleeper",
-      "detail": "95,168 adds in the last 24h - possibly worth a speculative add.",
+      "detail": "78,464 adds in the last 24h - possibly worth a speculative add.",
       "ref_id": null
     }
   ],
@@ -80,7 +80,7 @@
         "name": "J.J. McCarthy",
         "pro_team": "NYG",
         "projected_points": 31.11,
-        "percent_owned": 30.63,
+        "percent_owned": 30.92,
         "beats_your_weakest_by": 31.1,
         "weakest_player": "Lamar Jackson",
         "would_start_this_week": false,
@@ -94,7 +94,7 @@
         "name": "Fernando Mendoza",
         "pro_team": "LV",
         "projected_points": 30.5,
-        "percent_owned": 32.5,
+        "percent_owned": 32.78,
         "beats_your_weakest_by": 30.5,
         "weakest_player": "Lamar Jackson",
         "would_start_this_week": false,
@@ -108,7 +108,7 @@
         "name": "Joe Milton",
         "pro_team": "PHI",
         "projected_points": 29.91,
-        "percent_owned": 4.78,
+        "percent_owned": 4.8,
         "beats_your_weakest_by": 29.9,
         "weakest_player": "Lamar Jackson",
         "would_start_this_week": false,
@@ -124,7 +124,7 @@
         "name": "Dylan Sampson",
         "pro_team": "CLE",
         "projected_points": 12.53,
-        "percent_owned": 31.57,
+        "percent_owned": 31.89,
         "beats_your_weakest_by": 5.8,
         "weakest_player": "Keaton Mitchell",
         "would_start_this_week": false,
@@ -138,7 +138,7 @@
         "name": "Justice Hill",
         "pro_team": "BAL",
         "projected_points": 10.6,
-        "percent_owned": 34.97,
+        "percent_owned": 35.14,
         "beats_your_weakest_by": 3.8,
         "weakest_player": "Keaton Mitchell",
         "would_start_this_week": false,
@@ -152,7 +152,7 @@
         "name": "Austin Ekeler",
         "pro_team": "WSH",
         "projected_points": 10.09,
-        "percent_owned": 10.13,
+        "percent_owned": 10.28,
         "beats_your_weakest_by": 3.3,
         "weakest_player": "Keaton Mitchell",
         "would_start_this_week": false,
@@ -168,7 +168,7 @@
         "name": "Antonio Williams",
         "pro_team": "WSH",
         "projected_points": 13.52,
-        "percent_owned": 55.4,
+        "percent_owned": 56.57,
         "beats_your_weakest_by": 5.8,
         "weakest_player": "Xavier Worthy",
         "would_start_this_week": true,
@@ -182,7 +182,7 @@
         "name": "Caleb Douglas",
         "pro_team": "MIA",
         "projected_points": 12.5,
-        "percent_owned": 37.85,
+        "percent_owned": 38.28,
         "beats_your_weakest_by": 4.8,
         "weakest_player": "Xavier Worthy",
         "would_start_this_week": true,
@@ -196,7 +196,7 @@
         "name": "Tank Dell",
         "pro_team": "HOU",
         "projected_points": 10.49,
-        "percent_owned": 54.87,
+        "percent_owned": 54.72,
         "beats_your_weakest_by": 2.8,
         "weakest_player": "Xavier Worthy",
         "would_start_this_week": true,
@@ -211,19 +211,19 @@
       {
         "name": "Commanders D/ST",
         "pro_team": "WSH",
-        "projected_points": 20.68,
-        "percent_owned": 60.89,
-        "beats_your_weakest_by": 2.1,
+        "projected_points": 19.79,
+        "percent_owned": 61.22,
+        "beats_your_weakest_by": 1.2,
         "weakest_player": "Jaguars D/ST",
         "would_start_this_week": true,
-        "reason": "Projected for 20.7 pts this week - +2.1 more than your weakest rostered D/ST, Jaguars D/ST (18.6 proj). This would actually start over your starting D/ST Jaguars D/ST (18.6 proj) - real points, not just bench depth.",
+        "reason": "Projected for 19.8 pts this week - +1.2 more than your weakest rostered D/ST, Jaguars D/ST (18.6 proj). This would actually start over your starting D/ST Jaguars D/ST (18.6 proj) - real points, not just bench depth.",
         "recent_form": null
       },
       {
         "name": "Chargers D/ST",
         "pro_team": "LAC",
-        "projected_points": 18.66,
-        "percent_owned": 21.64,
+        "projected_points": 18.67,
+        "percent_owned": 21.75,
         "beats_your_weakest_by": 0.1,
         "weakest_player": "Jaguars D/ST",
         "would_start_this_week": true,
@@ -236,7 +236,7 @@
         "name": "Andre Szmyt",
         "pro_team": "CLE",
         "projected_points": 19.23,
-        "percent_owned": 9.87,
+        "percent_owned": 10.08,
         "beats_your_weakest_by": 19.2,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
@@ -247,7 +247,7 @@
         "name": "Dominic Zvada",
         "pro_team": "NYG",
         "projected_points": 18.44,
-        "percent_owned": 36.56,
+        "percent_owned": 36.69,
         "beats_your_weakest_by": 18.4,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
@@ -258,7 +258,7 @@
         "name": "Drew Stevens",
         "pro_team": "WSH",
         "projected_points": 17.91,
-        "percent_owned": 6.81,
+        "percent_owned": 6.96,
         "beats_your_weakest_by": 17.9,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
@@ -273,21 +273,14 @@
       "position": "TE",
       "pro_team": "DEN",
       "projected_points": 7.04,
-      "sleeper_adds_24h": 95168
+      "sleeper_adds_24h": 78464
     },
     {
       "name": "Justice Hill",
       "position": "RB",
       "pro_team": "BAL",
       "projected_points": 10.6,
-      "sleeper_adds_24h": 90720
-    },
-    {
-      "name": "Jason Sanders",
-      "position": "K",
-      "pro_team": "NYJ",
-      "projected_points": 17.56,
-      "sleeper_adds_24h": 46015
+      "sleeper_adds_24h": 48816
     }
   ],
   "trade_reviews": []
