@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T21:00:03.829835+00:00",
+  "generated_at": "2026-11-27T07:03:39.891222+00:00",
   "week": 12,
   "my_team": "Fourth and Cole (CR)",
   "opponent_team": "The Advisors (MW)",
@@ -41,6 +41,14 @@
       "ref_id": "waiver_WR_0"
     },
     {
+      "category": "injury_watch",
+      "urgent": false,
+      "impact": 3,
+      "headline": "Saquon Barkley (RB): QUESTIONABLE",
+      "detail": "Stinger",
+      "ref_id": "injury_0"
+    },
+    {
       "category": "waiver",
       "urgent": false,
       "impact": 2.1,
@@ -52,12 +60,19 @@
       "category": "trending",
       "urgent": false,
       "impact": 0.5,
-      "headline": "Justice Hill (RB) is trending on Sleeper",
-      "detail": "186,444 adds in the last 24h - possibly worth a speculative add.",
+      "headline": "Evan Engram (TE) is trending on Sleeper",
+      "detail": "95,168 adds in the last 24h - possibly worth a speculative add.",
       "ref_id": null
     }
   ],
-  "injury_flags": [],
+  "injury_flags": [
+    {
+      "player": "Saquon Barkley",
+      "slot": "RB",
+      "reason": "QUESTIONABLE",
+      "detail": "Stinger"
+    }
+  ],
   "start_sit": [],
   "waiver_targets": {
     "QB": [
@@ -65,7 +80,7 @@
         "name": "J.J. McCarthy",
         "pro_team": "NYG",
         "projected_points": 31.11,
-        "percent_owned": 30.02,
+        "percent_owned": 30.63,
         "beats_your_weakest_by": 31.1,
         "weakest_player": "Lamar Jackson",
         "would_start_this_week": false,
@@ -79,7 +94,7 @@
         "name": "Fernando Mendoza",
         "pro_team": "LV",
         "projected_points": 30.5,
-        "percent_owned": 31.85,
+        "percent_owned": 32.5,
         "beats_your_weakest_by": 30.5,
         "weakest_player": "Lamar Jackson",
         "would_start_this_week": false,
@@ -93,7 +108,7 @@
         "name": "Joe Milton",
         "pro_team": "PHI",
         "projected_points": 29.91,
-        "percent_owned": 4.71,
+        "percent_owned": 4.78,
         "beats_your_weakest_by": 29.9,
         "weakest_player": "Lamar Jackson",
         "would_start_this_week": false,
@@ -109,7 +124,7 @@
         "name": "Dylan Sampson",
         "pro_team": "CLE",
         "projected_points": 12.53,
-        "percent_owned": 30.94,
+        "percent_owned": 31.57,
         "beats_your_weakest_by": 5.8,
         "weakest_player": "Keaton Mitchell",
         "would_start_this_week": false,
@@ -123,7 +138,7 @@
         "name": "Justice Hill",
         "pro_team": "BAL",
         "projected_points": 10.6,
-        "percent_owned": 34.62,
+        "percent_owned": 34.97,
         "beats_your_weakest_by": 3.8,
         "weakest_player": "Keaton Mitchell",
         "would_start_this_week": false,
@@ -137,7 +152,7 @@
         "name": "Austin Ekeler",
         "pro_team": "WSH",
         "projected_points": 10.09,
-        "percent_owned": 9.81,
+        "percent_owned": 10.13,
         "beats_your_weakest_by": 3.3,
         "weakest_player": "Keaton Mitchell",
         "would_start_this_week": false,
@@ -153,7 +168,7 @@
         "name": "Antonio Williams",
         "pro_team": "WSH",
         "projected_points": 13.52,
-        "percent_owned": 54.47,
+        "percent_owned": 55.4,
         "beats_your_weakest_by": 5.8,
         "weakest_player": "Xavier Worthy",
         "would_start_this_week": true,
@@ -167,7 +182,7 @@
         "name": "Caleb Douglas",
         "pro_team": "MIA",
         "projected_points": 12.5,
-        "percent_owned": 37.66,
+        "percent_owned": 37.85,
         "beats_your_weakest_by": 4.8,
         "weakest_player": "Xavier Worthy",
         "would_start_this_week": true,
@@ -181,7 +196,7 @@
         "name": "Tank Dell",
         "pro_team": "HOU",
         "projected_points": 10.49,
-        "percent_owned": 55.09,
+        "percent_owned": 54.87,
         "beats_your_weakest_by": 2.8,
         "weakest_player": "Xavier Worthy",
         "would_start_this_week": true,
@@ -197,7 +212,7 @@
         "name": "Commanders D/ST",
         "pro_team": "WSH",
         "projected_points": 20.68,
-        "percent_owned": 59.72,
+        "percent_owned": 60.89,
         "beats_your_weakest_by": 2.1,
         "weakest_player": "Jaguars D/ST",
         "would_start_this_week": true,
@@ -208,7 +223,7 @@
         "name": "Chargers D/ST",
         "pro_team": "LAC",
         "projected_points": 18.66,
-        "percent_owned": 21.26,
+        "percent_owned": 21.64,
         "beats_your_weakest_by": 0.1,
         "weakest_player": "Jaguars D/ST",
         "would_start_this_week": true,
@@ -221,7 +236,7 @@
         "name": "Andre Szmyt",
         "pro_team": "CLE",
         "projected_points": 19.23,
-        "percent_owned": 9.39,
+        "percent_owned": 9.87,
         "beats_your_weakest_by": 19.2,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
@@ -232,7 +247,7 @@
         "name": "Dominic Zvada",
         "pro_team": "NYG",
         "projected_points": 18.44,
-        "percent_owned": 36.32,
+        "percent_owned": 36.56,
         "beats_your_weakest_by": 18.4,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
@@ -243,7 +258,7 @@
         "name": "Drew Stevens",
         "pro_team": "WSH",
         "projected_points": 17.91,
-        "percent_owned": 6.57,
+        "percent_owned": 6.81,
         "beats_your_weakest_by": 17.9,
         "weakest_player": "Harrison Mevis",
         "would_start_this_week": true,
@@ -254,32 +269,25 @@
   },
   "trending_adds": [
     {
-      "name": "Justice Hill",
-      "position": "RB",
-      "pro_team": "BAL",
-      "projected_points": 10.6,
-      "sleeper_adds_24h": 186444
-    },
-    {
       "name": "Evan Engram",
       "position": "TE",
       "pro_team": "DEN",
       "projected_points": 7.04,
-      "sleeper_adds_24h": 88808
+      "sleeper_adds_24h": 95168
+    },
+    {
+      "name": "Justice Hill",
+      "position": "RB",
+      "pro_team": "BAL",
+      "projected_points": 10.6,
+      "sleeper_adds_24h": 90720
     },
     {
       "name": "Jason Sanders",
       "position": "K",
       "pro_team": "NYJ",
       "projected_points": 17.56,
-      "sleeper_adds_24h": 69270
-    },
-    {
-      "name": "Mason Rudolph",
-      "position": "QB",
-      "pro_team": "PIT",
-      "projected_points": 29.38,
-      "sleeper_adds_24h": 67546
+      "sleeper_adds_24h": 46015
     }
   ],
   "trade_reviews": []
