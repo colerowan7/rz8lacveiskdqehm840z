@@ -163,6 +163,7 @@ def weakest_eligible_starter(roster, position):
         p for p in roster
         if p["lineup_slot"] not in BENCH_SLOTS
         and position in FLEX_ELIGIBILITY.get(p["lineup_slot"], {p["position"]})
+        and proj(p) > 0  # a bye/out player scoring 0 isn't a real bar to beat
     ]
     return min(candidates, key=proj, default=None)
 
@@ -181,7 +182,7 @@ def waiver_targets(free_agents, roster, nflverse=None, capacity=None, top_n=3):
     targets = {}
     for pos in CORE_POSITIONS:
         mine = by_position.get(pos, [])
-        weakest = min(mine, key=proj, default=None)
+        weakest = min((p for p in mine if proj(p) > 0), key=proj, default=None)
         baseline = proj(weakest) if weakest else 0
         weakest_starter = weakest_eligible_starter(roster, pos)
         fa_pool = [f for f in free_agents if f["position"] == pos]
@@ -204,6 +205,8 @@ def waiver_targets(free_agents, roster, nflverse=None, capacity=None, top_n=3):
                     "beats_your_weakest_by": gain,
                     "weakest_player": weakest["name"] if weakest else None,
                     "would_start_this_week": would_start,
+                    "starter_gain": round(proj(f) - proj(weakest_starter), 1) if weakest_starter else gain,
+                    "replaces_starter": weakest_starter["name"] if weakest_starter else None,
                     "reason": waiver_reason(f, pos, weakest, gain, nv, capacity, weakest_starter, would_start),
                     "recent_form": {
                         "avg_fantasy_points_ppr": nv["avg_fantasy_points_ppr"],
@@ -387,18 +390,27 @@ def build_top_actions(injury_flags_, start_sit_, waiver_targets_, trending_adds_
             "ref_id": f"injury_{i}",
         })
 
+    # Several adds can target the same starting slot (e.g. one flex spot);
+    # only the best one per slot is a real action, the rest are redundant.
+    best_by_slot = {}
     for pos, players in waiver_targets_.items():
-        starters_only = [p for p in players if p["would_start_this_week"]]
-        if starters_only:
-            best = starters_only[0]
-            actions.append({
-                "category": "waiver",
-                "urgent": False,
-                "impact": best["beats_your_weakest_by"],
-                "headline": f"Add {best['name']} ({pos}) - would start immediately",
-                "detail": best["reason"],
-                "ref_id": f"waiver_{pos}_{players.index(best)}",
-            })
+        for idx, p in enumerate(players):
+            if not p["would_start_this_week"]:
+                continue
+            slot_key = p.get("replaces_starter") or f"open-{pos}"
+            if slot_key not in best_by_slot or p["starter_gain"] > best_by_slot[slot_key][1]["starter_gain"]:
+                best_by_slot[slot_key] = (pos, p, idx)
+    for pos, best, idx in best_by_slot.values():
+        if best["starter_gain"] < 1.0:
+            continue  # a sub-1-point edge isn't worth a roster move
+        actions.append({
+            "category": "waiver",
+            "urgent": False,
+            "impact": best["starter_gain"],
+            "headline": f"Add {best['name']} ({pos}) - would start immediately",
+            "detail": best["reason"],
+            "ref_id": f"waiver_{pos}_{idx}",
+        })
 
     if trending_adds_:
         t = trending_adds_[0]
